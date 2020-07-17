@@ -20,3 +20,5 @@
 </p>
 
 ![YouTube gif](https://github.com/eddiejaoude/eddiejaoude/raw/master/discord-x8-1080.gif)
+
+![Eddie Jaoude GitHub statistic](https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true)
