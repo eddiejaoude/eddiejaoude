@@ -4,3 +4,4 @@
 
 ![Twitter](https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge)
+![GitHub](https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge)
