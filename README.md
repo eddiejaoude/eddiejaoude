@@ -16,3 +16,5 @@
     <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
+
+![YouTube gif](https://github.com/eddiejaoude/eddiejaoude/raw/master/discord-x8-1080.gif)
