@@ -2,7 +2,7 @@
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
-<p align="center">Passionate for **#opensource #code #github #remote #startup** & **#inclusion**. In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+<p align="center">Passionate for <b> #opensource </b> #code #github #remote #startup & #inclusion. In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
 
 <p align="center">
   <a href="https://github.com/eddiejaoude?tab=followers">
