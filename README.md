@@ -1,41 +1,41 @@
-![Eddie Jaoude](https://user-images.githubusercontent.com/624760/87244208-890e1880-c433-11ea-8383-3ea0704104b7.png)
+1. ❗️ Closed issue [#169](https://github.com//EddieJaoudeCommunity/EddieBot/issues/169) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 
-<p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
+2. ❗️ Opened issue [#169](https://github.com//EddieJaoudeCommunity/EddieBot/issues/169) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 
-<p align="center">Passionate for 
-  <b> 
-    <u><a href="https://twitter.com/hashtag/opensource/">#opensource </a></u> 
-    <u><a href="https://twitter.com/hashtag/code/">#code </a></u> 
-    <u><a href="https://twitter.com/hashtag/github/">#github </a></u> 
-    <u><a href="https://twitter.com/hashtag/remote/">#remote </a></u> 
-    <u><a href="https://twitter.com/hashtag/startup/">#startup </a></u>
-  </b> 
-  & 
-  <b> 
-     <u><a href="https://twitter.com/hashtag/inclusion/">#inclusion </a></u> 
-  </b>. 
-  In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+3. 🎉 Merged PR [#36](https://github.com//EddieJaoudeCommunity/support/pull/36) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#37](https://github.com//EddieJaoudeCommunity/support/issues/37) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. ❗️ Opened issue [#37](https://github.com//EddieJaoudeCommunity/support/issues/37) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+6. undefined
+7. undefined
+8. undefined
+9. undefined
+10. undefined
+11. undefined
+12. undefined
+13. undefined
+14. undefined
+15. undefined
 
-<p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
-    <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
-  </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
-</p>
+16. undefined
+17. undefined
+18. undefined
+19. undefined
+20. undefined
+21. undefined
+22. undefined
+23. undefined
+24. undefined
+25. undefined
+26. undefined
+27. undefined
+28. undefined
+29. undefined
 
-<table width="100%"> 
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/624760/87853406-a34b6900-c901-11ea-834b-07d90ca3d4fa.gif" alt="Eddie teaching code on YouTube" /></td>
-    <td><img src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" /></td>
-  </tr>
-</table>
+30. undefined
+31. undefined
+32. undefined
+33. undefined
+34. undefined
+35. undefined
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
+36. undefined
