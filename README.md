@@ -41,9 +41,9 @@
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. ❗️ Opened issue [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. ❗️ Closed issue [#38](https://github.com//EddieJaoudeCommunity/support/issues/38) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#38](https://github.com//EddieJaoudeCommunity/support/issues/38) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 💪 Opened PR [#6](https://github.com//JasonEtco/readme-box/pull/6) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
+2. ❗️ Opened issue [#5](https://github.com//JasonEtco/readme-box/issues/5) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
+3. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
