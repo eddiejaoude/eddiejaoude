@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com//eddiejaoude/github-actions-reader-writer/issues/1) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
