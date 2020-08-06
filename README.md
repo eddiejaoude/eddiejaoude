@@ -41,9 +41,9 @@
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com//EddieJaoudeCommunity/support/issues/41) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. ❗️ Closed issue [#2](https://github.com//EddieJaoudeCommunity/support/issues/2) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#2](https://github.com//EddieJaoudeCommunity/support/issues/2) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#1](https://github.com//EddieJaoudeCommunity/support/issues/1) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. 🎉 Merged PR [#51](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/51) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#75](https://github.com//eddiejaoude/hacktoberfest-practice/issues/75) in [eddiejaoude/hacktoberfest-practice](https://github.com//eddiejaoude/hacktoberfest-practice)
+2. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/52) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+3. ❗️ Opened issue [#41](https://github.com//EddieJaoudeCommunity/support/issues/41) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#2](https://github.com//EddieJaoudeCommunity/support/issues/2) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#2](https://github.com//EddieJaoudeCommunity/support/issues/2) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
