@@ -1,11 +1,10 @@
 ![Eddie Jaoude](https://user-images.githubusercontent.com/624760/87244208-890e1880-c433-11ea-8383-3ea0704104b7.png)
 
-<p align="center">
-  I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥
+<p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
-  Selected for the GitHub Star program https://stars.github.com/profiles
+<p align="center">Part of the GitHub Star program https://stars.github.com/profiles</a>
 
-  In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+<p align="center">In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
 </p>
 
 <p align="center">
