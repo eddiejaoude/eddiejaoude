@@ -41,9 +41,9 @@
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com//EddieJaoudeCommunity/support/issues/43) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#43](https://github.com//EddieJaoudeCommunity/support/issues/43) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#42](https://github.com//EddieJaoudeCommunity/support/issues/42) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#39](https://github.com//EddieJaoudeCommunity/support/issues/39) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#75](https://github.com//eddiejaoude/hacktoberfest-practice/issues/75) in [eddiejaoude/hacktoberfest-practice](https://github.com//eddiejaoude/hacktoberfest-practice)
+1. ❗️ Opened issue [#1](https://github.com//eddiejaoude/github-actions-reader-writer/issues/1) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
+2. ❗️ Closed issue [#43](https://github.com//EddieJaoudeCommunity/support/issues/43) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#43](https://github.com//EddieJaoudeCommunity/support/issues/43) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#42](https://github.com//EddieJaoudeCommunity/support/issues/42) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#39](https://github.com//EddieJaoudeCommunity/support/issues/39) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
