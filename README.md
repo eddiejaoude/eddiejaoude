@@ -41,9 +41,9 @@
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 💪 Opened PR [#6](https://github.com//JasonEtco/readme-box/pull/6) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
-4. ❗️ Opened issue [#5](https://github.com//JasonEtco/readme-box/issues/5) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
-5. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 🎉 Merged PR [#51](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/51) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+2. ❗️ Closed issue [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/support/issues/40) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 💪 Opened PR [#6](https://github.com//JasonEtco/readme-box/pull/6) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
+5. ❗️ Opened issue [#5](https://github.com//JasonEtco/readme-box/issues/5) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
 <!--END_SECTION:activity-->
