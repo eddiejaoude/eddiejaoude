@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//eddiejaoude/github-actions-reader-writer/issues/1) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
-2. ❗️ Closed issue [#43](https://github.com//EddieJaoudeCommunity/support/issues/43) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#43](https://github.com//EddieJaoudeCommunity/support/issues/43) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#42](https://github.com//EddieJaoudeCommunity/support/issues/42) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#39](https://github.com//EddieJaoudeCommunity/support/issues/39) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 💪 Opened PR [#53](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/53) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/52) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+3. ❗️ Opened issue [#1](https://github.com//eddiejaoude/github-actions-reader-writer/issues/1) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
+4. ❗️ Closed issue [#43](https://github.com//EddieJaoudeCommunity/support/issues/43) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#43](https://github.com//EddieJaoudeCommunity/support/issues/43) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
