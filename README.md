@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com//eddiejaoude/book-open-source-tips/pull/115) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
-2. ❗️ Closed issue [#105](https://github.com//eddiejaoude/book-open-source-tips/issues/105) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
-3. 🗣 Commented on [#44](https://github.com//EddieJaoudeCommunity/support/issues/44) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#42](https://github.com//EddieJaoudeCommunity/support/issues/42) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. ❗️ Closed issue [#47](https://github.com//EddieJaoudeCommunity/support/issues/47) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#47](https://github.com//EddieJaoudeCommunity/support/issues/47) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🎉 Merged PR [#115](https://github.com//eddiejaoude/book-open-source-tips/pull/115) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
+4. ❗️ Closed issue [#105](https://github.com//eddiejaoude/book-open-source-tips/issues/105) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
 5. 🗣 Commented on [#44](https://github.com//EddieJaoudeCommunity/support/issues/44) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
