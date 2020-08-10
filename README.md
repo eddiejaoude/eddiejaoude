@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/support/issues/52) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. ❗️ Closed issue [#55](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/55) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-3. ❗️ Opened issue [#55](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/55) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#171](https://github.com//EddieJaoudeCommunity/EddieBot/issues/171) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#1](https://github.com//stemount/stemount/issues/1) in [stemount/stemount](https://github.com//stemount/stemount)
+1. ❗️ Closed issue [#53](https://github.com//EddieJaoudeCommunity/support/issues/53) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#53](https://github.com//EddieJaoudeCommunity/support/issues/53) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/support/issues/52) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#55](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/55) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+5. ❗️ Opened issue [#55](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/55) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
