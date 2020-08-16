@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/85) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#69](https://github.com//EddieJaoudeCommunity/support/issues/69) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#154](https://github.com//EddieJaoudeCommunity/EddieBot/issues/154) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#82](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#67](https://github.com//EddieJaoudeCommunity/support/issues/67) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#86](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/86) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#87](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/87) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#85](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/85) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#69](https://github.com//EddieJaoudeCommunity/support/issues/69) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#154](https://github.com//EddieJaoudeCommunity/EddieBot/issues/154) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
