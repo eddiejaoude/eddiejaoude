@@ -33,8 +33,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#67](https://github.com//EddieJaoudeCommunity/support/issues/67) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. ❗️ Closed issue [#79](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/79) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#79](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/79) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. ❗️ Opened issue [#82](https://github.com//eddiejaoude/hacktoberfest-practice/issues/82) in [eddiejaoude/hacktoberfest-practice](https://github.com//eddiejaoude/hacktoberfest-practice)
-5. 🗣 Commented on [#81](https://github.com//eddiejaoude/hacktoberfest-practice/issues/81) in [eddiejaoude/hacktoberfest-practice](https://github.com//eddiejaoude/hacktoberfest-practice)
+2. 🗣 Commented on [#67](https://github.com//EddieJaoudeCommunity/support/issues/67) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#79](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/79) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#79](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/79) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. ❗️ Opened issue [#82](https://github.com//eddiejaoude/hacktoberfest-practice/issues/82) in [eddiejaoude/hacktoberfest-practice](https://github.com//eddiejaoude/hacktoberfest-practice)
 <!--END_SECTION:activity-->
