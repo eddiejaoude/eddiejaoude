@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com//EddieJaoudeCommunity/support/issues/67) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#67](https://github.com//EddieJaoudeCommunity/support/issues/67) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. ❗️ Closed issue [#79](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/79) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#79](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/79) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. ❗️ Opened issue [#82](https://github.com//eddiejaoude/hacktoberfest-practice/issues/82) in [eddiejaoude/hacktoberfest-practice](https://github.com//eddiejaoude/hacktoberfest-practice)
+1. 🎉 Merged PR [#84](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/84) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#57](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/57) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#83](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/83) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#67](https://github.com//EddieJaoudeCommunity/support/issues/67) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#67](https://github.com//EddieJaoudeCommunity/support/issues/67) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
