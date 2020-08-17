@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/60) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#60](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/60) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#1](https://github.com//eddiejaoude/LiveStream-CodeSpaces-Demo/issues/1) in [eddiejaoude/LiveStream-CodeSpaces-Demo](https://github.com//eddiejaoude/LiveStream-CodeSpaces-Demo)
-4. 🗣 Commented on [#81](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/81) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 💪 Opened PR [#40](https://github.com//SamsungInternet/samsunginternet.github.io/pull/40) in [SamsungInternet/samsunginternet.github.io](https://github.com//SamsungInternet/samsunginternet.github.io)
+1. 🗣 Commented on [#185](https://github.com//EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#184](https://github.com//EddieJaoudeCommunity/EddieBot/issues/184) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#184](https://github.com//EddieJaoudeCommunity/EddieBot/issues/184) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. 🎉 Merged PR [#60](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/60) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#60](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/60) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
