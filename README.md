@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com//EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#184](https://github.com//EddieJaoudeCommunity/EddieBot/issues/184) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#184](https://github.com//EddieJaoudeCommunity/EddieBot/issues/184) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 🎉 Merged PR [#60](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/60) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#60](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/60) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#3](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/3) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. ❗️ Opened issue [#2](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/2) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. ❗️ Opened issue [#1](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/1) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#185](https://github.com//EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#184](https://github.com//EddieJaoudeCommunity/EddieBot/issues/184) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
