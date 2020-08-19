@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/96) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#63](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/63) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#184](https://github.com//EddieJaoudeCommunity/EddieBot/issues/184) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 🎉 Merged PR [#88](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/88) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. ❗️ Closed issue [#81](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/81) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. ❌ Closed PR [#193](https://github.com//EddieJaoudeCommunity/EddieBot/pull/193) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#193](https://github.com//EddieJaoudeCommunity/EddieBot/issues/193) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. 🎉 Merged PR [#180](https://github.com//EddieJaoudeCommunity/EddieBot/pull/180) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. 🎉 Merged PR [#195](https://github.com//EddieJaoudeCommunity/EddieBot/pull/195) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#179](https://github.com//EddieJaoudeCommunity/EddieBot/issues/179) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
