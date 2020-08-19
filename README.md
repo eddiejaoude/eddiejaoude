@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/3) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#3](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/3) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#81](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/81) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#93](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/93) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. ❌ Closed PR [#92](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/92) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#4](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/4) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#92](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/92) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#3](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/3) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#3](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/3) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#81](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/81) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
