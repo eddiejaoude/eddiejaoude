@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#193](https://github.com//EddieJaoudeCommunity/EddieBot/pull/193) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#193](https://github.com//EddieJaoudeCommunity/EddieBot/issues/193) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. 🎉 Merged PR [#180](https://github.com//EddieJaoudeCommunity/EddieBot/pull/180) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 🎉 Merged PR [#195](https://github.com//EddieJaoudeCommunity/EddieBot/pull/195) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#179](https://github.com//EddieJaoudeCommunity/EddieBot/issues/179) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. 🎉 Merged PR [#20](https://github.com//EddieJaoudeCommunity/EddieBotMap/pull/20) in [EddieJaoudeCommunity/EddieBotMap](https://github.com//EddieJaoudeCommunity/EddieBotMap)
+2. ❗️ Closed issue [#19](https://github.com//EddieJaoudeCommunity/EddieBotMap/issues/19) in [EddieJaoudeCommunity/EddieBotMap](https://github.com//EddieJaoudeCommunity/EddieBotMap)
+3. 🗣 Commented on [#20](https://github.com//EddieJaoudeCommunity/EddieBotMap/issues/20) in [EddieJaoudeCommunity/EddieBotMap](https://github.com//EddieJaoudeCommunity/EddieBotMap)
+4. 🎉 Merged PR [#99](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/99) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#95](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/95) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
