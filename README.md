@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com//EddieJaoudeCommunity/EddieBotMap/pull/20) in [EddieJaoudeCommunity/EddieBotMap](https://github.com//EddieJaoudeCommunity/EddieBotMap)
-2. ❗️ Closed issue [#19](https://github.com//EddieJaoudeCommunity/EddieBotMap/issues/19) in [EddieJaoudeCommunity/EddieBotMap](https://github.com//EddieJaoudeCommunity/EddieBotMap)
-3. 🗣 Commented on [#20](https://github.com//EddieJaoudeCommunity/EddieBotMap/issues/20) in [EddieJaoudeCommunity/EddieBotMap](https://github.com//EddieJaoudeCommunity/EddieBotMap)
-4. 🎉 Merged PR [#99](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/99) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#95](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/95) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#100](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/100) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#15](https://github.com//EddieJaoudeCommunity/EddieBotUI/pull/15) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+3. ❗️ Closed issue [#14](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/14) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+4. 🎉 Merged PR [#101](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/101) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#185](https://github.com//EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
