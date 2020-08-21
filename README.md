@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/103) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#83](https://github.com//EddieJaoudeCommunity/support/issues/83) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#82](https://github.com//EddieJaoudeCommunity/support/issues/82) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#10](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/10) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 🗣 Commented on [#185](https://github.com//EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. ❗️ Closed issue [#84](https://github.com//EddieJaoudeCommunity/support/issues/84) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#84](https://github.com//EddieJaoudeCommunity/support/issues/84) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#103](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/103) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#103](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/103) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#83](https://github.com//EddieJaoudeCommunity/support/issues/83) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
