@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#104](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/104) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#106](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/106) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#105](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/105) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. ❗️ Closed issue [#85](https://github.com//EddieJaoudeCommunity/support/issues/85) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#85](https://github.com//EddieJaoudeCommunity/support/issues/85) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#11](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/11) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#182](https://github.com//EddieJaoudeCommunity/EddieBot/issues/182) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. ❗️ Closed issue [#104](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/104) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#106](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/106) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#105](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/105) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
