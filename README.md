@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#198](https://github.com//EddieJaoudeCommunity/EddieBot/issues/198) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#11](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/11) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#182](https://github.com//EddieJaoudeCommunity/EddieBot/issues/182) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. ❗️ Closed issue [#104](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/104) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#106](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/106) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#154](https://github.com//EddieJaoudeCommunity/EddieBot/issues/154) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. 🎉 Merged PR [#154](https://github.com//EddieJaoudeCommunity/EddieBot/pull/154) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. ❗️ Closed issue [#98](https://github.com//EddieJaoudeCommunity/EddieBot/issues/98) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. ❗️ Opened issue [#198](https://github.com//EddieJaoudeCommunity/EddieBot/issues/198) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#11](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/11) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
