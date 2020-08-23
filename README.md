@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com//EddieJaoudeCommunity/EddieBot/issues/197) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-2. 🎉 Merged PR [#181](https://github.com//EddieJaoudeCommunity/EddieBot/pull/181) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#181](https://github.com//EddieJaoudeCommunity/EddieBot/issues/181) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#138](https://github.com//EddieJaoudeCommunity/EddieBot/issues/138) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#138](https://github.com//EddieJaoudeCommunity/EddieBot/issues/138) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. ❗️ Closed issue [#187](https://github.com//EddieJaoudeCommunity/EddieBot/issues/187) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#187](https://github.com//EddieJaoudeCommunity/EddieBot/issues/187) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#5](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/5) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#5](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/5) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#197](https://github.com//EddieJaoudeCommunity/EddieBot/issues/197) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
