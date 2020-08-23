@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/17) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. ❗️ Closed issue [#17](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/17) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#17](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/17) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🗣 Commented on [#89](https://github.com//EddieJaoudeCommunity/support/issues/89) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#90](https://github.com//EddieJaoudeCommunity/support/issues/90) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#15](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/15) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#15](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/15) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🎉 Merged PR [#200](https://github.com//EddieJaoudeCommunity/EddieBot/pull/200) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. ❗️ Closed issue [#196](https://github.com//EddieJaoudeCommunity/EddieBot/issues/196) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#200](https://github.com//EddieJaoudeCommunity/EddieBot/issues/200) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
