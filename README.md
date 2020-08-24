@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com//EddieJaoudeCommunity/support/issues/83) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#15](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/15) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. ❗️ Opened issue [#65](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/65) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/19) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/19) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#83](https://github.com//EddieJaoudeCommunity/support/issues/83) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 4. 🗣 Commented on [#15](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/15) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 🗣 Commented on [#93](https://github.com//EddieJaoudeCommunity/support/issues/93) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. ❗️ Opened issue [#65](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/65) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
