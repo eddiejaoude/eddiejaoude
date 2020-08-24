@@ -33,8 +33,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/19) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/19) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#83](https://github.com//EddieJaoudeCommunity/support/issues/83) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#15](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/15) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. ❗️ Opened issue [#65](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/65) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#53](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/53) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/19) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. ❗️ Opened issue [#66](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/66) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/19) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
