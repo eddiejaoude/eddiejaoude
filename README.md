@@ -34,7 +34,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com//eddiejaoude/github-actions-reader-writer/issues/2) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
 2. 🗣 Commented on [#2](https://github.com//eddiejaoude/github-actions-reader-writer/issues/2) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
-3. ❗️ Opened issue [#67](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/67) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#2](https://github.com//eddiejaoude/github-actions-reader-writer/issues/2) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
-5. 🗣 Commented on [#21](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/21) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#2](https://github.com//eddiejaoude/github-actions-reader-writer/issues/2) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
+4. ❗️ Opened issue [#67](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/67) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+5. ❗️ Opened issue [#2](https://github.com//eddiejaoude/github-actions-reader-writer/issues/2) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
 <!--END_SECTION:activity-->
