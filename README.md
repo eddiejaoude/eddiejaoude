@@ -32,9 +32,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com//eddiejaoude/github-actions-reader-writer/pull/4) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
-2. 🗣 Commented on [#3](https://github.com//eddiejaoude/github-actions-reader-writer/issues/3) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
-3. 💪 Opened PR [#68](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/68) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-4. 💪 Opened PR [#4](https://github.com//eddiejaoude/github-actions-reader-writer/pull/4) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
-5. 🗣 Commented on [#2](https://github.com//eddiejaoude/github-actions-reader-writer/issues/2) in [eddiejaoude/github-actions-reader-writer](https://github.com//eddiejaoude/github-actions-reader-writer)
+1. 🎉 Merged PR [#95](https://github.com//EddieJaoudeCommunity/support/pull/95) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#6](https://github.com//eddiejaoude/gh-actions-html-table-generator/issues/6) in [eddiejaoude/gh-actions-html-table-generator](https://github.com//eddiejaoude/gh-actions-html-table-generator)
+3. ❗️ Closed issue [#6](https://github.com//eddiejaoude/gh-actions-html-table-generator/issues/6) in [eddiejaoude/gh-actions-html-table-generator](https://github.com//eddiejaoude/gh-actions-html-table-generator)
+4. ❗️ Opened issue [#6](https://github.com//eddiejaoude/gh-actions-html-table-generator/issues/6) in [eddiejaoude/gh-actions-html-table-generator](https://github.com//eddiejaoude/gh-actions-html-table-generator)
+5. ❗️ Closed issue [#67](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/67) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
