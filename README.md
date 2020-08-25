@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com//EddieJaoudeCommunity/support/pull/95) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#6](https://github.com//eddiejaoude/gh-actions-html-table-generator/issues/6) in [eddiejaoude/gh-actions-html-table-generator](https://github.com//eddiejaoude/gh-actions-html-table-generator)
-3. ❗️ Closed issue [#6](https://github.com//eddiejaoude/gh-actions-html-table-generator/issues/6) in [eddiejaoude/gh-actions-html-table-generator](https://github.com//eddiejaoude/gh-actions-html-table-generator)
-4. ❗️ Opened issue [#6](https://github.com//eddiejaoude/gh-actions-html-table-generator/issues/6) in [eddiejaoude/gh-actions-html-table-generator](https://github.com//eddiejaoude/gh-actions-html-table-generator)
-5. ❗️ Closed issue [#67](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/67) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+1. ❗️ Closed issue [#15](https://github.com//eddiejaoude/eddiejaoude/issues/15) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+2. 🎉 Merged PR [#14](https://github.com//eddiejaoude/eddiejaoude/pull/14) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+3. 🗣 Commented on [#14](https://github.com//eddiejaoude/eddiejaoude/issues/14) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+4. 🗣 Commented on [#14](https://github.com//eddiejaoude/eddiejaoude/issues/14) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+5. 🎉 Merged PR [#95](https://github.com//EddieJaoudeCommunity/support/pull/95) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
