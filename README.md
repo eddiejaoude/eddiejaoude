@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com//EddieJaoudeCommunity/EddieBot/issues/133) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#201](https://github.com//EddieJaoudeCommunity/EddieBot/issues/201) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. 🎉 Merged PR [#17](https://github.com//EddieJaoudeCommunity/EddieBotUI/pull/17) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
-4. ❗️ Closed issue [#16](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/16) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
-5. ❗️ Closed issue [#15](https://github.com//eddiejaoude/eddiejaoude/issues/15) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+1. 🎉 Merged PR [#23](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/23) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. ❗️ Closed issue [#22](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/22) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🎉 Merged PR [#70](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/70) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#70](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/70) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#18](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/18) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
 <!--END_SECTION:activity-->
