@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/23) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. ❗️ Closed issue [#22](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/22) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🎉 Merged PR [#70](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/70) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#70](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/70) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#18](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/18) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+1. 🗣 Commented on [#1](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/1) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#24](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/24) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🎉 Merged PR [#23](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/23) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. ❗️ Closed issue [#22](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/22) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🎉 Merged PR [#70](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/70) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
