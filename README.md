@@ -4,7 +4,7 @@
 
 <p align="center"><b>Part of the GitHub Stars program https://stars.github.com/profiles</b></p>
 
-<p align="center">In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+<p align="center">In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular, etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realize how much I still need to learn.</p>
 </p>
 
 <p align="center">
