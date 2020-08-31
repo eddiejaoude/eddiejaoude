@@ -27,7 +27,7 @@
   <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
 </p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com//EddieJaoudeCommunity/support/issues/3) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
