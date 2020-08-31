@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#115](https://github.com//EddieJaoudeCommunity/support/issues/115) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#115](https://github.com//EddieJaoudeCommunity/support/issues/115) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. ❗️ Closed issue [#114](https://github.com//EddieJaoudeCommunity/support/issues/114) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#114](https://github.com//EddieJaoudeCommunity/support/issues/114) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#112](https://github.com//EddieJaoudeCommunity/support/issues/112) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#34](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/34) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. ❗️ Closed issue [#130](https://github.com//EddieJaoudeCommunity/support/issues/130) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#130](https://github.com//EddieJaoudeCommunity/support/issues/130) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#129](https://github.com//EddieJaoudeCommunity/support/issues/129) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#129](https://github.com//EddieJaoudeCommunity/support/issues/129) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
