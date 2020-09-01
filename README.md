@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/35) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/35) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🎉 Merged PR [#205](https://github.com//EddieJaoudeCommunity/EddieBot/pull/205) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. ❗️ Closed issue [#147](https://github.com//EddieJaoudeCommunity/EddieBot/issues/147) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🎉 Merged PR [#17](https://github.com//eddiejaoude/eddiejaoude/pull/17) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+1. 🎉 Merged PR [#7](https://github.com//eddiejaoude/gh-actions-html-table-generator/pull/7) in [eddiejaoude/gh-actions-html-table-generator](https://github.com//eddiejaoude/gh-actions-html-table-generator)
+2. 🗣 Commented on [#134](https://github.com//EddieJaoudeCommunity/support/issues/134) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/35) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/35) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🎉 Merged PR [#205](https://github.com//EddieJaoudeCommunity/EddieBot/pull/205) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
