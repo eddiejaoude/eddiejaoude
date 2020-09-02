@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/112) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#139](https://github.com//EddieJaoudeCommunity/support/issues/139) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. ❗️ Closed issue [#139](https://github.com//EddieJaoudeCommunity/support/issues/139) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#139](https://github.com//EddieJaoudeCommunity/support/issues/139) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. ❌ Closed PR [#118](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/118) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#41](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/41) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🎉 Merged PR [#41](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/41) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. ❗️ Closed issue [#16](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/16) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. ❗️ Closed issue [#142](https://github.com//EddieJaoudeCommunity/support/issues/142) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#142](https://github.com//EddieJaoudeCommunity/support/issues/142) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
