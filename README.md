@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//eddiejaoude/github-slideshow/pull/3) in [eddiejaoude/github-slideshow](https://github.com//eddiejaoude/github-slideshow)
-2. 💪 Opened PR [#3](https://github.com//eddiejaoude/github-slideshow/pull/3) in [eddiejaoude/github-slideshow](https://github.com//eddiejaoude/github-slideshow)
-3. ❗️ Closed issue [#1](https://github.com//eddiejaoude/github-slideshow/issues/1) in [eddiejaoude/github-slideshow](https://github.com//eddiejaoude/github-slideshow)
-4. 🗣 Commented on [#208](https://github.com//EddieJaoudeCommunity/EddieBot/issues/208) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. ❗️ Closed issue [#45](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/45) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 💪 Opened PR [#2](https://github.com//eddiejaoude/hello-github-actions/pull/2) in [eddiejaoude/hello-github-actions](https://github.com//eddiejaoude/hello-github-actions)
+2. 🎉 Merged PR [#3](https://github.com//eddiejaoude/github-slideshow/pull/3) in [eddiejaoude/github-slideshow](https://github.com//eddiejaoude/github-slideshow)
+3. 💪 Opened PR [#3](https://github.com//eddiejaoude/github-slideshow/pull/3) in [eddiejaoude/github-slideshow](https://github.com//eddiejaoude/github-slideshow)
+4. ❗️ Closed issue [#1](https://github.com//eddiejaoude/github-slideshow/issues/1) in [eddiejaoude/github-slideshow](https://github.com//eddiejaoude/github-slideshow)
+5. 🗣 Commented on [#208](https://github.com//EddieJaoudeCommunity/EddieBot/issues/208) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
