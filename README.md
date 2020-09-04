@@ -31,8 +31,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🎉 Merged PR [#53](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/53) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 3. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🗣 Commented on [#119](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/119) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#77](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/77) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+4. 💪 Opened PR [#53](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/53) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
