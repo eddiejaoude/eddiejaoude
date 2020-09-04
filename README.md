@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🎉 Merged PR [#53](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/53) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 💪 Opened PR [#53](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/53) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#54](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/54) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🎉 Merged PR [#53](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/53) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#52](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/52) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 💪 Opened PR [#53](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/53) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
