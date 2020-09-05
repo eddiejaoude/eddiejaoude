@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/10) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. ❗️ Closed issue [#9](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/9) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. ❗️ Opened issue [#9](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/9) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-4. ❗️ Closed issue [#8](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/8) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-5. ❗️ Opened issue [#8](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/8) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+1. ❗️ Closed issue [#14](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/14) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. ❗️ Opened issue [#14](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/14) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. ❗️ Closed issue [#13](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/13) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+4. ❗️ Opened issue [#13](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/13) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+5. ❗️ Closed issue [#12](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/12) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
 <!--END_SECTION:activity-->
