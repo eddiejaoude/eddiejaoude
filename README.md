@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/50) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#210](https://github.com//EddieJaoudeCommunity/EddieBot/issues/210) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-4. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-5. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+1. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. 🗣 Commented on [#50](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/50) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#50](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/50) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#210](https://github.com//EddieJaoudeCommunity/EddieBot/issues/210) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
