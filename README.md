@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/50) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🎉 Merged PR [#121](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/121) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. ❌ Closed PR [#47](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/47) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#47](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/47) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-5. ❌ Closed PR [#19](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/19) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#3](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/3) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. ❗️ Closed issue [#2](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/2) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. ❗️ Opened issue [#2](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/2) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+4. ❗️ Opened issue [#1](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/1) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+5. 🗣 Commented on [#50](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/50) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
