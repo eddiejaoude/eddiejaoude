@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/121) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. ❌ Closed PR [#47](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/47) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#47](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/47) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-4. ❌ Closed PR [#19](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/19) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/19) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#50](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/50) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🎉 Merged PR [#121](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/121) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. ❌ Closed PR [#47](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/47) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#47](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/47) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+5. ❌ Closed PR [#19](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/19) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
