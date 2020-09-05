@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. ❗️ Opened issue [#18](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/18) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. ❗️ Closed issue [#17](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/17) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-4. ❗️ Opened issue [#17](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/17) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-5. 🗣 Commented on [#50](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/50) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+4. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+5. 🗣 Commented on [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
 <!--END_SECTION:activity-->
