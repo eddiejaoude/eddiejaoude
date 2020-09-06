@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/40) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. ❗️ Opened issue [#40](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/40) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/35) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+1. ❗️ Closed issue [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. 🗣 Commented on [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. 🎉 Merged PR [#124](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/124) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 4. 🗣 Commented on [#124](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/124) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#38](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/38) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+5. 🗣 Commented on [#124](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/124) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
