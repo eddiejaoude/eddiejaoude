@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/28) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. 🎉 Merged PR [#27](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/27) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. ❌ Reopened PR [#27](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/27) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-4. ❌ Closed PR [#27](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/27) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-5. 🗣 Commented on [#27](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/27) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+1. ❗️ Closed issue [#30](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/30) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. ❗️ Closed issue [#29](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/29) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. ❗️ Opened issue [#30](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/30) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+4. 🗣 Commented on [#29](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/29) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+5. ❗️ Opened issue [#29](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/29) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
 <!--END_SECTION:activity-->
