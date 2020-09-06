@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/25) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. ❗️ Closed issue [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. 🗣 Commented on [#210](https://github.com//EddieJaoudeCommunity/EddieBot/issues/210) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#185](https://github.com//EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#211](https://github.com//EddieJaoudeCommunity/EddieBot/issues/211) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. ❗️ Closed issue [#18](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/18) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. ❗️ Opened issue [#25](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/25) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. ❗️ Closed issue [#19](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/19) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+4. 🗣 Commented on [#210](https://github.com//EddieJaoudeCommunity/EddieBot/issues/210) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#185](https://github.com//EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
