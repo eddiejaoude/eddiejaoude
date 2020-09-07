@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/125) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/35) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. 🗣 Commented on [#125](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/125) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#126](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/126) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#125](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/125) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/35) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
 4. 🗣 Commented on [#125](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/125) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#119](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/119) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#125](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/125) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
