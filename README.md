@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com//EddieJaoudeCommunity/support/pull/152) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. ❗️ Closed issue [#153](https://github.com//EddieJaoudeCommunity/support/issues/153) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. ❗️ Opened issue [#153](https://github.com//EddieJaoudeCommunity/support/issues/153) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#43](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/43) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-5. 🎉 Merged PR [#126](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/126) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. ❗️ Closed issue [#48](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/48) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+2. 🎉 Merged PR [#85](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/85) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#213](https://github.com//EddieJaoudeCommunity/EddieBot/pull/213) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. ❗️ Closed issue [#210](https://github.com//EddieJaoudeCommunity/EddieBot/issues/210) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🎉 Merged PR [#152](https://github.com//EddieJaoudeCommunity/support/pull/152) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
