@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/51) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. 💪 Opened PR [#51](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/51) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. ❗️ Opened issue [#50](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/50) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-4. ❗️ Closed issue [#49](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/49) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-5. ❗️ Opened issue [#49](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/49) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+1. ❗️ Closed issue [#88](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/88) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
+2. ❗️ Closed issue [#77](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/77) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
+3. ❗️ Closed issue [#86](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/86) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
+4. ❗️ Closed issue [#92](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/92) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
+5. ❗️ Closed issue [#96](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/96) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
 <!--END_SECTION:activity-->
