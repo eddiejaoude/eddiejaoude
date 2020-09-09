@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/87) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-2. ❗️ Closed issue [#86](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/86) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#42](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/42) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-4. ❗️ Closed issue [#43](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/43) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-5. 🗣 Commented on [#43](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/43) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+1. 🎉 Merged PR [#127](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/127) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#127](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/127) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#87](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/pull/87) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+4. ❗️ Closed issue [#86](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/86) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#42](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/42) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
 <!--END_SECTION:activity-->
