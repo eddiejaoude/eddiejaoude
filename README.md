@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#88](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/88) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
-2. ❗️ Closed issue [#77](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/77) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
-3. ❗️ Closed issue [#86](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/86) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
-4. ❗️ Closed issue [#92](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/92) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
-5. ❗️ Closed issue [#96](https://github.com//eddiejaoude/eddiejaoude.github.com/issues/96) in [eddiejaoude/eddiejaoude.github.com](https://github.com//eddiejaoude/eddiejaoude.github.com)
+1. ❗️ Opened issue [#23](https://github.com//eddiejaoude/eddiejaoude/issues/23) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+2. ❗️ Opened issue [#22](https://github.com//eddiejaoude/eddiejaoude/issues/22) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+3. ❗️ Opened issue [#21](https://github.com//eddiejaoude/eddiejaoude/issues/21) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+4. ❗️ Opened issue [#20](https://github.com//eddiejaoude/eddiejaoude/issues/20) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+5. ❗️ Opened issue [#19](https://github.com//eddiejaoude/eddiejaoude/issues/19) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
 <!--END_SECTION:activity-->
