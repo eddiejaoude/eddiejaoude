@@ -31,8 +31,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#129](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/129) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#130](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/130) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. ❗️ Opened issue [#24](https://github.com//eddiejaoude/eddiejaoude/issues/24) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
-4. 🗣 Commented on [#129](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/129) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#129](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/129) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#129](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/129) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#130](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/130) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. ❗️ Opened issue [#24](https://github.com//eddiejaoude/eddiejaoude/issues/24) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+5. 🗣 Commented on [#129](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/129) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
