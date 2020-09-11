@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/137) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#135](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/135) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#134](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/134) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#25](https://github.com//eddiejaoude/eddiejaoude/issues/25) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
-5. 🗣 Commented on [#218](https://github.com//EddieJaoudeCommunity/EddieBot/issues/218) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. 🗣 Commented on [#25](https://github.com//eddiejaoude/eddiejaoude/issues/25) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+2. 🗣 Commented on [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. ❗️ Opened issue [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. ❗️ Closed issue [#138](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/138) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
