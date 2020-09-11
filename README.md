@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#141](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/141) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. ❗️ Closed issue [#162](https://github.com//EddieJaoudeCommunity/support/issues/162) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#162](https://github.com//EddieJaoudeCommunity/support/issues/162) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. ❗️ Opened issue [#141](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/141) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#140](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/140) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#3](https://github.com//EddieJaoudeCommunity/support/issues/3) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#136](https://github.com//EddieJaoudeCommunity/support/issues/136) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🎉 Merged PR [#164](https://github.com//EddieJaoudeCommunity/support/pull/164) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#136](https://github.com//EddieJaoudeCommunity/support/issues/136) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#141](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/141) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
