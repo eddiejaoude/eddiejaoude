@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com//eddiejaoude/eddiejaoude/issues/25) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
-2. 🗣 Commented on [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#25](https://github.com//eddiejaoude/eddiejaoude/issues/25) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
 3. 🗣 Commented on [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. ❗️ Opened issue [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. ❗️ Closed issue [#138](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/138) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. ❗️ Opened issue [#139](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/139) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
