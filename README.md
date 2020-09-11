@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com//EddieJaoudeCommunity/support/issues/163) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#219](https://github.com//EddieJaoudeCommunity/EddieBot/issues/219) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. 🎉 Merged PR [#142](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/142) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#163](https://github.com//EddieJaoudeCommunity/support/issues/163) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#3](https://github.com//EddieJaoudeCommunity/support/issues/3) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#6](https://github.com//JasonEtco/readme-box/issues/6) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
+2. 🗣 Commented on [#163](https://github.com//EddieJaoudeCommunity/support/issues/163) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#219](https://github.com//EddieJaoudeCommunity/EddieBot/issues/219) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. 🎉 Merged PR [#142](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/142) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#163](https://github.com//EddieJaoudeCommunity/support/issues/163) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
