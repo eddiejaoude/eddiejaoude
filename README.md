@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/59) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 💪 Opened PR [#59](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/59) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🎉 Merged PR [#57](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/57) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. ❗️ Closed issue [#58](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/58) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. ❗️ Opened issue [#58](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/58) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. ❗️ Opened issue [#28](https://github.com//eddiejaoude/eddiejaoude/issues/28) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+2. ❗️ Closed issue [#22](https://github.com//eddiejaoude/eddiejaoude/issues/22) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+3. 🎉 Merged PR [#59](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/59) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 💪 Opened PR [#59](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/59) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🎉 Merged PR [#57](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/57) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
