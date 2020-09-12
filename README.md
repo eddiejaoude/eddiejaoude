@@ -31,8 +31,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#163](https://github.com//EddieJaoudeCommunity/support/issues/163) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#163](https://github.com//EddieJaoudeCommunity/support/issues/163) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 3. 🗣 Commented on [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 4. 🗣 Commented on [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🎉 Merged PR [#143](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/143) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
