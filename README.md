@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#175](https://github.com//EddieJaoudeCommunity/support/issues/175) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#175](https://github.com//EddieJaoudeCommunity/support/issues/175) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🎉 Merged PR [#146](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/146) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#171](https://github.com//EddieJaoudeCommunity/support/issues/171) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#163](https://github.com//EddieJaoudeCommunity/support/issues/163) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#167](https://github.com//EddieJaoudeCommunity/support/issues/167) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 🎉 Merged PR [#167](https://github.com//EddieJaoudeCommunity/support/pull/167) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#3](https://github.com//EddieJaoudeCommunity/support/issues/3) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#176](https://github.com//EddieJaoudeCommunity/support/issues/176) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#176](https://github.com//EddieJaoudeCommunity/support/issues/176) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
