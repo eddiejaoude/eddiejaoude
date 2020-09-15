@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/158) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#54](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/54) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. ❗️ Closed issue [#53](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/53) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-4. ❗️ Closed issue [#191](https://github.com//EddieJaoudeCommunity/support/issues/191) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#191](https://github.com//EddieJaoudeCommunity/support/issues/191) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. ❗️ Closed issue [#194](https://github.com//EddieJaoudeCommunity/support/issues/194) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#194](https://github.com//EddieJaoudeCommunity/support/issues/194) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#193](https://github.com//EddieJaoudeCommunity/support/issues/193) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#193](https://github.com//EddieJaoudeCommunity/support/issues/193) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🎉 Merged PR [#11](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/pull/11) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
 <!--END_SECTION:activity-->
