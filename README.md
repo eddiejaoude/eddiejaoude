@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/54) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. ❗️ Closed issue [#53](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/53) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. ❗️ Closed issue [#191](https://github.com//EddieJaoudeCommunity/support/issues/191) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#191](https://github.com//EddieJaoudeCommunity/support/issues/191) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#157](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/157) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#158](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/158) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#54](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/54) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. ❗️ Closed issue [#53](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/53) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+4. ❗️ Closed issue [#191](https://github.com//EddieJaoudeCommunity/support/issues/191) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#191](https://github.com//EddieJaoudeCommunity/support/issues/191) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
