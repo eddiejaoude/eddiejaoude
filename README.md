@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#163](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/163) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#162](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/162) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#156](https://github.com//EddieJaoudeCommunity/EddieBot/issues/156) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#67](https://github.com//EddieJaoudeCommunity/EddieBot/issues/67) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#71](https://github.com//EddieJaoudeCommunity/EddieBot/issues/71) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. ❗️ Opened issue [#15](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/15) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+2. ❗️ Opened issue [#14](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/14) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+3. ❗️ Opened issue [#13](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/13) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+4. 🗣 Commented on [#12](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/12) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+5. 🗣 Commented on [#12](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/12) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
 <!--END_SECTION:activity-->
