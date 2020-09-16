@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#84](https://github.com//EddieJaoudeCommunity/EddieBot/issues/84) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#84](https://github.com//EddieJaoudeCommunity/EddieBot/issues/84) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#95](https://github.com//EddieJaoudeCommunity/EddieBot/issues/95) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. ❗️ Closed issue [#40](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/40) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#40](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/40) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. ❗️ Closed issue [#200](https://github.com//EddieJaoudeCommunity/support/issues/200) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#200](https://github.com//EddieJaoudeCommunity/support/issues/200) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#2](https://github.com//EddieJaoudeCommunity/EddieBot/issues/2) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#2](https://github.com//EddieJaoudeCommunity/EddieBot/issues/2) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#1](https://github.com//EddieJaoudeCommunity/EddieBot/issues/1) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
