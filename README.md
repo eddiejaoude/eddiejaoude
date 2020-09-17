@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com//Maverik-ai/KiiT-Archives/issues/10) in [Maverik-ai/KiiT-Archives](https://github.com//Maverik-ai/KiiT-Archives)
-2. ❗️ Opened issue [#9](https://github.com//Maverik-ai/KiiT-Archives/issues/9) in [Maverik-ai/KiiT-Archives](https://github.com//Maverik-ai/KiiT-Archives)
-3. ❗️ Opened issue [#159](https://github.com//RaisinTen/sokoban-action/issues/159) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-4. ❗️ Opened issue [#158](https://github.com//RaisinTen/sokoban-action/issues/158) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-5. 💪 Opened PR [#8](https://github.com//Maverik-ai/KiiT-Archives/pull/8) in [Maverik-ai/KiiT-Archives](https://github.com//Maverik-ai/KiiT-Archives)
+1. ❗️ Opened issue [#25](https://github.com//TheShubham99/YouRock/issues/25) in [TheShubham99/YouRock](https://github.com//TheShubham99/YouRock)
+2. 🗣 Commented on [#90](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/90) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+3. ❗️ Opened issue [#10](https://github.com//Maverik-ai/KiiT-Archives/issues/10) in [Maverik-ai/KiiT-Archives](https://github.com//Maverik-ai/KiiT-Archives)
+4. ❗️ Opened issue [#9](https://github.com//Maverik-ai/KiiT-Archives/issues/9) in [Maverik-ai/KiiT-Archives](https://github.com//Maverik-ai/KiiT-Archives)
+5. ❗️ Opened issue [#159](https://github.com//RaisinTen/sokoban-action/issues/159) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
