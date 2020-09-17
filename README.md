@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//AllanRegush/gh-actions-sort-markdown-links/issues/1) in [AllanRegush/gh-actions-sort-markdown-links](https://github.com//AllanRegush/gh-actions-sort-markdown-links)
-2. ❗️ Opened issue [#15](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/15) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
-3. ❗️ Opened issue [#14](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/14) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
-4. ❗️ Opened issue [#13](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/13) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
-5. 🗣 Commented on [#12](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/12) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+1. ❗️ Opened issue [#155](https://github.com//RaisinTen/sokoban-action/issues/155) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+2. ❗️ Opened issue [#31](https://github.com//eddiejaoude/eddiejaoude/issues/31) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+3. ❗️ Closed issue [#30](https://github.com//eddiejaoude/eddiejaoude/issues/30) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+4. ❗️ Opened issue [#30](https://github.com//eddiejaoude/eddiejaoude/issues/30) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+5. 🗣 Commented on [#89](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/89) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
