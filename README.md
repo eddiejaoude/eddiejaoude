@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com//eddiejaoude/eddiejaoude/issues/31) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
-2. ❗️ Opened issue [#25](https://github.com//TheShubham99/YouRock/issues/25) in [TheShubham99/YouRock](https://github.com//TheShubham99/YouRock)
-3. 🗣 Commented on [#90](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/90) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#10](https://github.com//Maverik-ai/KiiT-Archives/issues/10) in [Maverik-ai/KiiT-Archives](https://github.com//Maverik-ai/KiiT-Archives)
-5. ❗️ Opened issue [#9](https://github.com//Maverik-ai/KiiT-Archives/issues/9) in [Maverik-ai/KiiT-Archives](https://github.com//Maverik-ai/KiiT-Archives)
+1. 🗣 Commented on [#2](https://github.com//Abiola-Farounbi/Abiola-Farounbi/issues/2) in [Abiola-Farounbi/Abiola-Farounbi](https://github.com//Abiola-Farounbi/Abiola-Farounbi)
+2. ❗️ Closed issue [#215](https://github.com//EddieJaoudeCommunity/support/issues/215) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#215](https://github.com//EddieJaoudeCommunity/support/issues/215) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
