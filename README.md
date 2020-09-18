@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#217](https://github.com//EddieJaoudeCommunity/support/issues/217) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#217](https://github.com//EddieJaoudeCommunity/support/issues/217) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. ❗️ Opened issue [#28](https://github.com//TheShubham99/YouRock/issues/28) in [TheShubham99/YouRock](https://github.com//TheShubham99/YouRock)
-4. 🗣 Commented on [#2](https://github.com//Abiola-Farounbi/Abiola-Farounbi/issues/2) in [Abiola-Farounbi/Abiola-Farounbi](https://github.com//Abiola-Farounbi/Abiola-Farounbi)
-5. ❗️ Closed issue [#215](https://github.com//EddieJaoudeCommunity/support/issues/215) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 💪 Opened PR [#236](https://github.com//EddieJaoudeCommunity/EddieBot/pull/236) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. ❗️ Opened issue [#235](https://github.com//EddieJaoudeCommunity/EddieBot/issues/235) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. 💪 Opened PR [#219](https://github.com//EddieJaoudeCommunity/support/pull/219) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Opened issue [#218](https://github.com//EddieJaoudeCommunity/support/issues/218) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#217](https://github.com//EddieJaoudeCommunity/support/issues/217) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
