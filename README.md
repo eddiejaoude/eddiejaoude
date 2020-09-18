@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//Abiola-Farounbi/Abiola-Farounbi/issues/2) in [Abiola-Farounbi/Abiola-Farounbi](https://github.com//Abiola-Farounbi/Abiola-Farounbi)
-2. ❗️ Closed issue [#215](https://github.com//EddieJaoudeCommunity/support/issues/215) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#215](https://github.com//EddieJaoudeCommunity/support/issues/215) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. ❗️ Closed issue [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. ❗️ Opened issue [#28](https://github.com//TheShubham99/YouRock/issues/28) in [TheShubham99/YouRock](https://github.com//TheShubham99/YouRock)
+2. 🗣 Commented on [#2](https://github.com//Abiola-Farounbi/Abiola-Farounbi/issues/2) in [Abiola-Farounbi/Abiola-Farounbi](https://github.com//Abiola-Farounbi/Abiola-Farounbi)
+3. ❗️ Closed issue [#215](https://github.com//EddieJaoudeCommunity/support/issues/215) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#215](https://github.com//EddieJaoudeCommunity/support/issues/215) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#221](https://github.com//EddieJaoudeCommunity/EddieBot/issues/221) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
