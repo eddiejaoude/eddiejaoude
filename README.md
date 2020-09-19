@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/66) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. ❗️ Opened issue [#65](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/65) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🎉 Merged PR [#64](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/64) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. ❗️ Closed issue [#63](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/63) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 💪 Opened PR [#64](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/64) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🎉 Merged PR [#171](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/171) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#66](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/66) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. ❗️ Closed issue [#232](https://github.com//EddieJaoudeCommunity/support/issues/232) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#232](https://github.com//EddieJaoudeCommunity/support/issues/232) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 🎉 Merged PR [#170](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/170) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
