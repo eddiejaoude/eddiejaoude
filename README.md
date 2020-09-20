@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#179](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/179) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. ❗️ Closed issue [#238](https://github.com//EddieJaoudeCommunity/support/issues/238) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#238](https://github.com//EddieJaoudeCommunity/support/issues/238) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#173](https://github.com//EddieJaoudeCommunity/EddieBot/issues/173) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#245](https://github.com//EddieJaoudeCommunity/EddieBot/issues/245) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. 🎉 Merged PR [#180](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/180) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#29](https://github.com//EddieJaoudeCommunity/EddieBotUI/pull/29) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+3. 🗣 Commented on [#29](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/29) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+4. 🗣 Commented on [#28](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/28) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+5. 🎉 Merged PR [#179](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/179) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
