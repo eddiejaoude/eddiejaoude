@@ -31,8 +31,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#175](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/175) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#175](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/175) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#175](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/175) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#94](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/94) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#96](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/96) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+3. 💪 Opened PR [#16](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/pull/16) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+4. 🗣 Commented on [#175](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/175) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 5. 🗣 Commented on [#175](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/175) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
