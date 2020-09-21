@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#194](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/194) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#252](https://github.com//EddieJaoudeCommunity/EddieBot/pull/252) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#252](https://github.com//EddieJaoudeCommunity/EddieBot/issues/252) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 🎉 Merged PR [#193](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/193) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. ❗️ Closed issue [#242](https://github.com//EddieJaoudeCommunity/support/issues/242) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+1. 🎉 Merged PR [#36](https://github.com//EddieJaoudeCommunity/EddieBotUI/pull/36) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+2. 🗣 Commented on [#243](https://github.com//EddieJaoudeCommunity/support/issues/243) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+3. 🎉 Merged PR [#195](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/195) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. ❗️ Closed issue [#251](https://github.com//EddieJaoudeCommunity/EddieBot/issues/251) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#32](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/32) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
 <!--END_SECTION:activity-->
