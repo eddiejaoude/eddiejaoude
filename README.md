@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#191](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/191) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#27](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/27) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
-3. 🎉 Merged PR [#31](https://github.com//EddieJaoudeCommunity/EddieBotUI/pull/31) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
-4. 🎉 Merged PR [#190](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/190) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#189](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/189) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#27](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/27) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+2. 🎉 Merged PR [#192](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/192) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#191](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/191) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#27](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/27) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+5. 🎉 Merged PR [#31](https://github.com//EddieJaoudeCommunity/EddieBotUI/pull/31) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
 <!--END_SECTION:activity-->
