@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#201](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/201) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#200](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/200) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#17](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/17) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
-4. 🗣 Commented on [#69](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/69) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 🎉 Merged PR [#199](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/199) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#103](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/103) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+2. 🎉 Merged PR [#203](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/203) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#202](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/202) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#261](https://github.com//EddieJaoudeCommunity/EddieBot/issues/261) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. ❗️ Closed issue [#249](https://github.com//EddieJaoudeCommunity/support/issues/249) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
