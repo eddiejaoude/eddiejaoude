@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#206](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/206) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#205](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/205) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#204](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/204) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#185](https://github.com/EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#70](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/70) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#24](https://github.com/tasnimzotder/hacktoberfest-2020/issues/24) in [tasnimzotder/hacktoberfest-2020](https://github.com/tasnimzotder/hacktoberfest-2020)
+2. 🗣 Commented on [#24](https://github.com/tasnimzotder/hacktoberfest-2020/issues/24) in [tasnimzotder/hacktoberfest-2020](https://github.com/tasnimzotder/hacktoberfest-2020)
+3. 🎉 Merged PR [#206](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/206) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#205](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/205) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#204](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/204) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
