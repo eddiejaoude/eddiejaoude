@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com//eddiejaoude/eddiejaoude/issues/21) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
-2. 🗣 Commented on [#103](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/103) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
-3. 🎉 Merged PR [#203](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/203) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#202](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/202) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#261](https://github.com//EddieJaoudeCommunity/EddieBot/issues/261) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. 🗣 Commented on [#262](https://github.com//EddieJaoudeCommunity/EddieBot/issues/262) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#168](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/168) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#156](https://github.com//EddieJaoudeCommunity/EddieBot/issues/156) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#21](https://github.com//eddiejaoude/eddiejaoude/issues/21) in [eddiejaoude/eddiejaoude](https://github.com//eddiejaoude/eddiejaoude)
+5. 🗣 Commented on [#24](https://github.com//EddieJaoudeCommunity/EddieBot/issues/24) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
