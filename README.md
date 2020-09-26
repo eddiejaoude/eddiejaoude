@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/EddieJaoudeCommunity/EddieBot/issues/246) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#70](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/70) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#262](https://github.com/EddieJaoudeCommunity/EddieBot/issues/262) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#263](https://github.com/EddieJaoudeCommunity/EddieBot/issues/263) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#70](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/70) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#24](https://github.com/tasnimzotder/hacktoberfest-2020/issues/24) in [tasnimzotder/hacktoberfest-2020](https://github.com/tasnimzotder/hacktoberfest-2020)
+2. 🗣 Commented on [#246](https://github.com/EddieJaoudeCommunity/EddieBot/issues/246) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#70](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/70) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#262](https://github.com/EddieJaoudeCommunity/EddieBot/issues/262) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#263](https://github.com/EddieJaoudeCommunity/EddieBot/issues/263) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
