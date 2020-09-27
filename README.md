@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#258](https://github.com/EddieJaoudeCommunity/support/issues/258) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#259](https://github.com/EddieJaoudeCommunity/support/issues/259) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#72](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/72) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🗣 Commented on [#258](https://github.com/EddieJaoudeCommunity/support/issues/258) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#258](https://github.com/EddieJaoudeCommunity/support/issues/258) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. ❗️ Opened issue [#268](https://github.com/EddieJaoudeCommunity/EddieBot/issues/268) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#258](https://github.com/EddieJaoudeCommunity/support/issues/258) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#259](https://github.com/EddieJaoudeCommunity/support/issues/259) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#72](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/72) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#258](https://github.com/EddieJaoudeCommunity/support/issues/258) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
