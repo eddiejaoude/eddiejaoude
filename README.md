@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39706](https://github.com/freeCodeCamp/freeCodeCamp/issues/39706) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-2. 💪 Opened PR [#39707](https://github.com/freeCodeCamp/freeCodeCamp/pull/39707) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-3. ❗️ Opened issue [#39706](https://github.com/freeCodeCamp/freeCodeCamp/issues/39706) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-4. 💪 Opened PR [#32](https://github.com/eddiejaoude/eddiejaoude/pull/32) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-5. ❗️ Opened issue [#268](https://github.com/EddieJaoudeCommunity/EddieBot/issues/268) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🎉 Merged PR [#156](https://github.com/EddieJaoudeCommunity/EddieBot/pull/156) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. ❗️ Closed issue [#185](https://github.com/EddieJaoudeCommunity/EddieBot/issues/185) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. ❗️ Closed issue [#134](https://github.com/EddieJaoudeCommunity/EddieBot/issues/134) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#156](https://github.com/EddieJaoudeCommunity/EddieBot/issues/156) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 💪 Opened PR [#269](https://github.com/EddieJaoudeCommunity/EddieBot/pull/269) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
