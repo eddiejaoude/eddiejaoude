@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/215) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. ❗️ Closed issue [#115](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/115) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#115](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/115) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#245](https://github.com/EddieJaoudeCommunity/EddieBot/issues/245) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. ❗️ Closed issue [#264](https://github.com/EddieJaoudeCommunity/support/issues/264) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 💪 Opened PR [#2](https://github.com/dannythompson901/Hacktoberfest-FirstPR/pull/2) in [dannythompson901/Hacktoberfest-FirstPR](https://github.com/dannythompson901/Hacktoberfest-FirstPR)
+2. 🎉 Merged PR [#215](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/215) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+3. ❗️ Closed issue [#115](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/115) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#115](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/115) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#245](https://github.com/EddieJaoudeCommunity/EddieBot/issues/245) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
