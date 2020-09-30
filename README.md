@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/214) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#115](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/115) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#104](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/104) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🎉 Merged PR [#105](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/105) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#76](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/76) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#115](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/115) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#245](https://github.com/EddieJaoudeCommunity/EddieBot/issues/245) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. ❗️ Closed issue [#264](https://github.com/EddieJaoudeCommunity/support/issues/264) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#264](https://github.com/EddieJaoudeCommunity/support/issues/264) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Reopened issue [#112](https://github.com/EddieJaoudeCommunity/EddieBot/issues/112) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
