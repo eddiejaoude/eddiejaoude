@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#230](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/230) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#229](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/229) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#228](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/228) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#227](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/227) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-5. ❌ Closed PR [#225](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/225) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. ❗️ Closed issue [#267](https://github.com/EddieJaoudeCommunity/support/issues/267) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#267](https://github.com/EddieJaoudeCommunity/support/issues/267) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#266](https://github.com/EddieJaoudeCommunity/support/issues/266) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#266](https://github.com/EddieJaoudeCommunity/support/issues/266) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🎉 Merged PR [#230](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/230) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
