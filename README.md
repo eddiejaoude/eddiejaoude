@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#221](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/221) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#220](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/220) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#219](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/219) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#218](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/218) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#217](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/217) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#230](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/230) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#229](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/229) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#228](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/228) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#227](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/227) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. ❌ Closed PR [#225](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/225) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
