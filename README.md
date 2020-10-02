@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#271](https://github.com/EddieJaoudeCommunity/EddieBot/issues/271) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#82](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/82) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#281](https://github.com/EddieJaoudeCommunity/EddieBot/issues/281) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. ❗️ Reopened issue [#20](https://github.com/EddieJaoudeCommunity/EddieBot/issues/20) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. ❗️ Reopened issue [#32](https://github.com/EddieJaoudeCommunity/EddieBot/issues/32) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🎉 Merged PR [#116](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/116) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#278](https://github.com/EddieJaoudeCommunity/EddieBot/issues/278) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. ❗️ Closed issue [#289](https://github.com/EddieJaoudeCommunity/support/issues/289) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#289](https://github.com/EddieJaoudeCommunity/support/issues/289) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🎉 Merged PR [#114](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/114) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
