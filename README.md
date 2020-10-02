@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/116) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#278](https://github.com/EddieJaoudeCommunity/EddieBot/issues/278) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. ❗️ Closed issue [#289](https://github.com/EddieJaoudeCommunity/support/issues/289) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#289](https://github.com/EddieJaoudeCommunity/support/issues/289) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🎉 Merged PR [#114](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/114) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#267](https://github.com/EddieJaoudeCommunity/EddieBot/issues/267) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🎉 Merged PR [#116](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/116) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#278](https://github.com/EddieJaoudeCommunity/EddieBot/issues/278) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. ❗️ Closed issue [#289](https://github.com/EddieJaoudeCommunity/support/issues/289) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#289](https://github.com/EddieJaoudeCommunity/support/issues/289) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
