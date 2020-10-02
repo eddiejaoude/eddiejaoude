@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/81) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. ❗️ Closed issue [#150](https://github.com/EddieJaoudeCommunity/EddieBot/issues/150) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#150](https://github.com/EddieJaoudeCommunity/EddieBot/issues/150) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#79](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/79) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. ❗️ Reopened issue [#278](https://github.com/EddieJaoudeCommunity/EddieBot/issues/278) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🗣 Commented on [#271](https://github.com/EddieJaoudeCommunity/EddieBot/issues/271) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#82](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/82) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#281](https://github.com/EddieJaoudeCommunity/EddieBot/issues/281) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. ❗️ Reopened issue [#20](https://github.com/EddieJaoudeCommunity/EddieBot/issues/20) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. ❗️ Reopened issue [#32](https://github.com/EddieJaoudeCommunity/EddieBot/issues/32) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
