@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/120) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#96](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/96) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#227](https://github.com/EddieJaoudeCommunity/EddieBot/issues/227) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#271](https://github.com/EddieJaoudeCommunity/EddieBot/issues/271) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🎉 Merged PR [#119](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/119) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#86](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/86) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#283](https://github.com/EddieJaoudeCommunity/EddieBot/issues/283) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. ❗️ Closed issue [#1](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/1) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/1) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#126](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/126) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
