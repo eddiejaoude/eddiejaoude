@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/92) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. ❗️ Closed issue [#91](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/91) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. ❗️ Closed issue [#299](https://github.com/EddieJaoudeCommunity/support/issues/299) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#299](https://github.com/EddieJaoudeCommunity/support/issues/299) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#298](https://github.com/EddieJaoudeCommunity/support/issues/298) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🎉 Merged PR [#129](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/129) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#292](https://github.com/EddieJaoudeCommunity/EddieBot/issues/292) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. ❗️ Reopened issue [#136](https://github.com/EddieJaoudeCommunity/EddieBot/issues/136) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#227](https://github.com/EddieJaoudeCommunity/EddieBot/issues/227) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🎉 Merged PR [#92](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/92) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
