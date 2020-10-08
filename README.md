@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#306](https://github.com/EddieJaoudeCommunity/support/issues/306) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#306](https://github.com/EddieJaoudeCommunity/support/issues/306) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. ❗️ Closed issue [#305](https://github.com/EddieJaoudeCommunity/support/issues/305) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#305](https://github.com/EddieJaoudeCommunity/support/issues/305) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#95](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/95) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#287](https://github.com/EddieJaoudeCommunity/EddieBot/issues/287) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#96](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/96) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🎉 Merged PR [#285](https://github.com/EddieJaoudeCommunity/EddieBot/pull/285) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. ❗️ Closed issue [#227](https://github.com/EddieJaoudeCommunity/EddieBot/issues/227) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. ❗️ Reopened issue [#72](https://github.com/EddieJaoudeCommunity/EddieBot/issues/72) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
