@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/kubowania/flappy-bird/issues/2) in [kubowania/flappy-bird](https://github.com/kubowania/flappy-bird)
-2. 🗣 Commented on [#283](https://github.com/EddieJaoudeCommunity/EddieBot/issues/283) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#316](https://github.com/EddieJaoudeCommunity/support/issues/316) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#315](https://github.com/EddieJaoudeCommunity/support/issues/315) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#287](https://github.com/EddieJaoudeCommunity/EddieBot/issues/287) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. ❗️ Opened issue [#2](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/2) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
+2. ❗️ Opened issue [#1](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/1) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
+3. 🗣 Commented on [#2](https://github.com/kubowania/flappy-bird/issues/2) in [kubowania/flappy-bird](https://github.com/kubowania/flappy-bird)
+4. 🗣 Commented on [#283](https://github.com/EddieJaoudeCommunity/EddieBot/issues/283) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#316](https://github.com/EddieJaoudeCommunity/support/issues/316) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
