@@ -26,9 +26,18 @@
   <img width="48%" src="https://user-images.githubusercontent.com/624760/87853406-a34b6900-c901-11ea-834b-07d90ca3d4fa.gif" alt="Eddie teaching code on YouTube" />
   <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
 </p>
+  
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
+---
 
+<p align="left">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight&line_height=48" />
+   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight">
+
+</p>
+
+---
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#294](https://github.com/EddieJaoudeCommunity/EddieBot/issues/294) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 2. ❗️ Closed issue [#329](https://github.com/EddieJaoudeCommunity/support/issues/329) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
