@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/AnkushSinghGandhi/AnkushSinghGandhi/pull/5) in [AnkushSinghGandhi/AnkushSinghGandhi](https://github.com/AnkushSinghGandhi/AnkushSinghGandhi)
-2. 🎉 Merged PR [#143](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/143) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#8](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/8) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
-4. ❗️ Closed issue [#335](https://github.com/EddieJaoudeCommunity/support/issues/335) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#335](https://github.com/EddieJaoudeCommunity/support/issues/335) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 💪 Opened PR [#1](https://github.com/neelraval13/neelraval13/pull/1) in [neelraval13/neelraval13](https://github.com/neelraval13/neelraval13)
+2. 💪 Opened PR [#5](https://github.com/AnkushSinghGandhi/AnkushSinghGandhi/pull/5) in [AnkushSinghGandhi/AnkushSinghGandhi](https://github.com/AnkushSinghGandhi/AnkushSinghGandhi)
+3. 🎉 Merged PR [#143](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/143) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#8](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/8) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
+5. ❗️ Closed issue [#335](https://github.com/EddieJaoudeCommunity/support/issues/335) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
