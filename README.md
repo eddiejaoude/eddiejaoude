@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#344](https://github.com/EddieJaoudeCommunity/support/issues/344) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#344](https://github.com/EddieJaoudeCommunity/support/issues/344) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#352](https://github.com/EddieJaoudeCommunity/support/issues/352) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#351](https://github.com/EddieJaoudeCommunity/support/issues/351) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 3. 🗣 Commented on [#343](https://github.com/EddieJaoudeCommunity/support/issues/343) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#11](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/11) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
-5. 🗣 Commented on [#11](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/11) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
+4. 🗣 Commented on [#331](https://github.com/EddieJaoudeCommunity/support/issues/331) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#319](https://github.com/EddieJaoudeCommunity/support/issues/319) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
