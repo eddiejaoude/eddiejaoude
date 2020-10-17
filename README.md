@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/red-perfume/red-perfume/issues/29) in [red-perfume/red-perfume](https://github.com/red-perfume/red-perfume)
-2. ❗️ Opened issue [#8](https://github.com/code-capture/CodeCapture-PWA/issues/8) in [code-capture/CodeCapture-PWA](https://github.com/code-capture/CodeCapture-PWA)
-3. ❗️ Opened issue [#6](https://github.com/code-capture/CodeCapture-PWA/issues/6) in [code-capture/CodeCapture-PWA](https://github.com/code-capture/CodeCapture-PWA)
-4. ❗️ Opened issue [#1](https://github.com/flyingsonu122/flyingsonu122.github.io/issues/1) in [flyingsonu122/flyingsonu122.github.io](https://github.com/flyingsonu122/flyingsonu122.github.io)
-5. ❗️ Opened issue [#7](https://github.com/shivambhat/learngitrepo/issues/7) in [shivambhat/learngitrepo](https://github.com/shivambhat/learngitrepo)
+1. ❗️ Closed issue [#359](https://github.com/EddieJaoudeCommunity/support/issues/359) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#359](https://github.com/EddieJaoudeCommunity/support/issues/359) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#358](https://github.com/EddieJaoudeCommunity/support/issues/358) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#358](https://github.com/EddieJaoudeCommunity/support/issues/358) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#352](https://github.com/EddieJaoudeCommunity/support/issues/352) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
