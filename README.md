@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/149) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#148](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/148) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. ❗️ Closed issue [#355](https://github.com/EddieJaoudeCommunity/support/issues/355) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#355](https://github.com/EddieJaoudeCommunity/support/issues/355) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#354](https://github.com/EddieJaoudeCommunity/support/issues/354) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. ❗️ Opened issue [#6](https://github.com/code-capture/CodeCapture-PWA/issues/6) in [code-capture/CodeCapture-PWA](https://github.com/code-capture/CodeCapture-PWA)
+2. ❗️ Opened issue [#1](https://github.com/flyingsonu122/flyingsonu122.github.io/issues/1) in [flyingsonu122/flyingsonu122.github.io](https://github.com/flyingsonu122/flyingsonu122.github.io)
+3. ❗️ Opened issue [#7](https://github.com/shivambhat/learngitrepo/issues/7) in [shivambhat/learngitrepo](https://github.com/shivambhat/learngitrepo)
+4. 🗣 Commented on [#149](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/149) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#148](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/148) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
