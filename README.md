@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#109](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/109) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 💪 Opened PR [#107](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/107) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#3](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/3) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
-4. 🗣 Commented on [#105](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/105) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. ❗️ Opened issue [#23](https://github.com/EddieJaoudeCommunity/EddieBotLive/issues/23) in [EddieJaoudeCommunity/EddieBotLive](https://github.com/EddieJaoudeCommunity/EddieBotLive)
+2. ❗️ Opened issue [#109](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/109) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 💪 Opened PR [#107](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/107) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#3](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/3) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
 5. 🗣 Commented on [#105](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/105) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
