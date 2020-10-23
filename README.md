@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/EddieJaoudeCommunity/EddieBotLive/issues/23) in [EddieJaoudeCommunity/EddieBotLive](https://github.com/EddieJaoudeCommunity/EddieBotLive)
-2. ❗️ Opened issue [#109](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/109) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 💪 Opened PR [#107](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/107) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🗣 Commented on [#3](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/3) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
-5. 🗣 Commented on [#105](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/105) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#18](https://github.com/open-sauced/goals-template/issues/18) in [open-sauced/goals-template](https://github.com/open-sauced/goals-template)
+2. 🗣 Commented on [#107](https://github.com/eddiejaoude/eddiejaoude.github.com/issues/107) in [eddiejaoude/eddiejaoude.github.com](https://github.com/eddiejaoude/eddiejaoude.github.com)
+3. ❗️ Closed issue [#381](https://github.com/EddieJaoudeCommunity/support/issues/381) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#381](https://github.com/EddieJaoudeCommunity/support/issues/381) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#383](https://github.com/EddieJaoudeCommunity/support/issues/383) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
