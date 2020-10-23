@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/open-sauced/goals-template/issues/18) in [open-sauced/goals-template](https://github.com/open-sauced/goals-template)
-2. 🗣 Commented on [#107](https://github.com/eddiejaoude/eddiejaoude.github.com/issues/107) in [eddiejaoude/eddiejaoude.github.com](https://github.com/eddiejaoude/eddiejaoude.github.com)
-3. ❗️ Closed issue [#381](https://github.com/EddieJaoudeCommunity/support/issues/381) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#381](https://github.com/EddieJaoudeCommunity/support/issues/381) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#383](https://github.com/EddieJaoudeCommunity/support/issues/383) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#199](https://github.com/EddieJaoudeCommunity/EddieBot/issues/199) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. ❗️ Opened issue [#303](https://github.com/EddieJaoudeCommunity/EddieBot/issues/303) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#107](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/107) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 💪 Opened PR [#111](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/111) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. ❗️ Opened issue [#110](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/110) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
