@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388](https://github.com/EddieJaoudeCommunity/support/issues/388) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. ❗️ Closed issue [#209](https://github.com/EddieJaoudeCommunity/support/issues/209) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#209](https://github.com/EddieJaoudeCommunity/support/issues/209) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#106](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/106) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 🗣 Commented on [#112](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/112) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. ❗️ Closed issue [#390](https://github.com/EddieJaoudeCommunity/support/issues/390) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#390](https://github.com/EddieJaoudeCommunity/support/issues/390) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#305](https://github.com/EddieJaoudeCommunity/EddieBot/issues/305) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🎉 Merged PR [#306](https://github.com/EddieJaoudeCommunity/EddieBot/pull/306) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#388](https://github.com/EddieJaoudeCommunity/support/issues/388) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
