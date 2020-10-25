@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/112) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🎉 Merged PR [#113](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/113) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 💪 Opened PR [#113](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/113) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. ❗️ Opened issue [#1](https://github.com/EddieJaoudeCommunity/template/issues/1) in [EddieJaoudeCommunity/template](https://github.com/EddieJaoudeCommunity/template)
-5. 🗣 Commented on [#389](https://github.com/EddieJaoudeCommunity/support/issues/389) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#233](https://github.com/EddieJaoudeCommunity/EddieBot/issues/233) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#112](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/112) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🎉 Merged PR [#113](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/113) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 💪 Opened PR [#113](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/113) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. ❗️ Opened issue [#1](https://github.com/EddieJaoudeCommunity/template/issues/1) in [EddieJaoudeCommunity/template](https://github.com/EddieJaoudeCommunity/template)
 <!--END_SECTION:activity-->
