@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#157](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/157) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#262](https://github.com/EddieJaoudeCommunity/EddieBot/issues/262) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. ❗️ Closed issue [#396](https://github.com/EddieJaoudeCommunity/support/issues/396) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#396](https://github.com/EddieJaoudeCommunity/support/issues/396) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#354](https://github.com/EddieJaoudeCommunity/support/issues/354) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🎉 Merged PR [#159](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/159) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#307](https://github.com/EddieJaoudeCommunity/EddieBot/issues/307) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#106](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/106) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#206](https://github.com/EddieJaoudeCommunity/EddieBot/issues/206) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🎉 Merged PR [#157](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/157) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
