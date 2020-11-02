@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/160) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. ❗️ Closed issue [#401](https://github.com/EddieJaoudeCommunity/support/issues/401) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#401](https://github.com/EddieJaoudeCommunity/support/issues/401) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#327](https://github.com/EddieJaoudeCommunity/support/issues/327) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#57](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/57) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+1. ❗️ Reopened issue [#57](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/57) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+2. 🗣 Commented on [#57](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/57) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+3. 🗣 Commented on [#160](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/160) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. ❗️ Closed issue [#401](https://github.com/EddieJaoudeCommunity/support/issues/401) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#401](https://github.com/EddieJaoudeCommunity/support/issues/401) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
