@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/eddiejaoude/merge-conflicts/pull/4) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
-2. 🎉 Merged PR [#3](https://github.com/eddiejaoude/merge-conflicts/pull/3) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
-3. 🎉 Merged PR [#1](https://github.com/eddiejaoude/merge-conflicts/pull/1) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
-4. ❗️ Closed issue [#1](https://github.com/eddiejaoude/node-express-course/issues/1) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
-5. ❗️ Closed issue [#1](https://github.com/eddiejaoude/my-reason-react-app/issues/1) in [eddiejaoude/my-reason-react-app](https://github.com/eddiejaoude/my-reason-react-app)
+1. ❗️ Closed issue [#370](https://github.com/EddieJaoudeCommunity/support/issues/370) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#370](https://github.com/EddieJaoudeCommunity/support/issues/370) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#363](https://github.com/EddieJaoudeCommunity/support/issues/363) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#363](https://github.com/EddieJaoudeCommunity/support/issues/363) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#361](https://github.com/EddieJaoudeCommunity/support/issues/361) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
