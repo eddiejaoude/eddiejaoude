@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#315](https://github.com/EddieJaoudeCommunity/EddieBot/issues/315) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#314](https://github.com/EddieJaoudeCommunity/EddieBot/issues/314) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#314](https://github.com/EddieJaoudeCommunity/EddieBot/issues/314) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. ❗️ Closed issue [#239](https://github.com/EddieJaoudeCommunity/EddieBot/issues/239) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🎉 Merged PR [#313](https://github.com/EddieJaoudeCommunity/EddieBot/pull/313) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🗣 Commented on [#407](https://github.com/EddieJaoudeCommunity/support/issues/407) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#8](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/8) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
+3. ❗️ Closed issue [#408](https://github.com/EddieJaoudeCommunity/support/issues/408) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#408](https://github.com/EddieJaoudeCommunity/support/issues/408) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#409](https://github.com/EddieJaoudeCommunity/support/issues/409) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
