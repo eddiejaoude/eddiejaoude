@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#406](https://github.com/EddieJaoudeCommunity/support/issues/406) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#406](https://github.com/EddieJaoudeCommunity/support/issues/406) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#167](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/167) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#315](https://github.com/EddieJaoudeCommunity/EddieBot/issues/315) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🎉 Merged PR [#164](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/164) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. ❗️ Closed issue [#1](https://github.com/eddiejaoude/node-express-course/issues/1) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
+2. ❗️ Closed issue [#1](https://github.com/eddiejaoude/my-reason-react-app/issues/1) in [eddiejaoude/my-reason-react-app](https://github.com/eddiejaoude/my-reason-react-app)
+3. 🎉 Merged PR [#4](https://github.com/eddiejaoude/merge-conflicts/pull/4) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
+4. 🎉 Merged PR [#3](https://github.com/eddiejaoude/merge-conflicts/pull/3) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
+5. 🎉 Merged PR [#1](https://github.com/eddiejaoude/merge-conflicts/pull/1) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
 <!--END_SECTION:activity-->
