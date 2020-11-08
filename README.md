@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/eddiejaoude/node-express-course/issues/1) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
-2. ❗️ Closed issue [#1](https://github.com/eddiejaoude/my-reason-react-app/issues/1) in [eddiejaoude/my-reason-react-app](https://github.com/eddiejaoude/my-reason-react-app)
-3. 🎉 Merged PR [#4](https://github.com/eddiejaoude/merge-conflicts/pull/4) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
-4. 🎉 Merged PR [#3](https://github.com/eddiejaoude/merge-conflicts/pull/3) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
-5. 🎉 Merged PR [#1](https://github.com/eddiejaoude/merge-conflicts/pull/1) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
+1. 🎉 Merged PR [#4](https://github.com/eddiejaoude/merge-conflicts/pull/4) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
+2. 🎉 Merged PR [#3](https://github.com/eddiejaoude/merge-conflicts/pull/3) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
+3. 🎉 Merged PR [#1](https://github.com/eddiejaoude/merge-conflicts/pull/1) in [eddiejaoude/merge-conflicts](https://github.com/eddiejaoude/merge-conflicts)
+4. ❗️ Closed issue [#1](https://github.com/eddiejaoude/node-express-course/issues/1) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
+5. ❗️ Closed issue [#1](https://github.com/eddiejaoude/my-reason-react-app/issues/1) in [eddiejaoude/my-reason-react-app](https://github.com/eddiejaoude/my-reason-react-app)
 <!--END_SECTION:activity-->
