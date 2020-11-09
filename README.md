@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/173) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#172](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/172) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. ❗️ Closed issue [#50](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/50) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
-4. ❗️ Closed issue [#414](https://github.com/EddieJaoudeCommunity/support/issues/414) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#414](https://github.com/EddieJaoudeCommunity/support/issues/414) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. ❗️ Opened issue [#29](https://github.com/mhxion/awesome-discord-communities/issues/29) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
+2. 🗣 Commented on [#173](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/173) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#172](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/172) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. ❗️ Closed issue [#50](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/50) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+5. ❗️ Closed issue [#414](https://github.com/EddieJaoudeCommunity/support/issues/414) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
