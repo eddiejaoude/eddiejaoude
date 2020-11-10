@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#321](https://github.com/EddieJaoudeCommunity/EddieBot/issues/321) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#196](https://github.com/asciidoctor/asciidoctor-diagram/issues/196) in [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram)
-3. 🗣 Commented on [#196](https://github.com/asciidoctor/asciidoctor-diagram/issues/196) in [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram)
-4. 🗣 Commented on [#196](https://github.com/asciidoctor/asciidoctor-diagram/issues/196) in [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram)
-5. 🎉 Merged PR [#167](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/167) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#320](https://github.com/EddieJaoudeCommunity/EddieBot/issues/320) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#320](https://github.com/EddieJaoudeCommunity/EddieBot/issues/320) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#322](https://github.com/EddieJaoudeCommunity/EddieBot/issues/322) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#321](https://github.com/EddieJaoudeCommunity/EddieBot/issues/321) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#178](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/178) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
