@@ -32,7 +32,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#196](https://github.com/asciidoctor/asciidoctor-diagram/issues/196) in [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram)
 2. 🗣 Commented on [#196](https://github.com/asciidoctor/asciidoctor-diagram/issues/196) in [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram)
-3. 🎉 Merged PR [#167](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/167) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#52](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/52) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
-5. ❗️ Closed issue [#416](https://github.com/EddieJaoudeCommunity/support/issues/416) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#196](https://github.com/asciidoctor/asciidoctor-diagram/issues/196) in [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram)
+4. 🎉 Merged PR [#167](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/167) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#52](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/52) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
 <!--END_SECTION:activity-->
