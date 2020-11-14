@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/116) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#116](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/116) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. ❗️ Closed issue [#426](https://github.com/EddieJaoudeCommunity/support/issues/426) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#426](https://github.com/EddieJaoudeCommunity/support/issues/426) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#422](https://github.com/EddieJaoudeCommunity/support/issues/422) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. ❗️ Closed issue [#326](https://github.com/EddieJaoudeCommunity/EddieBot/issues/326) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🎉 Merged PR [#328](https://github.com/EddieJaoudeCommunity/EddieBot/pull/328) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🎉 Merged PR [#428](https://github.com/EddieJaoudeCommunity/support/pull/428) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#427](https://github.com/EddieJaoudeCommunity/support/issues/427) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#428](https://github.com/EddieJaoudeCommunity/support/issues/428) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
