@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#326](https://github.com/EddieJaoudeCommunity/EddieBot/issues/326) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🎉 Merged PR [#328](https://github.com/EddieJaoudeCommunity/EddieBot/pull/328) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🎉 Merged PR [#428](https://github.com/EddieJaoudeCommunity/support/pull/428) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Closed issue [#427](https://github.com/EddieJaoudeCommunity/support/issues/427) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#428](https://github.com/EddieJaoudeCommunity/support/issues/428) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#192](https://github.com/EddieJaoudeCommunity/support/issues/192) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#195](https://github.com/EddieJaoudeCommunity/support/issues/195) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#229](https://github.com/EddieJaoudeCommunity/EddieBot/issues/229) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#330](https://github.com/EddieJaoudeCommunity/EddieBot/issues/330) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#329](https://github.com/EddieJaoudeCommunity/EddieBot/issues/329) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
