@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/eddiejaoude/node-express-course/issues/1) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
-2. ❗️ Closed issue [#1](https://github.com/eddiejaoude/node-express-course/issues/1) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
-3. ❗️ Closed issue [#329](https://github.com/EddieJaoudeCommunity/EddieBot/issues/329) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🎉 Merged PR [#332](https://github.com/EddieJaoudeCommunity/EddieBot/pull/332) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#332](https://github.com/EddieJaoudeCommunity/EddieBot/issues/332) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. ❗️ Closed issue [#8](https://github.com/eddiejaoude/node-express-course/issues/8) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
+2. 🗣 Commented on [#8](https://github.com/eddiejaoude/node-express-course/issues/8) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
+3. ❗️ Closed issue [#7](https://github.com/eddiejaoude/node-express-course/issues/7) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
+4. ❗️ Closed issue [#1](https://github.com/eddiejaoude/node-express-course/issues/1) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
+5. ❗️ Closed issue [#1](https://github.com/eddiejaoude/node-express-course/issues/1) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
 <!--END_SECTION:activity-->
