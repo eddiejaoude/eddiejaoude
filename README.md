@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#403](https://github.com/EddieJaoudeCommunity/support/issues/403) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#402](https://github.com/EddieJaoudeCommunity/support/issues/402) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#371](https://github.com/EddieJaoudeCommunity/support/issues/371) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Closed issue [#8](https://github.com/eddiejaoude/node-express-course/issues/8) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
-5. 🗣 Commented on [#8](https://github.com/eddiejaoude/node-express-course/issues/8) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
+1. 🎉 Merged PR [#336](https://github.com/EddieJaoudeCommunity/EddieBot/pull/336) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#403](https://github.com/EddieJaoudeCommunity/support/issues/403) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#402](https://github.com/EddieJaoudeCommunity/support/issues/402) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#371](https://github.com/EddieJaoudeCommunity/support/issues/371) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#8](https://github.com/eddiejaoude/node-express-course/issues/8) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
 <!--END_SECTION:activity-->
