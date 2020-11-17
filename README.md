@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/EddieJaoudeCommunity/support/issues/195) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#9](https://github.com/eddiejaoude/node-express-course/issues/9) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
-3. 🗣 Commented on [#337](https://github.com/EddieJaoudeCommunity/EddieBot/issues/337) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#13](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/13) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
-5. 🗣 Commented on [#14](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/14) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
+1. 🗣 Commented on [#115](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/115) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#115](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/115) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#318](https://github.com/EddieJaoudeCommunity/EddieBot/issues/318) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🎉 Merged PR [#335](https://github.com/EddieJaoudeCommunity/EddieBot/pull/335) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. ❗️ Closed issue [#315](https://github.com/EddieJaoudeCommunity/EddieBot/issues/315) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
