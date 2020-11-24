@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#440](https://github.com/EddieJaoudeCommunity/support/issues/440) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#440](https://github.com/EddieJaoudeCommunity/support/issues/440) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#450](https://github.com/EddieJaoudeCommunity/support/issues/450) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#32](https://github.com/mhxion/awesome-discord-communities/issues/32) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
-5. 🗣 Commented on [#29](https://github.com/mhxion/awesome-discord-communities/issues/29) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
+1. 🗣 Commented on [#71](https://github.com/EddieJaoudeCommunity/support/issues/71) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#417](https://github.com/EddieJaoudeCommunity/support/issues/417) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🎉 Merged PR [#16](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/pull/16) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
+4. ❗️ Closed issue [#15](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/15) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
+5. 🗣 Commented on [#16](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/16) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
 <!--END_SECTION:activity-->
