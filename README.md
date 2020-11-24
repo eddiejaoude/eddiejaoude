@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/mhxion/awesome-discord-communities/issues/32) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
-2. 🗣 Commented on [#29](https://github.com/mhxion/awesome-discord-communities/issues/29) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
-3. 💪 Opened PR [#32](https://github.com/mhxion/awesome-discord-communities/pull/32) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
-4. ❗️ Opened issue [#31](https://github.com/mhxion/awesome-discord-communities/issues/31) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
-5. ❗️ Closed issue [#448](https://github.com/EddieJaoudeCommunity/support/issues/448) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#440](https://github.com/EddieJaoudeCommunity/support/issues/440) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#440](https://github.com/EddieJaoudeCommunity/support/issues/440) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#450](https://github.com/EddieJaoudeCommunity/support/issues/450) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#32](https://github.com/mhxion/awesome-discord-communities/issues/32) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
+5. 🗣 Commented on [#29](https://github.com/mhxion/awesome-discord-communities/issues/29) in [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
 <!--END_SECTION:activity-->
