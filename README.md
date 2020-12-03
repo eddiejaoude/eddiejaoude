@@ -30,9 +30,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#472](https://github.com/EddieJaoudeCommunity/support/issues/472) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#472](https://github.com/EddieJaoudeCommunity/support/issues/472) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. ❗️ Closed issue [#471](https://github.com/EddieJaoudeCommunity/support/issues/471) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#471](https://github.com/EddieJaoudeCommunity/support/issues/471) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#471](https://github.com/EddieJaoudeCommunity/support/issues/471) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#451](https://github.com/EddieJaoudeCommunity/support/issues/451) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#451](https://github.com/EddieJaoudeCommunity/support/issues/451) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 💪 Opened PR [#475](https://github.com/EddieJaoudeCommunity/support/pull/475) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#472](https://github.com/EddieJaoudeCommunity/support/issues/472) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#472](https://github.com/EddieJaoudeCommunity/support/issues/472) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
