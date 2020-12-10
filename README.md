@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/EddieJaoudeCommunity/template/issues/4) in [EddieJaoudeCommunity/template](https://github.com/EddieJaoudeCommunity/template)
-2. ❗️ Closed issue [#530](https://github.com/EddieJaoudeCommunity/support/issues/530) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#530](https://github.com/EddieJaoudeCommunity/support/issues/530) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🎉 Merged PR [#113](https://github.com/eddiejaoude/eddiejaoude.github.com/pull/113) in [eddiejaoude/eddiejaoude.github.com](https://github.com/eddiejaoude/eddiejaoude.github.com)
-5. ❗️ Closed issue [#109](https://github.com/eddiejaoude/eddiejaoude.github.com/issues/109) in [eddiejaoude/eddiejaoude.github.com](https://github.com/eddiejaoude/eddiejaoude.github.com)
+1. 💪 Opened PR [#2](https://github.com/MLH-Fellowship/batch-1-photos/pull/2) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+2. 🗣 Commented on [#4](https://github.com/EddieJaoudeCommunity/template/issues/4) in [EddieJaoudeCommunity/template](https://github.com/EddieJaoudeCommunity/template)
+3. ❗️ Closed issue [#530](https://github.com/EddieJaoudeCommunity/support/issues/530) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#530](https://github.com/EddieJaoudeCommunity/support/issues/530) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🎉 Merged PR [#113](https://github.com/eddiejaoude/eddiejaoude.github.com/pull/113) in [eddiejaoude/eddiejaoude.github.com](https://github.com/eddiejaoude/eddiejaoude.github.com)
 <!--END_SECTION:activity-->
