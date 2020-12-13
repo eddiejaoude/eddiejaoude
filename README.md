@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/MLH-Fellowship/batch-1-photos/pull/65) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-2. 🎉 Merged PR [#62](https://github.com/MLH-Fellowship/batch-1-photos/pull/62) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-3. 🎉 Merged PR [#61](https://github.com/MLH-Fellowship/batch-1-photos/pull/61) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-4. 🗣 Commented on [#59](https://github.com/MLH-Fellowship/batch-1-photos/issues/59) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-5. 🎉 Merged PR [#58](https://github.com/MLH-Fellowship/batch-1-photos/pull/58) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+1. 🎉 Merged PR [#63](https://github.com/MLH-Fellowship/batch-1-photos/pull/63) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+2. 🎉 Merged PR [#73](https://github.com/MLH-Fellowship/batch-1-photos/pull/73) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+3. 🎉 Merged PR [#67](https://github.com/MLH-Fellowship/batch-1-photos/pull/67) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+4. 🎉 Merged PR [#66](https://github.com/MLH-Fellowship/batch-1-photos/pull/66) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+5. 🎉 Merged PR [#65](https://github.com/MLH-Fellowship/batch-1-photos/pull/65) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
 <!--END_SECTION:activity-->
