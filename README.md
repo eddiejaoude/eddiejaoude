@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/MLH-Fellowship/batch-1-photos/pull/132) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-2. 🎉 Merged PR [#131](https://github.com/MLH-Fellowship/batch-1-photos/pull/131) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-3. 🎉 Merged PR [#130](https://github.com/MLH-Fellowship/batch-1-photos/pull/130) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-4. 🎉 Merged PR [#129](https://github.com/MLH-Fellowship/batch-1-photos/pull/129) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-5. 🎉 Merged PR [#128](https://github.com/MLH-Fellowship/batch-1-photos/pull/128) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+1. 🗣 Commented on [#535](https://github.com/EddieJaoudeCommunity/support/issues/535) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🎉 Merged PR [#132](https://github.com/MLH-Fellowship/batch-1-photos/pull/132) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+3. 🎉 Merged PR [#131](https://github.com/MLH-Fellowship/batch-1-photos/pull/131) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+4. 🎉 Merged PR [#130](https://github.com/MLH-Fellowship/batch-1-photos/pull/130) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+5. 🎉 Merged PR [#129](https://github.com/MLH-Fellowship/batch-1-photos/pull/129) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
 <!--END_SECTION:activity-->
