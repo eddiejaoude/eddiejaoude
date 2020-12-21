@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#535](https://github.com/EddieJaoudeCommunity/support/issues/535) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🎉 Merged PR [#132](https://github.com/MLH-Fellowship/batch-1-photos/pull/132) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-3. 🎉 Merged PR [#131](https://github.com/MLH-Fellowship/batch-1-photos/pull/131) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-4. 🎉 Merged PR [#130](https://github.com/MLH-Fellowship/batch-1-photos/pull/130) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-5. 🎉 Merged PR [#129](https://github.com/MLH-Fellowship/batch-1-photos/pull/129) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
+1. 🗣 Commented on [#5](https://github.com/EddieJaoudeCommunity/template/issues/5) in [EddieJaoudeCommunity/template](https://github.com/EddieJaoudeCommunity/template)
+2. 🗣 Commented on [#347](https://github.com/EddieJaoudeCommunity/EddieBot/issues/347) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#165](https://github.com/EddieJaoudeCommunity/EddieBot/issues/165) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#527](https://github.com/EddieJaoudeCommunity/support/issues/527) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#511](https://github.com/EddieJaoudeCommunity/support/issues/511) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
