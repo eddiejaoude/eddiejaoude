@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/EddieJaoudeCommunity/template/issues/5) in [EddieJaoudeCommunity/template](https://github.com/EddieJaoudeCommunity/template)
-2. 🗣 Commented on [#347](https://github.com/EddieJaoudeCommunity/EddieBot/issues/347) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#165](https://github.com/EddieJaoudeCommunity/EddieBot/issues/165) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#527](https://github.com/EddieJaoudeCommunity/support/issues/527) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#511](https://github.com/EddieJaoudeCommunity/support/issues/511) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#6](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/6) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
+2. ❗️ Reopened issue [#113](https://github.com/EddieJaoudeCommunity/EddieBot/issues/113) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#113](https://github.com/EddieJaoudeCommunity/EddieBot/issues/113) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. ❗️ Closed issue [#250](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/250) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#250](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/250) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
