@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/eddiejaoude/book-open-source-tips/issues/117) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
-2. 🗣 Commented on [#112](https://github.com/EddieJaoudeCommunity/EddieBot/issues/112) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#194](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/194) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Closed issue [#571](https://github.com/EddieJaoudeCommunity/support/issues/571) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#571](https://github.com/EddieJaoudeCommunity/support/issues/571) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#585](https://github.com/EddieJaoudeCommunity/support/issues/585) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#117](https://github.com/eddiejaoude/book-open-source-tips/issues/117) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+3. 🗣 Commented on [#112](https://github.com/EddieJaoudeCommunity/EddieBot/issues/112) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#194](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/194) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. ❗️ Closed issue [#571](https://github.com/EddieJaoudeCommunity/support/issues/571) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
