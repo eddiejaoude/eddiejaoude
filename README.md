@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#576](https://github.com/EddieJaoudeCommunity/support/issues/576) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🎉 Merged PR [#200](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/200) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#199](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/199) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#436](https://github.com/EddieJaoudeCommunity/support/issues/436) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#576](https://github.com/EddieJaoudeCommunity/support/issues/576) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🎉 Merged PR [#200](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/200) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 4. 🗣 Commented on [#199](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/199) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#360](https://github.com/EddieJaoudeCommunity/EddieBot/issues/360) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#199](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/199) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
