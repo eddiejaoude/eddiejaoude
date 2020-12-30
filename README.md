@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#436](https://github.com/EddieJaoudeCommunity/support/issues/436) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#576](https://github.com/EddieJaoudeCommunity/support/issues/576) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🎉 Merged PR [#200](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/200) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#199](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/199) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#199](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/199) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#407](https://github.com/EddieJaoudeCommunity/support/issues/407) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. ❗️ Opened issue [#65](https://github.com/muhammadsammy/tailwindcss-classnames/issues/65) in [muhammadsammy/tailwindcss-classnames](https://github.com/muhammadsammy/tailwindcss-classnames)
+3. 🗣 Commented on [#436](https://github.com/EddieJaoudeCommunity/support/issues/436) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#576](https://github.com/EddieJaoudeCommunity/support/issues/576) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🎉 Merged PR [#200](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/200) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
