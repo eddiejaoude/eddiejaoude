@@ -30,11 +30,58 @@
 
 ---
 
-<p align="left">
+<p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight&line_height=52" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight&line_height=52">
 
+</p>
+
+<p align = "center">
+<h4 align="center">Testimonials <br><h1 align = "center">❞</h1></h4>  
+</p>
+
+Style 1:
+
+| Testimonial Author 1 | Testimonial Author 2 |
+| :----------: | :----------: |
+| Testimonial Body 1 | Testimonial Body 2 |
+
+Style 2:
+
+<p align = "center">
+<table >
+  <tr>
+  <th>Author</th>
+  <th>Message</th>
+  </tr>
+  <tr>
+  <td>Testimonial Body 1</td>
+  <td>Author 1</td>
+  </tr>
+  <tr>
+  <td>Testimonial Body 2</td>
+  <td>Author 2</td>
+  </tr>
+  <tr>
+  <td>Testimonial Body 3</td>
+  <td>Author 3</td>
+  </tr>
+</table>
+</p>
+
+Style 3:
+
+<p align="center">
+  <p align = "center">
+    <b><i>Testimonial Body 1</i></b><h6 align="center">- Author 1</h6>
+  </p>
+  <p align = "center">
+    <b><i>Testimonial Body 2</i></b><h6 align="center">- Author 2</h6>
+  </p>
+  <p align = "center">
+    <b><i>Testimonial Body 3</i></b><h6 align="center">- Author 3</h6>
+  </p>
 </p>
 
 ---
