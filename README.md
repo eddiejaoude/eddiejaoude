@@ -41,16 +41,9 @@
 <h4 align="center">Testimonials <br><h1 align = "center">❞</h1></h4>  
 </p>
 
-Style 1:
-
-| Testimonial Author 1 | Testimonial Author 2 |
-| :----------: | :----------: |
-| Testimonial Body 1 | Testimonial Body 2 |
-
-Style 2:
 
 <p align = "center">
-<table >
+<table align = "center" >
   <tr>
   <th>Author</th>
   <th>Message</th>
@@ -68,20 +61,6 @@ Style 2:
   <td>Author 3</td>
   </tr>
 </table>
-</p>
-
-Style 3:
-
-<p align="center">
-  <p align = "center">
-    <b><i>Testimonial Body 1</i></b><h6 align="center">- Author 1</h6>
-  </p>
-  <p align = "center">
-    <b><i>Testimonial Body 2</i></b><h6 align="center">- Author 2</h6>
-  </p>
-  <p align = "center">
-    <b><i>Testimonial Body 3</i></b><h6 align="center">- Author 3</h6>
-  </p>
 </p>
 
 ---
