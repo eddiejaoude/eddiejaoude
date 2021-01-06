@@ -38,7 +38,7 @@
 </p>
 
 <p align = "center">
-<h4 align="center">Testimonials <br><h1 align = "center">❞</h1></h4>  
+<h4 align="center">Testimonials <br><h1 align = "center">❝</h1></h4>  
 </p>
 
 
@@ -62,6 +62,12 @@
   </tr>
 </table>
 </p>
+
+<p align = "center">
+<h1 align = "center">❞</h1>
+</p>
+
+
 
 ---
 <!--START_SECTION:activity-->
