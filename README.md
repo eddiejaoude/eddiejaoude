@@ -39,9 +39,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#405](https://github.com/EddieJaoudeCommunity/EddieBot/issues/405) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#221](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/221) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#222](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/222) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Closed issue [#638](https://github.com/EddieJaoudeCommunity/support/issues/638) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#638](https://github.com/EddieJaoudeCommunity/support/issues/638) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#640](https://github.com/EddieJaoudeCommunity/support/issues/640) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🎉 Merged PR [#226](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/226) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#224](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/224) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#223](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/223) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#219](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/219) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
