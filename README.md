@@ -30,12 +30,44 @@
 
 ---
 
-<p align="left">
+<p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight&line_height=52" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight&line_height=52">
 
 </p>
+
+<p align = "center">
+<h4 align="center">Testimonials <br><h1 align = "center">❝</h1></h4>  
+</p>
+
+
+<p align = "center">
+<table align = "center" >
+  <tr>
+  <th>Author</th>
+  <th>Message</th>
+  </tr>
+  <tr>
+  <td>Testimonial Body 1</td>
+  <td>Author 1</td>
+  </tr>
+  <tr>
+  <td>Testimonial Body 2</td>
+  <td>Author 2</td>
+  </tr>
+  <tr>
+  <td>Testimonial Body 3</td>
+  <td>Author 3</td>
+  </tr>
+</table>
+</p>
+
+<p align = "center">
+<h1 align = "center">❞</h1>
+</p>
+
+
 
 ---
 <!--START_SECTION:activity-->
