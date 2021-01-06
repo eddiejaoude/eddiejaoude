@@ -66,9 +66,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/eddiejaoude/eddiejaoude/issues/48) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-2. 🗣 Commented on [#48](https://github.com/eddiejaoude/eddiejaoude/issues/48) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-3. 🗣 Commented on [#405](https://github.com/EddieJaoudeCommunity/EddieBot/issues/405) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🎉 Merged PR [#9](https://github.com/eddiejaoude/jaoudestudios/pull/9) in [eddiejaoude/jaoudestudios](https://github.com/eddiejaoude/jaoudestudios)
+2. ❗️ Closed issue [#8](https://github.com/eddiejaoude/jaoudestudios/issues/8) in [eddiejaoude/jaoudestudios](https://github.com/eddiejaoude/jaoudestudios)
+3. 🗣 Commented on [#643](https://github.com/EddieJaoudeCommunity/support/issues/643) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 4. 🗣 Commented on [#48](https://github.com/eddiejaoude/eddiejaoude/issues/48) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-5. 🎉 Merged PR [#48](https://github.com/eddiejaoude/eddiejaoude/pull/48) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+5. 🗣 Commented on [#48](https://github.com/eddiejaoude/eddiejaoude/issues/48) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
 <!--END_SECTION:activity-->
