@@ -35,31 +35,29 @@
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
-<p align = "center">
-<h4 align="center">Testimonials <br><h1 align = "center">❝</h1></h4>  
-</p>
 
-<p align = "center">
-  <table align = "center" >
-    <tr>
-      <th>Author</th>
-      <th>Message</th>
-      <th>Source</th>
-    </tr>
-    <tr>
-      <td>Layale</td>
-      <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
-      <td>https://twitter.com/yalematta/status/1304541107330658313</td>
-    </tr>
-    <tr>
-      <td>Nawal Alhamwi </td>
-      <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
-      <td>https://twitter.com/__nawalhmw/status/1304572901140635648</td>
-    </tr>
-  </table>
-</p>
+<h4 align="center">Testimonials</h4>
+<h1 align="center">❝</h1>
 
-<p align = "center"><h1 align = "center">❞</h1></p>
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Source</th>
+  </tr>
+  <tr>
+    <td>Layale</td>
+    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
+    <td>https://twitter.com/yalematta/status/1304541107330658313</td>
+  </tr>
+  <tr>
+    <td>Nawal Alhamwi </td>
+    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
+    <td>https://twitter.com/__nawalhmw/status/1304572901140635648</td>
+  </tr>
+</table>
+
+<h1 align="center">❞</h1>
 
 ---
 <!--START_SECTION:activity-->
