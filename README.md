@@ -66,9 +66,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#648](https://github.com/EddieJaoudeCommunity/support/issues/648) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#648](https://github.com/EddieJaoudeCommunity/support/issues/648) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#647](https://github.com/EddieJaoudeCommunity/support/issues/647) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🎉 Merged PR [#214](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/214) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. ❗️ Closed issue [#647](https://github.com/EddieJaoudeCommunity/support/issues/647) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#105](https://github.com/retextjs/retext-equality/issues/105) in [retextjs/retext-equality](https://github.com/retextjs/retext-equality)
+2. ❗️ Opened issue [#105](https://github.com/retextjs/retext-equality/issues/105) in [retextjs/retext-equality](https://github.com/retextjs/retext-equality)
+3. ❗️ Closed issue [#648](https://github.com/EddieJaoudeCommunity/support/issues/648) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#648](https://github.com/EddieJaoudeCommunity/support/issues/648) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#647](https://github.com/EddieJaoudeCommunity/support/issues/647) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
