@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#405](https://github.com/EddieJaoudeCommunity/EddieBot/issues/405) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#121](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/121) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#138](https://github.com/EddieJaoudeCommunity/support/issues/138) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Closed issue [#82](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#82](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#417](https://github.com/EddieJaoudeCommunity/support/issues/417) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#12](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/12) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
+3. 🗣 Commented on [#239](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/239) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#410](https://github.com/EddieJaoudeCommunity/EddieBot/issues/410) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#13](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/13) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
 <!--END_SECTION:activity-->
