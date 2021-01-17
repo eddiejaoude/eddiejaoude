@@ -49,6 +49,11 @@
     <th>Source</th>
   </tr>
   <tr>
+    <td>Anaïs Urlichs</td>
+    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
+    <td>https://twitter.com/urlichsanais/status/1349358736092094467</td>
+  </tr>
+  <tr>
     <td>Layale</td>
     <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
     <td>https://twitter.com/yalematta/status/1304541107330658313</td>
