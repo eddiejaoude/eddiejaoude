@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/EddieJaoudeCommunity/support/issues/417) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#12](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/12) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
-3. 🗣 Commented on [#239](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/239) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#410](https://github.com/EddieJaoudeCommunity/EddieBot/issues/410) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#13](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/13) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
+1. 🗣 Commented on [#2](https://github.com/EddieJaoudeCommunity/Hackathons/issues/2) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+2. 🎉 Merged PR [#2](https://github.com/EddieJaoudeCommunity/Hackathons/pull/2) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+3. 🗣 Commented on [#417](https://github.com/EddieJaoudeCommunity/support/issues/417) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#12](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/12) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
+5. 🗣 Commented on [#239](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/239) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
