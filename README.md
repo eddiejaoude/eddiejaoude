@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/EddieJaoudeCommunity/Hackathons/issues/8) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-2. 🗣 Commented on [#6](https://github.com/EddieJaoudeCommunity/Hackathons/issues/6) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-3. 🎉 Merged PR [#7](https://github.com/EddieJaoudeCommunity/Hackathons/pull/7) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-4. 🎉 Merged PR [#5](https://github.com/EddieJaoudeCommunity/Hackathons/pull/5) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-5. 🎉 Merged PR [#5](https://github.com/EddieJaoudeCommunity/Hackathons/pull/5) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+1. ❗️ Closed issue [#710](https://github.com/EddieJaoudeCommunity/support/issues/710) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#710](https://github.com/EddieJaoudeCommunity/support/issues/710) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#707](https://github.com/EddieJaoudeCommunity/support/issues/707) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#707](https://github.com/EddieJaoudeCommunity/support/issues/707) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#706](https://github.com/EddieJaoudeCommunity/support/issues/706) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
