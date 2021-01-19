@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/EddieJaoudeCommunity/Hackathons/issues/6) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-2. 🎉 Merged PR [#7](https://github.com/EddieJaoudeCommunity/Hackathons/pull/7) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-3. 🎉 Merged PR [#5](https://github.com/EddieJaoudeCommunity/Hackathons/pull/5) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+1. 🗣 Commented on [#8](https://github.com/EddieJaoudeCommunity/Hackathons/issues/8) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+2. 🗣 Commented on [#6](https://github.com/EddieJaoudeCommunity/Hackathons/issues/6) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+3. 🎉 Merged PR [#7](https://github.com/EddieJaoudeCommunity/Hackathons/pull/7) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
 4. 🎉 Merged PR [#5](https://github.com/EddieJaoudeCommunity/Hackathons/pull/5) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-5. 🗣 Commented on [#5](https://github.com/EddieJaoudeCommunity/Hackathons/issues/5) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+5. 🎉 Merged PR [#5](https://github.com/EddieJaoudeCommunity/Hackathons/pull/5) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
 <!--END_SECTION:activity-->
