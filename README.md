@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/5) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
-2. ❗️ Closed issue [#713](https://github.com/EddieJaoudeCommunity/support/issues/713) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#713](https://github.com/EddieJaoudeCommunity/support/issues/713) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Closed issue [#714](https://github.com/EddieJaoudeCommunity/support/issues/714) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#714](https://github.com/EddieJaoudeCommunity/support/issues/714) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#18](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/18) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+2. 🗣 Commented on [#5](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/5) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
+3. ❗️ Closed issue [#713](https://github.com/EddieJaoudeCommunity/support/issues/713) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#713](https://github.com/EddieJaoudeCommunity/support/issues/713) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#714](https://github.com/EddieJaoudeCommunity/support/issues/714) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
