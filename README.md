@@ -34,8 +34,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight&line_height=52" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight&line_height=52">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight" />
 </p>
 
 
