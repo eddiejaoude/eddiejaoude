@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#744](https://github.com/EddieJaoudeCommunity/support/pull/744) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🎉 Merged PR [#738](https://github.com/EddieJaoudeCommunity/support/pull/738) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. ❗️ Closed issue [#733](https://github.com/EddieJaoudeCommunity/support/issues/733) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Opened issue [#733](https://github.com/EddieJaoudeCommunity/support/issues/733) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#137](https://github.com/EddieJaoudeCommunity/support/issues/137) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 💪 Opened PR [#3](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra/pull/3) in [Amisha-Mohapatra/Amisha-Mohapatra](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra)
+2. 💪 Opened PR [#2](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra/pull/2) in [Amisha-Mohapatra/Amisha-Mohapatra](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra)
+3. ❗️ Opened issue [#1](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra/issues/1) in [Amisha-Mohapatra/Amisha-Mohapatra](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra)
+4. ❗️ Opened issue [#8](https://github.com/atapas/theme-builder/issues/8) in [atapas/theme-builder](https://github.com/atapas/theme-builder)
+5. 🎉 Merged PR [#744](https://github.com/EddieJaoudeCommunity/support/pull/744) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
