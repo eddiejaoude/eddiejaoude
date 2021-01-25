@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#446](https://github.com/EddieJaoudeCommunity/support/issues/446) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#1](https://github.com/BOLT04/BOLT04/issues/1) in [BOLT04/BOLT04](https://github.com/BOLT04/BOLT04)
-3. 🗣 Commented on [#5](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/5) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
-4. 💪 Opened PR [#4](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra/pull/4) in [Amisha-Mohapatra/Amisha-Mohapatra](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra)
-5. 💪 Opened PR [#3](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra/pull/3) in [Amisha-Mohapatra/Amisha-Mohapatra](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra)
+1. ❗️ Closed issue [#455](https://github.com/EddieJaoudeCommunity/support/issues/455) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#455](https://github.com/EddieJaoudeCommunity/support/issues/455) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#450](https://github.com/EddieJaoudeCommunity/support/issues/450) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#450](https://github.com/EddieJaoudeCommunity/support/issues/450) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#446](https://github.com/EddieJaoudeCommunity/support/issues/446) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
