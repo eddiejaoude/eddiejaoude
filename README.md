@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#766](https://github.com/EddieJaoudeCommunity/support/pull/766) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#766](https://github.com/EddieJaoudeCommunity/support/issues/766) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🎉 Merged PR [#765](https://github.com/EddieJaoudeCommunity/support/pull/765) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Closed issue [#763](https://github.com/EddieJaoudeCommunity/support/issues/763) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. ❗️ Closed issue [#762](https://github.com/EddieJaoudeCommunity/support/issues/762) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. ❗️ Opened issue [#12](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/12) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
+2. ❌ Closed PR [#766](https://github.com/EddieJaoudeCommunity/support/pull/766) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#766](https://github.com/EddieJaoudeCommunity/support/issues/766) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🎉 Merged PR [#765](https://github.com/EddieJaoudeCommunity/support/pull/765) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Closed issue [#763](https://github.com/EddieJaoudeCommunity/support/issues/763) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
