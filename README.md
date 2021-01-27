@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/EddieJaoudeCommunity/EddieBot/issues/233) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#776](https://github.com/EddieJaoudeCommunity/support/issues/776) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#781](https://github.com/EddieJaoudeCommunity/support/issues/781) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#429](https://github.com/EddieJaoudeCommunity/EddieBot/issues/429) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#233](https://github.com/EddieJaoudeCommunity/EddieBot/issues/233) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#776](https://github.com/EddieJaoudeCommunity/support/issues/776) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 4. 🗣 Commented on [#781](https://github.com/EddieJaoudeCommunity/support/issues/781) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#511](https://github.com/EddieJaoudeCommunity/support/issues/511) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#781](https://github.com/EddieJaoudeCommunity/support/issues/781) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
