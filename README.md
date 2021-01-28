@@ -75,8 +75,8 @@
 ---
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#60](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/60) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
-2. 🎉 Merged PR [#13](https://github.com/eddiejaoude/rock-paper-scissors-game/pull/13) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
-3. 🗣 Commented on [#13](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/13) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
-4. 🗣 Commented on [#778](https://github.com/EddieJaoudeCommunity/support/issues/778) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#777](https://github.com/EddieJaoudeCommunity/support/issues/777) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#416](https://github.com/EddieJaoudeCommunity/EddieBot/issues/416) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#387](https://github.com/EddieJaoudeCommunity/EddieBot/issues/387) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#415](https://github.com/EddieJaoudeCommunity/EddieBot/issues/415) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#413](https://github.com/EddieJaoudeCommunity/EddieBot/issues/413) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
