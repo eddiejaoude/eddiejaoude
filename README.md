@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#779](https://github.com/EddieJaoudeCommunity/support/issues/779) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#15](https://github.com/EddieJaoudeCommunity/api/issues/15) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-3. 🗣 Commented on [#15](https://github.com/EddieJaoudeCommunity/api/issues/15) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-4. 🎉 Merged PR [#19](https://github.com/EddieJaoudeCommunity/api/pull/19) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-5. 🗣 Commented on [#17](https://github.com/EddieJaoudeCommunity/api/issues/17) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+1. 🗣 Commented on [#60](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/60) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+2. 🎉 Merged PR [#13](https://github.com/eddiejaoude/rock-paper-scissors-game/pull/13) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
+3. 🗣 Commented on [#13](https://github.com/eddiejaoude/rock-paper-scissors-game/issues/13) in [eddiejaoude/rock-paper-scissors-game](https://github.com/eddiejaoude/rock-paper-scissors-game)
+4. 🗣 Commented on [#778](https://github.com/EddieJaoudeCommunity/support/issues/778) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#777](https://github.com/EddieJaoudeCommunity/support/issues/777) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
