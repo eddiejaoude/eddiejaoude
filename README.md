@@ -75,8 +75,8 @@
 ---
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com/EddieJaoudeCommunity/api/issues/22) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-2. 🗣 Commented on [#60](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/60) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
-3. 🗣 Commented on [#416](https://github.com/EddieJaoudeCommunity/EddieBot/issues/416) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#387](https://github.com/EddieJaoudeCommunity/EddieBot/issues/387) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#415](https://github.com/EddieJaoudeCommunity/EddieBot/issues/415) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#22](https://github.com/EddieJaoudeCommunity/api/issues/22) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+3. 🗣 Commented on [#60](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/60) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+4. 🗣 Commented on [#416](https://github.com/EddieJaoudeCommunity/EddieBot/issues/416) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#387](https://github.com/EddieJaoudeCommunity/EddieBot/issues/387) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
