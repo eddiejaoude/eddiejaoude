@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#794](https://github.com/EddieJaoudeCommunity/support/issues/794) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#128](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/128) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#127](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/127) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🗣 Commented on [#127](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/127) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 🗣 Commented on [#127](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/127) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#432](https://github.com/EddieJaoudeCommunity/EddieBot/issues/432) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#17](https://github.com/EddieJaoudeCommunity/Hackathons/issues/17) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+3. 🎉 Merged PR [#9](https://github.com/EddieJaoudeCommunity/Hackathons/pull/9) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+4. 🗣 Commented on [#9](https://github.com/EddieJaoudeCommunity/Hackathons/issues/9) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+5. 🗣 Commented on [#794](https://github.com/EddieJaoudeCommunity/support/issues/794) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
