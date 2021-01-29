@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🎉 Merged PR [#265](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/265) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#263](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/263) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#266](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/266) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#127](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/127) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🎉 Merged PR [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
