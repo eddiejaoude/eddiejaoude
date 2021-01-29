@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#127](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/127) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🎉 Merged PR [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#432](https://github.com/EddieJaoudeCommunity/EddieBot/issues/432) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🎉 Merged PR [#23](https://github.com/EddieJaoudeCommunity/api/pull/23) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+3. ❗️ Closed issue [#21](https://github.com/EddieJaoudeCommunity/api/issues/21) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+4. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
