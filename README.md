@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/EddieJaoudeCommunity/api/issues/20) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-2. 🎉 Merged PR [#22](https://github.com/EddieJaoudeCommunity/api/pull/22) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-3. 🎉 Merged PR [#123](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/123) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. ❗️ Opened issue [#125](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/125) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. ❗️ Opened issue [#124](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/124) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#125](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/125) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#125](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/125) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. ❗️ Closed issue [#20](https://github.com/EddieJaoudeCommunity/api/issues/20) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+4. 🎉 Merged PR [#22](https://github.com/EddieJaoudeCommunity/api/pull/22) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+5. 🎉 Merged PR [#123](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/123) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
