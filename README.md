@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#265](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/265) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#263](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/263) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#266](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/266) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🎉 Merged PR [#282](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/282) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#284](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/284) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#265](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/265) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#263](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/263) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#266](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/266) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
