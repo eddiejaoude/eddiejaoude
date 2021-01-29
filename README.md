@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/125) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#125](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/125) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. ❗️ Closed issue [#20](https://github.com/EddieJaoudeCommunity/api/issues/20) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-4. 🎉 Merged PR [#22](https://github.com/EddieJaoudeCommunity/api/pull/22) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-5. 🎉 Merged PR [#123](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/123) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#128](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/128) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#127](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/127) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#127](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/127) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#127](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/127) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🎉 Merged PR [#126](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/126) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
