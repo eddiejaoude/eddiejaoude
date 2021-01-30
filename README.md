@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#432](https://github.com/EddieJaoudeCommunity/EddieBot/issues/432) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🎉 Merged PR [#23](https://github.com/EddieJaoudeCommunity/api/pull/23) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-3. ❗️ Closed issue [#21](https://github.com/EddieJaoudeCommunity/api/issues/21) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-4. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#432](https://github.com/EddieJaoudeCommunity/EddieBot/issues/432) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🎉 Merged PR [#23](https://github.com/EddieJaoudeCommunity/api/pull/23) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+4. ❗️ Closed issue [#21](https://github.com/EddieJaoudeCommunity/api/issues/21) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
 5. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
