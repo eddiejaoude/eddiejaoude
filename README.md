@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#432](https://github.com/EddieJaoudeCommunity/EddieBot/issues/432) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🎉 Merged PR [#23](https://github.com/EddieJaoudeCommunity/api/pull/23) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-4. ❗️ Closed issue [#21](https://github.com/EddieJaoudeCommunity/api/issues/21) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+1. 🗣 Commented on [#165](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/165) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+2. ❌ Closed PR [#10](https://github.com/EddieJaoudeCommunity/api/pull/10) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+3. 🗣 Commented on [#10](https://github.com/EddieJaoudeCommunity/api/issues/10) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+4. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/Hackathons/issues/1) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
 5. 🗣 Commented on [#129](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/129) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
