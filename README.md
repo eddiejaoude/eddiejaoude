@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/EddieJaoudeCommunity/Hackathons/issues/17) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-2. 🗣 Commented on [#115](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/115) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#11](https://github.com/EddieJaoudeCommunity/api/issues/11) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
-4. 🗣 Commented on [#118](https://github.com/eddiejaoude/book-open-source-tips/issues/118) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
-5. 🗣 Commented on [#117](https://github.com/eddiejaoude/book-open-source-tips/issues/117) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+1. 🗣 Commented on [#246](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/246) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#264](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/264) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#272](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/272) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#252](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/252) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#65](https://github.com/muhammadsammy/tailwindcss-classnames/issues/65) in [muhammadsammy/tailwindcss-classnames](https://github.com/muhammadsammy/tailwindcss-classnames)
 <!--END_SECTION:activity-->
