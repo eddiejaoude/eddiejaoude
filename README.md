@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/EddieJaoudeCommunity/Hackathons/issues/17) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
-2. 🗣 Commented on [#272](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/272) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. ❌ Closed PR [#426](https://github.com/EddieJaoudeCommunity/EddieBot/pull/426) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#426](https://github.com/EddieJaoudeCommunity/EddieBot/issues/426) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#246](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/246) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#424](https://github.com/EddieJaoudeCommunity/EddieBot/issues/424) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#122](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/122) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#743](https://github.com/EddieJaoudeCommunity/support/issues/743) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#71](https://github.com/EddieJaoudeCommunity/support/issues/71) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#51](https://github.com/eddiejaoude/eddiejaoude/issues/51) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
 <!--END_SECTION:activity-->
