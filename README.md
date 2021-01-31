@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/124) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🎉 Merged PR [#267](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/267) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#130](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/130) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🗣 Commented on [#131](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/131) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 🎉 Merged PR [#287](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/287) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#120](https://github.com/Vyvy-vi/TearDrops/issues/120) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
+2. 🗣 Commented on [#124](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/124) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🎉 Merged PR [#267](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/267) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#130](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/130) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#131](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/131) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
