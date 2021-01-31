@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/246) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#264](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/264) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#272](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/272) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#252](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/252) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#65](https://github.com/muhammadsammy/tailwindcss-classnames/issues/65) in [muhammadsammy/tailwindcss-classnames](https://github.com/muhammadsammy/tailwindcss-classnames)
+1. 🗣 Commented on [#17](https://github.com/EddieJaoudeCommunity/Hackathons/issues/17) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+2. 🗣 Commented on [#272](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/272) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. ❌ Closed PR [#426](https://github.com/EddieJaoudeCommunity/EddieBot/pull/426) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#426](https://github.com/EddieJaoudeCommunity/EddieBot/issues/426) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#246](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/246) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
