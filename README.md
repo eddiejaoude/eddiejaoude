@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/266) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#261](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/261) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#418](https://github.com/EddieJaoudeCommunity/EddieBot/issues/418) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#421](https://github.com/EddieJaoudeCommunity/EddieBot/issues/421) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#258](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/258) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#17](https://github.com/EddieJaoudeCommunity/Hackathons/issues/17) in [EddieJaoudeCommunity/Hackathons](https://github.com/EddieJaoudeCommunity/Hackathons)
+2. 🗣 Commented on [#115](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/115) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#11](https://github.com/EddieJaoudeCommunity/api/issues/11) in [EddieJaoudeCommunity/api](https://github.com/EddieJaoudeCommunity/api)
+4. 🗣 Commented on [#118](https://github.com/eddiejaoude/book-open-source-tips/issues/118) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+5. 🗣 Commented on [#117](https://github.com/eddiejaoude/book-open-source-tips/issues/117) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
 <!--END_SECTION:activity-->
