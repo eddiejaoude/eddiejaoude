@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#433](https://github.com/EddieHubCommunity/EddieBot/pull/433) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/124) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🗣 Commented on [#120](https://github.com/Vyvy-vi/TearDrops/issues/120) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
-4. 🗣 Commented on [#124](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/124) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. 🎉 Merged PR [#267](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/267) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. ❗️ Closed issue [#459](https://github.com/EddieHubCommunity/support/issues/459) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#459](https://github.com/EddieHubCommunity/support/issues/459) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#828](https://github.com/EddieHubCommunity/support/pull/828) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Closed issue [#827](https://github.com/EddieHubCommunity/support/issues/827) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🎉 Merged PR [#433](https://github.com/EddieHubCommunity/EddieBot/pull/433) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
