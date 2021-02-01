@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#459](https://github.com/EddieHubCommunity/support/issues/459) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#459](https://github.com/EddieHubCommunity/support/issues/459) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🎉 Merged PR [#828](https://github.com/EddieHubCommunity/support/pull/828) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#827](https://github.com/EddieHubCommunity/support/issues/827) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🎉 Merged PR [#433](https://github.com/EddieHubCommunity/EddieBot/pull/433) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❗️ Closed issue [#542](https://github.com/EddieHubCommunity/support/issues/542) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#542](https://github.com/EddieHubCommunity/support/issues/542) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Closed issue [#517](https://github.com/EddieHubCommunity/support/issues/517) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#517](https://github.com/EddieHubCommunity/support/issues/517) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#516](https://github.com/EddieHubCommunity/support/issues/516) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
