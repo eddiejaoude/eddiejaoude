@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/129) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. 🗣 Commented on [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🎉 Merged PR [#17](https://github.com/EddieHubCommunity/Hackathons/pull/17) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-4. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Hackathons/issues/17) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+1. ❗️ Closed issue [#139](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/139) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. 🎉 Merged PR [#141](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/141) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. 🗣 Commented on [#836](https://github.com/EddieHubCommunity/support/issues/836) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Closed issue [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 5. 🗣 Commented on [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
