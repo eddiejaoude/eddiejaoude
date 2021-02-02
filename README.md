@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. ❗️ Opened issue [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🎉 Merged PR [#136](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/136) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-4. 🎉 Merged PR [#137](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/137) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 🗣 Commented on [#839](https://github.com/EddieHubCommunity/support/issues/839) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#129](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/129) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. 🗣 Commented on [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. 🎉 Merged PR [#17](https://github.com/EddieHubCommunity/Hackathons/pull/17) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+4. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Hackathons/issues/17) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+5. 🗣 Commented on [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
