@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#139](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/139) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. 🎉 Merged PR [#141](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/141) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🗣 Commented on [#836](https://github.com/EddieHubCommunity/support/issues/836) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 🗣 Commented on [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🎉 Merged PR [#143](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/143) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. ❗️ Closed issue [#142](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/142) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. 🗣 Commented on [#143](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/143) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 💪 Opened PR [#143](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/143) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. ❗️ Opened issue [#142](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/142) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
