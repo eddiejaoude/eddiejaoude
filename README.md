@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/EddieHubCommunity/template/issues/9) in [EddieHubCommunity/template](https://github.com/EddieHubCommunity/template)
-2. 🗣 Commented on [#3](https://github.com/EddieHubCommunity/Branding/issues/3) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🗣 Commented on [#405](https://github.com/EddieHubCommunity/EddieBot/issues/405) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 💪 Opened PR [#850](https://github.com/EddieHubCommunity/support/pull/850) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Opened issue [#849](https://github.com/EddieHubCommunity/support/issues/849) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#775](https://github.com/EddieHubCommunity/support/issues/775) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#774](https://github.com/EddieHubCommunity/support/issues/774) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#761](https://github.com/EddieHubCommunity/support/issues/761) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#822](https://github.com/EddieHubCommunity/support/issues/822) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Opened issue [#9](https://github.com/EddieHubCommunity/template/issues/9) in [EddieHubCommunity/template](https://github.com/EddieHubCommunity/template)
 <!--END_SECTION:activity-->
