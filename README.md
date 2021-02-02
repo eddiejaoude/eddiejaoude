@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/136) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. ❗️ Closed issue [#116](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/116) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. ❗️ Closed issue [#124](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/124) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-4. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/124) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 🎉 Merged PR [#134](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/134) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🗣 Commented on [#826](https://github.com/EddieHubCommunity/support/issues/826) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#826](https://github.com/EddieHubCommunity/support/issues/826) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 💪 Opened PR [#136](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/136) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. ❗️ Closed issue [#116](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/116) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. ❗️ Closed issue [#124](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/124) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
