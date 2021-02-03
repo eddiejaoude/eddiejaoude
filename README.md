@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra/pull/3) in [Amisha-Mohapatra/Amisha-Mohapatra](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra)
-2. 💪 Opened PR [#2](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra/pull/2) in [Amisha-Mohapatra/Amisha-Mohapatra](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra)
-3. ❗️ Opened issue [#1](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra/issues/1) in [Amisha-Mohapatra/Amisha-Mohapatra](https://github.com/Amisha-Mohapatra/Amisha-Mohapatra)
-4. ❗️ Opened issue [#8](https://github.com/atapas/theme-builder/issues/8) in [atapas/theme-builder](https://github.com/atapas/theme-builder)
-5. 🎉 Merged PR [#744](https://github.com/EddieJaoudeCommunity/support/pull/744) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#395](https://github.com/EddieHubCommunity/EddieBot/issues/395) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#853](https://github.com/EddieHubCommunity/support/issues/853) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#62](https://github.com/EddieHubCommunity/gh-action-community/pull/62) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+4. 🗣 Commented on [#71](https://github.com/EddieHubCommunity/support/issues/71) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#24](https://github.com/EddieHubCommunity/api/issues/24) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
