@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/EddieHubCommunity/transcriptions/pull/3) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-2. ❗️ Opened issue [#1](https://github.com/Akshu-on-github/Akshu-on-github/issues/1) in [Akshu-on-github/Akshu-on-github](https://github.com/Akshu-on-github/Akshu-on-github)
-3. ❗️ Closed issue [#2](https://github.com/EddieHubCommunity/transcriptions/issues/2) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-4. ❗️ Opened issue [#2](https://github.com/EddieHubCommunity/transcriptions/issues/2) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-5. 🗣 Commented on [#4](https://github.com/EddieHubCommunity/Branding/issues/4) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. ❗️ Closed issue [#6](https://github.com/EddieHubCommunity/transcriptions/issues/6) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+2. ❗️ Opened issue [#6](https://github.com/EddieHubCommunity/transcriptions/issues/6) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+3. 🎉 Merged PR [#5](https://github.com/EddieHubCommunity/transcriptions/pull/5) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+4. ❗️ Closed issue [#4](https://github.com/EddieHubCommunity/transcriptions/issues/4) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+5. 🎉 Merged PR [#3](https://github.com/EddieHubCommunity/transcriptions/pull/3) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
 <!--END_SECTION:activity-->
