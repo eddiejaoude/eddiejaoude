@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/EddieHubCommunity/transcriptions/issues/7) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-2. ❗️ Closed issue [#6](https://github.com/EddieHubCommunity/transcriptions/issues/6) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-3. ❗️ Opened issue [#6](https://github.com/EddieHubCommunity/transcriptions/issues/6) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-4. 🎉 Merged PR [#5](https://github.com/EddieHubCommunity/transcriptions/pull/5) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-5. ❗️ Closed issue [#4](https://github.com/EddieHubCommunity/transcriptions/issues/4) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+1. 🎉 Merged PR [#10](https://github.com/EddieHubCommunity/transcriptions/pull/10) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+2. 🎉 Merged PR [#9](https://github.com/EddieHubCommunity/transcriptions/pull/9) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+3. ❗️ Opened issue [#7](https://github.com/EddieHubCommunity/transcriptions/issues/7) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+4. ❗️ Closed issue [#6](https://github.com/EddieHubCommunity/transcriptions/issues/6) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+5. ❗️ Opened issue [#6](https://github.com/EddieHubCommunity/transcriptions/issues/6) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
 <!--END_SECTION:activity-->
