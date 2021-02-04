@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/EddieHubCommunity/transcriptions/issues/2) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-2. ❗️ Opened issue [#2](https://github.com/EddieHubCommunity/transcriptions/issues/2) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-3. 🗣 Commented on [#4](https://github.com/EddieHubCommunity/Branding/issues/4) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#857](https://github.com/EddieHubCommunity/support/issues/857) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Opened issue [#1](https://github.com/Akshu-on-github/Akshu-on-github/issues/1) in [Akshu-on-github/Akshu-on-github](https://github.com/Akshu-on-github/Akshu-on-github)
+2. ❗️ Closed issue [#2](https://github.com/EddieHubCommunity/transcriptions/issues/2) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+3. ❗️ Opened issue [#2](https://github.com/EddieHubCommunity/transcriptions/issues/2) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+4. 🗣 Commented on [#4](https://github.com/EddieHubCommunity/Branding/issues/4) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 5. 🗣 Commented on [#857](https://github.com/EddieHubCommunity/support/issues/857) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
