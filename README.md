@@ -46,27 +46,22 @@
   <tr>
     <th>Author</th>
     <th>Message</th>
-    <th>Source</th>
   </tr>
   <tr>
-    <td>Anaïs Urlichs</td>
+    <td>[Anaïs Urlichs](https://twitter.com/urlichsanais/status/1349358736092094467)</td>
     <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
-    <td>https://twitter.com/urlichsanais/status/1349358736092094467</td>
   </tr>
   <tr>
-    <td>Layale</td>
+    <td>[Layale](https://twitter.com/yalematta/status/1304541107330658313)</td>
     <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
-    <td>https://twitter.com/yalematta/status/1304541107330658313</td>
   </tr>
   <tr>
-    <td>Nawal Alhamwi</td>
+    <td>[Nawal Alhamwi](https://twitter.com/__nawalhmw/status/1304572901140635648)</td>
     <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
-    <td>https://twitter.com/__nawalhmw/status/1304572901140635648</td>
   </tr>
   <tr>
-    <td>Allan Regush</td>
+    <td>[Allan Regush](https://twitter.com/allanregush/status/1304484456221167617)</td>
     <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
-    <td>https://twitter.com/allanregush/status/1304484456221167617</td>
   </tr>
 </table>
 
