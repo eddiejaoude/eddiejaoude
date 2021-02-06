@@ -74,9 +74,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/EddieHubCommunity/gh-action-community/pull/66) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-2. ❗️ Closed issue [#65](https://github.com/EddieHubCommunity/gh-action-community/issues/65) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-3. 🗣 Commented on [#14](https://github.com/EddieHubCommunity/transcriptions/issues/14) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+1. ❗️ Opened issue [#146](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/146) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. 🎉 Merged PR [#66](https://github.com/EddieHubCommunity/gh-action-community/pull/66) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+3. ❗️ Closed issue [#65](https://github.com/EddieHubCommunity/gh-action-community/issues/65) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
 4. 🗣 Commented on [#14](https://github.com/EddieHubCommunity/transcriptions/issues/14) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-5. 🗣 Commented on [#63](https://github.com/EddieHubCommunity/gh-action-community/issues/63) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+5. 🗣 Commented on [#14](https://github.com/EddieHubCommunity/transcriptions/issues/14) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
 <!--END_SECTION:activity-->
