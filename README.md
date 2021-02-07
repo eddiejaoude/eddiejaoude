@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/EddieHubCommunity/Branding/issues/4) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. 🗣 Commented on [#4](https://github.com/EddieHubCommunity/Branding/issues/4) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🗣 Commented on [#857](https://github.com/EddieHubCommunity/support/issues/857) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#30](https://github.com/EddieHubCommunity/support/issues/30) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#30](https://github.com/EddieHubCommunity/support/issues/30) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#68](https://github.com/EddieHubCommunity/gh-action-community/issues/68) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+2. 🗣 Commented on [#64](https://github.com/EddieHubCommunity/gh-action-community/issues/64) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+3. ❗️ Opened issue [#68](https://github.com/EddieHubCommunity/gh-action-community/issues/68) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+4. ❗️ Closed issue [#67](https://github.com/EddieHubCommunity/gh-action-community/issues/67) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+5. ❗️ Opened issue [#67](https://github.com/EddieHubCommunity/gh-action-community/issues/67) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
 <!--END_SECTION:activity-->
