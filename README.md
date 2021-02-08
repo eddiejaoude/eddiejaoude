@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/eddiejaoude/starter-snake-node-ts/issues/1) in [eddiejaoude/starter-snake-node-ts](https://github.com/eddiejaoude/starter-snake-node-ts)
-2. ❗️ Closed issue [#68](https://github.com/EddieHubCommunity/gh-action-community/issues/68) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-3. 🗣 Commented on [#64](https://github.com/EddieHubCommunity/gh-action-community/issues/64) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-4. ❗️ Opened issue [#68](https://github.com/EddieHubCommunity/gh-action-community/issues/68) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-5. ❗️ Closed issue [#67](https://github.com/EddieHubCommunity/gh-action-community/issues/67) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+1. ❗️ Closed issue [#1](https://github.com/eddiejaoude/starter-snake-node-ts/issues/1) in [eddiejaoude/starter-snake-node-ts](https://github.com/eddiejaoude/starter-snake-node-ts)
+2. ❗️ Opened issue [#1](https://github.com/eddiejaoude/starter-snake-node-ts/issues/1) in [eddiejaoude/starter-snake-node-ts](https://github.com/eddiejaoude/starter-snake-node-ts)
+3. ❗️ Closed issue [#68](https://github.com/EddieHubCommunity/gh-action-community/issues/68) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+4. 🗣 Commented on [#64](https://github.com/EddieHubCommunity/gh-action-community/issues/64) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+5. ❗️ Opened issue [#68](https://github.com/EddieHubCommunity/gh-action-community/issues/68) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
 <!--END_SECTION:activity-->
