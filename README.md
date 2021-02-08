@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/eddiejaoude/starter-snake-node-ts/issues/1) in [eddiejaoude/starter-snake-node-ts](https://github.com/eddiejaoude/starter-snake-node-ts)
-2. ❗️ Opened issue [#1](https://github.com/eddiejaoude/starter-snake-node-ts/issues/1) in [eddiejaoude/starter-snake-node-ts](https://github.com/eddiejaoude/starter-snake-node-ts)
-3. ❗️ Closed issue [#68](https://github.com/EddieHubCommunity/gh-action-community/issues/68) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-4. 🗣 Commented on [#64](https://github.com/EddieHubCommunity/gh-action-community/issues/64) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-5. ❗️ Opened issue [#68](https://github.com/EddieHubCommunity/gh-action-community/issues/68) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+1. ❗️ Reopened issue [#15](https://github.com/EddieHubCommunity/transcriptions/issues/15) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+2. 🗣 Commented on [#15](https://github.com/EddieHubCommunity/transcriptions/issues/15) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+3. ❗️ Closed issue [#14](https://github.com/EddieHubCommunity/transcriptions/issues/14) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+4. 🗣 Commented on [#14](https://github.com/EddieHubCommunity/transcriptions/issues/14) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+5. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/support/issues/506) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
