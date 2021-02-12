@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#314](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/314) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#314](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/314) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🎉 Merged PR [#5](https://github.com/EddieHubCommunity/Branding/pull/5) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#206](https://github.com/EddieHubCommunity/EddieBot/issues/206) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#273](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/273) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#57](https://github.com/eddiejaoude/eddiejaoude/issues/57) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+2. 🗣 Commented on [#331](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/331) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#1](https://github.com/Akshu-on-github/Akshu-on-github/issues/1) in [Akshu-on-github/Akshu-on-github](https://github.com/Akshu-on-github/Akshu-on-github)
+4. 🗣 Commented on [#338](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/338) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#314](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/314) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
