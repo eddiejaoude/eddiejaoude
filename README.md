@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/EddieHubCommunity/api/issues/12) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#12](https://github.com/EddieHubCommunity/api/issues/12) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#57](https://github.com/eddiejaoude/eddiejaoude/issues/57) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-4. 🗣 Commented on [#331](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/331) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#1](https://github.com/Akshu-on-github/Akshu-on-github/issues/1) in [Akshu-on-github/Akshu-on-github](https://github.com/Akshu-on-github/Akshu-on-github)
+1. ❗️ Opened issue [#28](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues/28) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+2. ❗️ Opened issue [#27](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues/27) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+3. 🗣 Commented on [#12](https://github.com/EddieHubCommunity/api/issues/12) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#12](https://github.com/EddieHubCommunity/api/issues/12) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#57](https://github.com/eddiejaoude/eddiejaoude/issues/57) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
 <!--END_SECTION:activity-->
