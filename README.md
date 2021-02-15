@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/api/issues/26) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🎉 Merged PR [#117](https://github.com/eddiejaoude/book-open-source-tips/pull/117) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
 2. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/api/issues/26) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 3. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/api/issues/26) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 4. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/api/issues/26) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. ❗️ Opened issue [#28](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues/28) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+5. 🗣 Commented on [#26](https://github.com/EddieHubCommunity/api/issues/26) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
