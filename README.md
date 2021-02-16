@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/eddiejaoude/eddiejaoude/issues/52) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-2. 🗣 Commented on [#907](https://github.com/EddieHubCommunity/support/issues/907) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#330](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/330) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#833](https://github.com/EddieHubCommunity/support/issues/833) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#512](https://github.com/EddieHubCommunity/support/issues/512) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#508](https://github.com/EddieHubCommunity/support/issues/508) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#52](https://github.com/eddiejaoude/eddiejaoude/issues/52) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+3. 🗣 Commented on [#907](https://github.com/EddieHubCommunity/support/issues/907) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#330](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/330) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#833](https://github.com/EddieHubCommunity/support/issues/833) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
