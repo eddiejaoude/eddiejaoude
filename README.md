@@ -69,9 +69,9 @@
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#443](https://github.com/EddieHubCommunity/EddieBot/pull/443) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Closed issue [#442](https://github.com/EddieHubCommunity/EddieBot/issues/442) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🗣 Commented on [#443](https://github.com/EddieHubCommunity/EddieBot/issues/443) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#362](https://github.com/EddieHubCommunity/support/issues/362) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#443](https://github.com/EddieHubCommunity/EddieBot/issues/443) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🎉 Merged PR [#360](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/360) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Closed issue [#359](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/359) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#385](https://github.com/EddieHubCommunity/EddieBot/issues/385) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🎉 Merged PR [#443](https://github.com/EddieHubCommunity/EddieBot/pull/443) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Closed issue [#442](https://github.com/EddieHubCommunity/EddieBot/issues/442) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
