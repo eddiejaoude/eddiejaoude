@@ -33,11 +33,7 @@
 
 ---
 
-<p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
 
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
@@ -67,7 +63,6 @@
 
 <h1 align="center">❞</h1>
 
----
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#931](https://github.com/EddieHubCommunity/support/issues/931) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. 🗣 Commented on [#446](https://github.com/EddieHubCommunity/EddieBot/issues/446) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
