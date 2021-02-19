@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#640](https://github.com/EddieHubCommunity/support/issues/640) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#640](https://github.com/EddieHubCommunity/support/issues/640) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#625](https://github.com/EddieHubCommunity/support/issues/625) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#625](https://github.com/EddieHubCommunity/support/issues/625) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Closed issue [#622](https://github.com/EddieHubCommunity/support/issues/622) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#643](https://github.com/EddieHubCommunity/support/issues/643) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#643](https://github.com/EddieHubCommunity/support/issues/643) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 💪 Opened PR [#211](https://github.com/akshitagupta15june/Face-X/pull/211) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+4. ❗️ Opened issue [#210](https://github.com/akshitagupta15june/Face-X/issues/210) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+5. ❗️ Closed issue [#640](https://github.com/EddieHubCommunity/support/issues/640) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
