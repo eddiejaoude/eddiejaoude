@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#644](https://github.com/EddieHubCommunity/support/issues/644) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#644](https://github.com/EddieHubCommunity/support/issues/644) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#643](https://github.com/EddieHubCommunity/support/issues/643) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#643](https://github.com/EddieHubCommunity/support/issues/643) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 💪 Opened PR [#211](https://github.com/akshitagupta15june/Face-X/pull/211) in [akshitagupta15june/Face-X](https://github.com/akshitagupta15june/Face-X)
+1. 💪 Opened PR [#69](https://github.com/EddieHubCommunity/gh-action-community/pull/69) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+2. ❗️ Closed issue [#644](https://github.com/EddieHubCommunity/support/issues/644) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#644](https://github.com/EddieHubCommunity/support/issues/644) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Closed issue [#643](https://github.com/EddieHubCommunity/support/issues/643) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#643](https://github.com/EddieHubCommunity/support/issues/643) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
