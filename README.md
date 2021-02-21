@@ -35,7 +35,21 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>Github Stats : </strong>
+</summary>
+<br>
+  
+<p align="center">
+<a href="https://github.com/eddiejaoude">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight" />
+</a>
+</p>
+</details>
+<br>
 
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
@@ -72,3 +86,4 @@
 4. 💪 Opened PR [#70](https://github.com/EddieHubCommunity/gh-action-community/pull/70) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
 5. 🎉 Merged PR [#69](https://github.com/EddieHubCommunity/gh-action-community/pull/69) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
 <!--END_SECTION:activity-->
+<h1 align="center"><img src="https://gpvc.arturio.dev/eddiejaoude" alt="profile views"></h1>
