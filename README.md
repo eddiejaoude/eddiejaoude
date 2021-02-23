@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/chryz-hub/chryz-hub.github.io/issues/9) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. ❗️ Opened issue [#9](https://github.com/chryz-hub/chryz-hub.github.io/issues/9) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🎉 Merged PR [#70](https://github.com/EddieHubCommunity/gh-action-community/pull/70) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-4. 💪 Opened PR [#70](https://github.com/EddieHubCommunity/gh-action-community/pull/70) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-5. 🎉 Merged PR [#69](https://github.com/EddieHubCommunity/gh-action-community/pull/69) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+1. 🗣 Commented on [#948](https://github.com/EddieHubCommunity/support/issues/948) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Closed issue [#9](https://github.com/chryz-hub/chryz-hub.github.io/issues/9) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. ❗️ Opened issue [#9](https://github.com/chryz-hub/chryz-hub.github.io/issues/9) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🎉 Merged PR [#70](https://github.com/EddieHubCommunity/gh-action-community/pull/70) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+5. 💪 Opened PR [#70](https://github.com/EddieHubCommunity/gh-action-community/pull/70) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
 <!--END_SECTION:activity-->
