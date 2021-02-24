@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/EddieHubCommunity/EddieBotLive/issues/23) in [EddieHubCommunity/EddieBotLive](https://github.com/EddieHubCommunity/EddieBotLive)
-2. 🗣 Commented on [#23](https://github.com/EddieHubCommunity/EddieBotLive/issues/23) in [EddieHubCommunity/EddieBotLive](https://github.com/EddieHubCommunity/EddieBotLive)
-3. 💪 Opened PR [#455](https://github.com/EddieHubCommunity/EddieBot/pull/455) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. ❗️ Opened issue [#454](https://github.com/EddieHubCommunity/EddieBot/issues/454) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Opened issue [#2](https://github.com/eddiejaoude/starter-snake-node-ts/issues/2) in [eddiejaoude/starter-snake-node-ts](https://github.com/eddiejaoude/starter-snake-node-ts)
+1. 🗣 Commented on [#277](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/277) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❗️ Closed issue [#284](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/284) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. ❗️ Opened issue [#284](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/284) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. ❗️ Closed issue [#283](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/283) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. ❗️ Opened issue [#283](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/283) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
