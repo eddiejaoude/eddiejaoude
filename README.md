@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#277](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/277) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. ❗️ Closed issue [#284](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/284) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. ❗️ Opened issue [#284](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/284) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. ❗️ Closed issue [#283](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/283) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. ❗️ Opened issue [#283](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/283) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. ❗️ Opened issue [#976](https://github.com/EddieHubCommunity/support/issues/976) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#902](https://github.com/EddieHubCommunity/support/pull/902) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Closed issue [#853](https://github.com/EddieHubCommunity/support/issues/853) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#902](https://github.com/EddieHubCommunity/support/issues/902) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#277](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/277) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
