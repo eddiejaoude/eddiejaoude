@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/eddiejaoude/starter-snake-node-ts/issues/2) in [eddiejaoude/starter-snake-node-ts](https://github.com/eddiejaoude/starter-snake-node-ts)
-2. 🗣 Commented on [#948](https://github.com/EddieHubCommunity/support/issues/948) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#9](https://github.com/chryz-hub/chryz-hub.github.io/issues/9) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. ❗️ Opened issue [#9](https://github.com/chryz-hub/chryz-hub.github.io/issues/9) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🎉 Merged PR [#70](https://github.com/EddieHubCommunity/gh-action-community/pull/70) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+1. 💪 Opened PR [#455](https://github.com/EddieHubCommunity/EddieBot/pull/455) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. ❗️ Opened issue [#454](https://github.com/EddieHubCommunity/EddieBot/issues/454) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Opened issue [#2](https://github.com/eddiejaoude/starter-snake-node-ts/issues/2) in [eddiejaoude/starter-snake-node-ts](https://github.com/eddiejaoude/starter-snake-node-ts)
+4. 🗣 Commented on [#948](https://github.com/EddieHubCommunity/support/issues/948) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#9](https://github.com/chryz-hub/chryz-hub.github.io/issues/9) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
