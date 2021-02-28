@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#932](https://github.com/EddieHubCommunity/support/issues/932) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#236](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/236) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#450](https://github.com/EddieHubCommunity/EddieBot/issues/450) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#450](https://github.com/EddieHubCommunity/EddieBot/issues/450) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🗣 Commented on [#535](https://github.com/EddieHubCommunity/support/issues/535) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#962](https://github.com/EddieHubCommunity/support/issues/962) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#280](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/280) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#279](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/279) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#512](https://github.com/EddieHubCommunity/support/issues/512) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#5](https://github.com/eddiejaoude/eddiejaoude/issues/5) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
 <!--END_SECTION:activity-->
