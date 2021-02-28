@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#962](https://github.com/EddieHubCommunity/support/issues/962) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#280](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/280) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#279](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/279) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#512](https://github.com/EddieHubCommunity/support/issues/512) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Closed issue [#5](https://github.com/eddiejaoude/eddiejaoude/issues/5) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+1. 🗣 Commented on [#343](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/343) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#946](https://github.com/EddieHubCommunity/support/issues/946) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#962](https://github.com/EddieHubCommunity/support/issues/962) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#280](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/280) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#279](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/279) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
