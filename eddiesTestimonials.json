@@ -1,0 +1,179 @@
+{
+ "testimonials": [
+  {
+   "id": "1",
+   "user": "@SashoStoichkov",
+   "testimonial": "The power of EddieHub ... when I checked my #GitHub notifications now +9 followers and an email job offer containing the following sentence: I found your profile on GitHub",
+   "date": "24-Feb-2021",
+   "link": "https://twitter.com/eddiejaoude/status/1364720592621043718"
+  },
+  {
+   "id": "2",
+   "user": "@monkchips",
+   "testimonial": "y'all should follow @eddiejaoude. he puts so much positive energy into the world. love that guy. he's always trying to support other people and lift them up.",
+   "date": "24-Feb-2021",
+   "link": "https://twitter.com/monkchips/status/1364550984106717190"
+  },
+  {
+   "id": "3",
+   "user": "@AhmedMuhammedG2",
+   "testimonial": "I love EddieHub :heart: my productivity level has increased now i feel more like a developer before i felt like i was forcing it now i enjoy and cherish every moment",
+   "date": "31-Jan-2021",
+   "link": "https://twitter.com/eddiejaoude/status/1356022828856987649"
+  },
+  {
+   "id": "4",
+   "user": "@urlichsanais",
+   "testimonial": "Eddie is probably the most genuine and kind person I know in tech :Smiling face with 3 hearts: providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast Face screaming in fear Who is your tech super-hero?",
+   "date": "13-Jan-2021",
+   "link": "https://twitter.com/urlichsanais/status/1349358736092094467"
+  },
+  {
+   "id": "5",
+   "user": "@yalematta",
+   "testimonial": "Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!",
+   "date": "11-Sept-2020",
+   "link": "https://twitter.com/yalematta/status/1304541107330658313"
+  },
+  {
+   "id": "6",
+   "user": "@__nawalhmw",
+   "testimonial": "YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more! 🤩 Thanks @eddiejaoude 🌟",
+   "date": "12-Sept-2020",
+   "link": "https://twitter.com/__nawalhmw/status1304572901140635648"
+  },
+  {
+   "id": "7",
+   "user": "@allanregush",
+   "testimonial": "Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.https://github.com/EddieJaoudeCom",
+   "date": "11-Sept-2020",
+   "link": "https://twitter.com/allanregus/status1304484456221167617"
+  },
+  {
+   "id": "8",
+   "user": "@MikeRogers0",
+   "testimonial": "The @eddiejaoude discord (https://discord.gg/m7U696) is pretty neat! Same with PHP Online (https://discord.gg/smf6cn)",
+   "date": "11-Sept-2020",
+   "link": "https://twitter.com/MikeRogers0/status/1304320638463741952"
+  },
+  {
+   "id": "9",
+   "user": "Martin Woodward",
+   "testimonial": "It was indeed. Congratulations on your nomination- we are a big fan of your work here at GitHub",
+   "date": "6-July-2020",
+   "link": "https://twitter.com/eddiejaoude/status/1280063374932484097"
+  },
+  {
+   "id": "10",
+   "user": "@__nawalhmw",
+   "testimonial": "If there's one workspace that I'm fascinated with it's definitely @eddiejaoude! Eddie's crushing it on his Youtube channel 🔥 && he can help you with this!🌟",
+   "date": "12-Sept-2020",
+   "link": "https://twitter.com/__nawalhmw/status/1304870527018979331?s=21"
+  },
+  {
+   "id": "11",
+   "user": "@yalematta",
+   "testimonial": "Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!",
+   "date": "11-Sept-2020",
+   "link": "https://twitter.com/yalematta/status/1304541107330658313?s=21"
+  },
+  {
+   "id": "12",
+   "user": "Patrick Debois",
+   "testimonial": "You are an example for the whole community, keep up the good work Eddie",
+   "date": "Sept-2020",
+   "link": "https://www.linkedin.com/feed/update/urn:li:activity:6711225360224202752?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6711225360224202752%2C6711645968451829760%29%C2%A0"
+  },
+  {
+   "id": "13",
+   "user": "@ThatOneBugDude",
+   "testimonial": "Thanks @eddiejaoude, for making me fall in love with open source communities. You have shown me the power and a kinda ever lasting support that a community can be. Thanks again!! Peace ✌️",
+   "date": "17-Sept-2020",
+   "link": "https://twitter.com/ThatOneBugDude/status/1306631921946914816"
+  },
+  {
+   "id": "14",
+   "user": "Srinath",
+   "testimonial": "I have been  using GitHub regularly. Thank you so much for that initial push",
+   "date": "30-Sept-2020",
+   "link": "https://twitter.com/eddiejaoude/status/1311395059728887823"
+  },
+  {
+   "id": "15",
+   "user": "Darshan",
+   "testimonial": "Open Source is great! I'm learning so much about Typescript just by trying to contribute to the EddieBot repo. :)",
+   "date": "1-Oct-2020",
+   "link": "https://twitter.com/eddiejaoude/status/1311599515854610432"
+  },
+  {
+   "id": "16",
+   "user": "@thatanimeguy23",
+   "testimonial": "Day 89: Learning about Git and opensource from @eddiejaoude is really  amusing. It really gives me immense joy to watch his live streaming and videos.",
+   "date": "3-Oct-2020",
+   "link": "https://twitter.com/thatanimeguy23/status/1312473829877321730"
+  },
+  {
+   "id": "17",
+   "user": "@_NikitaUday",
+   "testimonial": "It was incredible to listen to you speak. I was really surprised to see how humble you are. I really appreciate all the effort",
+   "date": "4-Oct-2020",
+   "link": "https://twitter.com/eddiejaoude/status/1312666272707026944"
+  },
+  {
+   "id": "18",
+   "user": "@monicodesinheels",
+   "testimonial": "I made it to the top of the front page of Hacker Noon with this article. I want to thank you for helping me get to this point in confidence by supporting my writing early on. I will always remember",
+   "date": "8-Oct-2020",
+   "link": "https://twitter.com/eddiejaoude/status/1314133810968244224"
+  },
+  {
+   "id": "19",
+   "user": "@trimankaur1999",
+   "testimonial": "You are the Hero of my Hacktoberfest Story  :)",
+   "date": "26-Oct-2020",
+   "link": "https://twitter.com/eddiejaoude/status/1320642071569534976"
+  },
+  {
+   "id": "20",
+   "user": "@lihautan",
+   "testimonial": "You inspired me to start my own YouTube channel :Flexed biceps:",
+   "date": "26-Nov-2020",
+   "link": "https://twitter.com/lihautan/status/1331878791287750656"
+  },
+  {
+   "id": "21",
+   "user": "@ja9look",
+   "testimonial": "The time when @eddiejaoude told me to stand in front of an audience of 300 people to take a photo! I was so nervous and scared - but so grateful because it's ended up being one of my favourites <3",
+   "date": "25-Nov-2020",
+   "link": "https://twitter.com/ja9look/status/1331565025841074177"
+  },
+  {
+   "id": "22",
+   "user": "@github",
+   "testimonial": "Star of the Year at Nova 2020 is @eddiejaoude!⭐ Eddie contributes to the community through his GitHub & open source videos, inspiring current & future Stars, and providing feedback via the program! Learn more here: https://stars.github.com/profiles/eddie",
+   "date": "2-Dec-2020",
+   "link": "https://twitter.com/github/status/1333923873713233922"
+  },
+  {
+   "id": "23",
+   "user": "@Hrushikeshdas18",
+   "testimonial": "Awesome Eddie Jaoude",
+   "date": "30-Dec-2020",
+   "link": "https://twitter.com/eddiejaoude/status/1344406163513868289"
+  },
+  {
+   "id": "24",
+   "user": "@Vyvy_viM",
+   "testimonial": "I got this lovely feedback from @thisisryanswift on a bug-report I made for #MLHacks's news site(broken link). This made my day Nerd face. Contributing to opensource has made me give proper context to issues and ideas. (esp. thanks to @eddiejaoude and working with EddieJaoudeCommunity)",
+   "date": "9-Jan-2021",
+   "link": "https://twitter.com/Vyvy_viM/status/1348043664375877632"
+  },
+  {
+   "id": "25",
+   "user": "@Anita_ihuman",
+   "testimonial": "This is an appreciation tweet for @eddiejaoude Thank you  Eddie for being a source of inspiration to me and many. Your consistence is remarkable 👍 👍 👍",
+   "date": "26-Jan-2021",
+   "link": "https://twitter.com/Anita_ihuman/status/1353991328607121413"
+  }
+ ]
+}
