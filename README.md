@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#976](https://github.com/EddieHubCommunity/support/issues/976) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#774](https://github.com/EddieHubCommunity/support/issues/774) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#775](https://github.com/EddieHubCommunity/support/issues/775) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#775](https://github.com/EddieHubCommunity/support/issues/775) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#8](https://github.com/EddieHubCommunity/Branding/issues/8) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🗣 Commented on [#405](https://github.com/EddieHubCommunity/EddieBot/issues/405) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Closed issue [#449](https://github.com/EddieHubCommunity/EddieBot/issues/449) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#449](https://github.com/EddieHubCommunity/EddieBot/issues/449) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🗣 Commented on [#452](https://github.com/EddieHubCommunity/EddieBot/issues/452) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
