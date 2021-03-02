@@ -66,9 +66,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/eddiejaoude/book-open-source-tips/issues/119) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
-2. ❗️ Closed issue [#277](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/277) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#277](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/277) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#23](https://github.com/EddieHubCommunity/EddieBotLive/issues/23) in [EddieHubCommunity/EddieBotLive](https://github.com/EddieHubCommunity/EddieBotLive)
-5. 🎉 Merged PR [#1675](https://github.com/DashboardHub/PipelineDashboard/pull/1675) in [DashboardHub/PipelineDashboard](https://github.com/DashboardHub/PipelineDashboard)
+1. ❗️ Opened issue [#120](https://github.com/eddiejaoude/book-open-source-tips/issues/120) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+2. 🗣 Commented on [#119](https://github.com/eddiejaoude/book-open-source-tips/issues/119) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+3. ❗️ Closed issue [#277](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/277) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#277](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/277) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#23](https://github.com/EddieHubCommunity/EddieBotLive/issues/23) in [EddieHubCommunity/EddieBotLive](https://github.com/EddieHubCommunity/EddieBotLive)
 <!--END_SECTION:activity-->
