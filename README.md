@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#61](https://github.com/eddiejaoude/eddiejaoude/issues/61) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-2. 🗣 Commented on [#61](https://github.com/eddiejaoude/eddiejaoude/issues/61) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-3. 🎉 Merged PR [#66](https://github.com/eddiejaoude/eddiejaoude/pull/66) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-4. 🗣 Commented on [#66](https://github.com/eddiejaoude/eddiejaoude/issues/66) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-5. 🎉 Merged PR [#65](https://github.com/eddiejaoude/eddiejaoude/pull/65) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+1. 🗣 Commented on [#68](https://github.com/eddiejaoude/stargate/issues/68) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. ❗️ Closed issue [#61](https://github.com/eddiejaoude/eddiejaoude/issues/61) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+3. 🗣 Commented on [#61](https://github.com/eddiejaoude/eddiejaoude/issues/61) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+4. 🎉 Merged PR [#66](https://github.com/eddiejaoude/eddiejaoude/pull/66) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+5. 🗣 Commented on [#66](https://github.com/eddiejaoude/eddiejaoude/issues/66) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
 <!--END_SECTION:activity-->
