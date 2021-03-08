@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Closed issue [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#1025](https://github.com/EddieHubCommunity/support/issues/1025) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#1057](https://github.com/EddieHubCommunity/support/pull/1057) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1057](https://github.com/EddieHubCommunity/support/issues/1057) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❗️ Closed issue [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
