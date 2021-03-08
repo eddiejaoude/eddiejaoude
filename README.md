@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/eddiejaoude/stargate/issues/68) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. ❗️ Closed issue [#57](https://github.com/EddieHubCommunity/gh-action-community/issues/57) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-3. 🗣 Commented on [#57](https://github.com/EddieHubCommunity/gh-action-community/issues/57) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
-4. 🗣 Commented on [#1](https://github.com/EddieHubCommunity/Branding/issues/1) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🗣 Commented on [#68](https://github.com/eddiejaoude/stargate/issues/68) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. ❗️ Closed issue [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1008](https://github.com/EddieHubCommunity/support/issues/1008) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#1025](https://github.com/EddieHubCommunity/support/issues/1025) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1017](https://github.com/EddieHubCommunity/support/issues/1017) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
