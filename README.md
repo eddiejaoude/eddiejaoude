@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1037](https://github.com/EddieHubCommunity/support/issues/1037) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#119](https://github.com/eddiejaoude/book-open-source-tips/issues/119) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
-3. 🗣 Commented on [#1034](https://github.com/EddieHubCommunity/support/issues/1034) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1020](https://github.com/EddieHubCommunity/support/issues/1020) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#1029](https://github.com/EddieHubCommunity/support/issues/1029) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#393](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/393) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#393](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/393) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#1037](https://github.com/EddieHubCommunity/support/issues/1037) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#119](https://github.com/eddiejaoude/book-open-source-tips/issues/119) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+5. 🗣 Commented on [#1034](https://github.com/EddieHubCommunity/support/issues/1034) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
