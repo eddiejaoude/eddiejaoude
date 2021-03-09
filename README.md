@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71](https://github.com/eddiejaoude/stargate/issues/71) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. ❗️ Closed issue [#393](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/393) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#393](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/393) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#1037](https://github.com/EddieHubCommunity/support/issues/1037) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#119](https://github.com/eddiejaoude/book-open-source-tips/issues/119) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+1. ❗️ Opened issue [#72](https://github.com/eddiejaoude/stargate/issues/72) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. ❗️ Opened issue [#71](https://github.com/eddiejaoude/stargate/issues/71) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+3. ❗️ Closed issue [#393](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/393) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#393](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/393) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#1037](https://github.com/EddieHubCommunity/support/issues/1037) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
