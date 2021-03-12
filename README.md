@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#80](https://github.com/eddiejaoude/stargate/issues/80) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. 🗣 Commented on [#71](https://github.com/eddiejaoude/stargate/issues/71) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. 💪 Opened PR [#79](https://github.com/eddiejaoude/stargate/pull/79) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. ❗️ Opened issue [#78](https://github.com/eddiejaoude/stargate/issues/78) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. 💪 Opened PR [#77](https://github.com/eddiejaoude/stargate/pull/77) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. 🗣 Commented on [#236](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/236) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#236](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/236) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#236](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/236) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#8](https://github.com/EddieHubCommunity/Branding/issues/8) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+5. 🗣 Commented on [#8](https://github.com/EddieHubCommunity/Branding/issues/8) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
