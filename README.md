@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#90](https://github.com/eddiejaoude/stargate/pull/90) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. 🎉 Merged PR [#77](https://github.com/eddiejaoude/stargate/pull/77) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. ❗️ Closed issue [#76](https://github.com/eddiejaoude/stargate/issues/76) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. ❗️ Closed issue [#72](https://github.com/eddiejaoude/stargate/issues/72) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. 🎉 Merged PR [#89](https://github.com/eddiejaoude/stargate/pull/89) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. 🗣 Commented on [#72](https://github.com/eddiejaoude/stargate/issues/72) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 💪 Opened PR [#90](https://github.com/eddiejaoude/stargate/pull/90) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+3. 🎉 Merged PR [#77](https://github.com/eddiejaoude/stargate/pull/77) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+4. ❗️ Closed issue [#76](https://github.com/eddiejaoude/stargate/issues/76) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+5. ❗️ Closed issue [#72](https://github.com/eddiejaoude/stargate/issues/72) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
 <!--END_SECTION:activity-->
