@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1111](https://github.com/EddieHubCommunity/support/issues/1111) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 💪 Opened PR [#11](https://github.com/rohank2502/Learn-GITHUB/pull/11) in [rohank2502/Learn-GITHUB](https://github.com/rohank2502/Learn-GITHUB)
-3. ❗️ Opened issue [#96](https://github.com/eddiejaoude/stargate/issues/96) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. ❗️ Closed issue [#85](https://github.com/eddiejaoude/stargate/issues/85) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. ❗️ Opened issue [#94](https://github.com/eddiejaoude/stargate/issues/94) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. ❗️ Closed issue [#681](https://github.com/EddieHubCommunity/support/issues/681) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#681](https://github.com/EddieHubCommunity/support/issues/681) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Closed issue [#679](https://github.com/EddieHubCommunity/support/issues/679) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#679](https://github.com/EddieHubCommunity/support/issues/679) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#677](https://github.com/EddieHubCommunity/support/issues/677) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
