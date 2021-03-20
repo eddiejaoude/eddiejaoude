@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#404](https://github.com/EddieHubCommunity/EddieBot/issues/404) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🎉 Merged PR [#22](https://github.com/EddieHubCommunity/gh-actions-html-table-generator/pull/22) in [EddieHubCommunity/gh-actions-html-table-generator](https://github.com/EddieHubCommunity/gh-actions-html-table-generator)
-3. 🗣 Commented on [#360](https://github.com/EddieHubCommunity/EddieBot/issues/360) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. ❗️ Reopened issue [#360](https://github.com/EddieHubCommunity/EddieBot/issues/360) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#152](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/152) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🗣 Commented on [#19](https://github.com/eddiejaoude/stargate/issues/19) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. ❗️ Reopened issue [#397](https://github.com/EddieHubCommunity/EddieBot/issues/397) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#400](https://github.com/EddieHubCommunity/EddieBot/issues/400) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Reopened issue [#400](https://github.com/EddieHubCommunity/EddieBot/issues/400) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Reopened issue [#404](https://github.com/EddieHubCommunity/EddieBot/issues/404) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
