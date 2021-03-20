@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/EddieHubCommunity/EddieBotUI/issues/44) in [EddieHubCommunity/EddieBotUI](https://github.com/EddieHubCommunity/EddieBotUI)
-2. 🗣 Commented on [#557](https://github.com/EddieHubCommunity/support/issues/557) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#1124](https://github.com/EddieHubCommunity/support/issues/1124) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#342](https://github.com/EddieHubCommunity/EddieBot/issues/342) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🗣 Commented on [#236](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/236) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. ❗️ Reopened issue [#404](https://github.com/EddieHubCommunity/EddieBot/issues/404) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🎉 Merged PR [#22](https://github.com/EddieHubCommunity/gh-actions-html-table-generator/pull/22) in [EddieHubCommunity/gh-actions-html-table-generator](https://github.com/EddieHubCommunity/gh-actions-html-table-generator)
+3. 🗣 Commented on [#360](https://github.com/EddieHubCommunity/EddieBot/issues/360) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Reopened issue [#360](https://github.com/EddieHubCommunity/EddieBot/issues/360) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🎉 Merged PR [#152](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/152) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
