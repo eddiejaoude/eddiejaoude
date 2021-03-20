@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/kcoder63/Eddiehub_share/pull/2) in [kcoder63/Eddiehub_share](https://github.com/kcoder63/Eddiehub_share)
-2. ❗️ Opened issue [#1](https://github.com/kcoder63/Eddiehub_share/issues/1) in [kcoder63/Eddiehub_share](https://github.com/kcoder63/Eddiehub_share)
-3. ❗️ Closed issue [#688](https://github.com/EddieHubCommunity/support/issues/688) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/support/issues/688) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Closed issue [#686](https://github.com/EddieHubCommunity/support/issues/686) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#1111](https://github.com/EddieHubCommunity/support/issues/1111) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#2](https://github.com/kcoder63/Eddiehub_share/pull/2) in [kcoder63/Eddiehub_share](https://github.com/kcoder63/Eddiehub_share)
+3. ❗️ Opened issue [#1](https://github.com/kcoder63/Eddiehub_share/issues/1) in [kcoder63/Eddiehub_share](https://github.com/kcoder63/Eddiehub_share)
+4. ❗️ Closed issue [#688](https://github.com/EddieHubCommunity/support/issues/688) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/support/issues/688) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
