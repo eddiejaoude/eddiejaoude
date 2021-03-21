@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1018](https://github.com/EddieHubCommunity/support/issues/1018) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 💪 Opened PR [#2](https://github.com/BrendaMichellle/Morocco4u/pull/2) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
-3. ❗️ Opened issue [#1](https://github.com/BrendaMichellle/Morocco4u/issues/1) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
-4. 🗣 Commented on [#19](https://github.com/eddiejaoude/stargate/issues/19) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. ❗️ Reopened issue [#397](https://github.com/EddieHubCommunity/EddieBot/issues/397) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❗️ Reopened issue [#374](https://github.com/EddieHubCommunity/support/issues/374) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#374](https://github.com/EddieHubCommunity/support/issues/374) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Reopened issue [#398](https://github.com/EddieHubCommunity/EddieBot/issues/398) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#398](https://github.com/EddieHubCommunity/EddieBot/issues/398) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🎉 Merged PR [#18](https://github.com/EddieHubCommunity/Hackathons/pull/18) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
 <!--END_SECTION:activity-->
