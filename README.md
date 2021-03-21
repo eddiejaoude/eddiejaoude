@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#392](https://github.com/EddieHubCommunity/EddieBot/pull/392) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 💪 Opened PR [#5](https://github.com/BrendaMichellle/Morocco4u/pull/5) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
-3. ❗️ Opened issue [#4](https://github.com/BrendaMichellle/Morocco4u/issues/4) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
-4. ❗️ Closed issue [#1](https://github.com/BrendaMichellle/Morocco4u/issues/1) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
-5. ❗️ Closed issue [#104](https://github.com/eddiejaoude/stargate/issues/104) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. 🗣 Commented on [#392](https://github.com/EddieHubCommunity/EddieBot/issues/392) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. ❌ Reopened PR [#392](https://github.com/EddieHubCommunity/EddieBot/pull/392) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 💪 Opened PR [#5](https://github.com/BrendaMichellle/Morocco4u/pull/5) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
+4. ❗️ Opened issue [#4](https://github.com/BrendaMichellle/Morocco4u/issues/4) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
+5. ❗️ Closed issue [#1](https://github.com/BrendaMichellle/Morocco4u/issues/1) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
 <!--END_SECTION:activity-->
