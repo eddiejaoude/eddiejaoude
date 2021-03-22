@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/EddieHubCommunity/EddieBot/issues/392) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❌ Reopened PR [#392](https://github.com/EddieHubCommunity/EddieBot/pull/392) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 💪 Opened PR [#5](https://github.com/BrendaMichellle/Morocco4u/pull/5) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
-4. ❗️ Opened issue [#4](https://github.com/BrendaMichellle/Morocco4u/issues/4) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
-5. ❗️ Closed issue [#1](https://github.com/BrendaMichellle/Morocco4u/issues/1) in [BrendaMichellle/Morocco4u](https://github.com/BrendaMichellle/Morocco4u)
+1. 🗣 Commented on [#1041](https://github.com/EddieHubCommunity/support/issues/1041) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#471](https://github.com/EddieHubCommunity/EddieBot/issues/471) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#1051](https://github.com/EddieHubCommunity/support/issues/1051) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#119](https://github.com/eddiejaoude/book-open-source-tips/issues/119) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+5. 🗣 Commented on [#461](https://github.com/EddieHubCommunity/EddieBot/issues/461) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
