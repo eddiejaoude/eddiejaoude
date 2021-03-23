@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#476](https://github.com/EddieHubCommunity/EddieBot/issues/476) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Closed issue [#745](https://github.com/EddieHubCommunity/support/issues/745) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#745](https://github.com/EddieHubCommunity/support/issues/745) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#4](https://github.com/Mich5/client-query/issues/4) in [Mich5/client-query](https://github.com/Mich5/client-query)
-5. ❗️ Closed issue [#712](https://github.com/EddieHubCommunity/support/issues/712) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#114](https://github.com/eddiejaoude/stargate/issues/114) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 🎉 Merged PR [#106](https://github.com/eddiejaoude/stargate/pull/106) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+3. ❗️ Opened issue [#476](https://github.com/EddieHubCommunity/EddieBot/issues/476) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Closed issue [#745](https://github.com/EddieHubCommunity/support/issues/745) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#745](https://github.com/EddieHubCommunity/support/issues/745) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
