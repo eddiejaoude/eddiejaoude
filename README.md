@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/divanov11/mumble/pull/15) in [divanov11/mumble](https://github.com/divanov11/mumble)
-2. ❗️ Opened issue [#10](https://github.com/divanov11/mumble/issues/10) in [divanov11/mumble](https://github.com/divanov11/mumble)
-3. 🗣 Commented on [#1179](https://github.com/EddieHubCommunity/support/issues/1179) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#116](https://github.com/eddiejaoude/stargate/issues/116) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. ❗️ Opened issue [#116](https://github.com/eddiejaoude/stargate/issues/116) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. 💪 Opened PR [#20](https://github.com/divanov11/mumble/pull/20) in [divanov11/mumble](https://github.com/divanov11/mumble)
+2. 💪 Opened PR [#15](https://github.com/divanov11/mumble/pull/15) in [divanov11/mumble](https://github.com/divanov11/mumble)
+3. ❗️ Opened issue [#10](https://github.com/divanov11/mumble/issues/10) in [divanov11/mumble](https://github.com/divanov11/mumble)
+4. 🗣 Commented on [#1179](https://github.com/EddieHubCommunity/support/issues/1179) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#116](https://github.com/eddiejaoude/stargate/issues/116) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
 <!--END_SECTION:activity-->
