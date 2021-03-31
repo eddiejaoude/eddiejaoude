@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/api/issues/35) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 💪 Opened PR [#20](https://github.com/divanov11/mumble/pull/20) in [divanov11/mumble](https://github.com/divanov11/mumble)
-3. 💪 Opened PR [#15](https://github.com/divanov11/mumble/pull/15) in [divanov11/mumble](https://github.com/divanov11/mumble)
-4. ❗️ Opened issue [#10](https://github.com/divanov11/mumble/issues/10) in [divanov11/mumble](https://github.com/divanov11/mumble)
-5. 🗣 Commented on [#1179](https://github.com/EddieHubCommunity/support/issues/1179) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Opened issue [#117](https://github.com/eddiejaoude/stargate/issues/117) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/api/issues/35) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 💪 Opened PR [#20](https://github.com/divanov11/mumble/pull/20) in [divanov11/mumble](https://github.com/divanov11/mumble)
+4. 💪 Opened PR [#15](https://github.com/divanov11/mumble/pull/15) in [divanov11/mumble](https://github.com/divanov11/mumble)
+5. ❗️ Opened issue [#10](https://github.com/divanov11/mumble/issues/10) in [divanov11/mumble](https://github.com/divanov11/mumble)
 <!--END_SECTION:activity-->
