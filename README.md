@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/1) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-2. ❗️ Opened issue [#1](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/1) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-3. ❗️ Opened issue [#117](https://github.com/eddiejaoude/stargate/issues/117) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/api/issues/35) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 💪 Opened PR [#20](https://github.com/divanov11/mumble/pull/20) in [divanov11/mumble](https://github.com/divanov11/mumble)
+1. ❗️ Closed issue [#2](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/2) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+2. ❗️ Opened issue [#2](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/2) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+3. ❗️ Closed issue [#1](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/1) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+4. ❗️ Opened issue [#1](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/1) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+5. ❗️ Opened issue [#117](https://github.com/eddiejaoude/stargate/issues/117) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
 <!--END_SECTION:activity-->
