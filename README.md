@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#118](https://github.com/eddiejaoude/stargate/issues/118) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. ❗️ Opened issue [#1215](https://github.com/EddieHubCommunity/support/issues/1215) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#2](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/2) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-4. ❗️ Opened issue [#2](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/2) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-5. ❗️ Closed issue [#1](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/1) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+1. 🗣 Commented on [#22](https://github.com/EddieHubCommunity/Hackathons/issues/22) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+2. 🎉 Merged PR [#21](https://github.com/EddieHubCommunity/Hackathons/pull/21) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+3. ❗️ Opened issue [#118](https://github.com/eddiejaoude/stargate/issues/118) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+4. ❗️ Opened issue [#1215](https://github.com/EddieHubCommunity/support/issues/1215) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#2](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/2) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
 <!--END_SECTION:activity-->
