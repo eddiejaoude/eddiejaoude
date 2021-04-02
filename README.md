@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/6) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-2. 🗣 Commented on [#5](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/5) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-3. 🗣 Commented on [#4](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/4) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-4. ❗️ Closed issue [#3](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/3) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-5. 🗣 Commented on [#3](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/3) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+1. 🗣 Commented on [#1215](https://github.com/EddieHubCommunity/support/issues/1215) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#6](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/6) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+3. 🗣 Commented on [#5](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/5) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+4. 🗣 Commented on [#4](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/4) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+5. ❗️ Closed issue [#3](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/3) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
 <!--END_SECTION:activity-->
