@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/EddieHubCommunity/Hackathons/pull/26) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-2. 🎉 Merged PR [#25](https://github.com/EddieHubCommunity/Hackathons/pull/25) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-3. 🎉 Merged PR [#24](https://github.com/EddieHubCommunity/Hackathons/pull/24) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-4. 🎉 Merged PR [#23](https://github.com/EddieHubCommunity/Hackathons/pull/23) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-5. 🗣 Commented on [#22](https://github.com/EddieHubCommunity/Hackathons/issues/22) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+1. 🎉 Merged PR [#27](https://github.com/EddieHubCommunity/Hackathons/pull/27) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+2. 🎉 Merged PR [#26](https://github.com/EddieHubCommunity/Hackathons/pull/26) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+3. 🎉 Merged PR [#25](https://github.com/EddieHubCommunity/Hackathons/pull/25) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+4. 🎉 Merged PR [#24](https://github.com/EddieHubCommunity/Hackathons/pull/24) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+5. 🎉 Merged PR [#23](https://github.com/EddieHubCommunity/Hackathons/pull/23) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
 <!--END_SECTION:activity-->
