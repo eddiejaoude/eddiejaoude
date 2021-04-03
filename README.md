@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/eddiejaoude/stargate/issues/113) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. 🗣 Commented on [#86](https://github.com/eddiejaoude/stargate/issues/86) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. ❗️ Closed issue [#117](https://github.com/eddiejaoude/stargate/issues/117) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. 🗣 Commented on [#112](https://github.com/eddiejaoude/stargate/issues/112) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. 🗣 Commented on [#110](https://github.com/eddiejaoude/stargate/issues/110) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. ❗️ Opened issue [#9](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/9) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+2. 🗣 Commented on [#113](https://github.com/eddiejaoude/stargate/issues/113) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+3. 🗣 Commented on [#86](https://github.com/eddiejaoude/stargate/issues/86) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+4. ❗️ Closed issue [#117](https://github.com/eddiejaoude/stargate/issues/117) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+5. 🗣 Commented on [#112](https://github.com/eddiejaoude/stargate/issues/112) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
 <!--END_SECTION:activity-->
