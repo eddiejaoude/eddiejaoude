@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/9) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-2. 🗣 Commented on [#9](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/9) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-3. ❗️ Closed issue [#6](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/6) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-4. 🗣 Commented on [#6](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/6) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-5. ❗️ Opened issue [#9](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/9) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+1. 🗣 Commented on [#132](https://github.com/divanov11/Mumble/issues/132) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+2. 🗣 Commented on [#133](https://github.com/divanov11/Mumble/issues/133) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+3. ❗️ Opened issue [#133](https://github.com/divanov11/Mumble/issues/133) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+4. ❗️ Closed issue [#9](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/9) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+5. 🗣 Commented on [#9](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/9) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
 <!--END_SECTION:activity-->
