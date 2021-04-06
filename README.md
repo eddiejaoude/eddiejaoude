@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#119](https://github.com/eddiejaoude/stargate/issues/119) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. 🗣 Commented on [#132](https://github.com/divanov11/Mumble/issues/132) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-4. 🗣 Commented on [#133](https://github.com/divanov11/Mumble/issues/133) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-5. ❗️ Opened issue [#133](https://github.com/divanov11/Mumble/issues/133) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+1. ❗️ Opened issue [#120](https://github.com/eddiejaoude/stargate/issues/120) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 🗣 Commented on [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#119](https://github.com/eddiejaoude/stargate/issues/119) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+4. 🗣 Commented on [#132](https://github.com/divanov11/Mumble/issues/132) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+5. 🗣 Commented on [#133](https://github.com/divanov11/Mumble/issues/133) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
 <!--END_SECTION:activity-->
