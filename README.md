@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/eddiejaoude/eddiejaoude/issues/3) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-2. 🗣 Commented on [#3](https://github.com/eddiejaoude/eddiejaoude/issues/3) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-3. 🗣 Commented on [#1118](https://github.com/EddieHubCommunity/support/issues/1118) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1114](https://github.com/EddieHubCommunity/support/issues/1114) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Closed issue [#112](https://github.com/EddieHubCommunity/EddieBot/issues/112) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❗️ Closed issue [#459](https://github.com/EddieHubCommunity/EddieBot/issues/459) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#459](https://github.com/EddieHubCommunity/EddieBot/issues/459) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Closed issue [#3](https://github.com/eddiejaoude/eddiejaoude/issues/3) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+4. 🗣 Commented on [#3](https://github.com/eddiejaoude/eddiejaoude/issues/3) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+5. 🗣 Commented on [#1118](https://github.com/EddieHubCommunity/support/issues/1118) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
