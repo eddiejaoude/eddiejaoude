@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#386](https://github.com/EddieHubCommunity/EddieBot/issues/386) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Reopened issue [#403](https://github.com/EddieHubCommunity/EddieBot/issues/403) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Reopened issue [#300](https://github.com/EddieHubCommunity/EddieBot/issues/300) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. ❗️ Reopened issue [#24](https://github.com/EddieHubCommunity/EddieBot/issues/24) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#69](https://github.com/eddiejaoude/eddiejaoude/pull/69) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+1. 🗣 Commented on [#1105](https://github.com/EddieHubCommunity/support/issues/1105) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1075](https://github.com/EddieHubCommunity/support/issues/1075) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#95](https://github.com/eddiejaoude/stargate/issues/95) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+4. ❗️ Closed issue [#95](https://github.com/eddiejaoude/stargate/issues/95) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+5. 🗣 Commented on [#153](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/153) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
