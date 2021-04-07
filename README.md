@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/eddiejaoude/stargate/issues/87) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. ❗️ Closed issue [#83](https://github.com/eddiejaoude/stargate/issues/83) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. ❗️ Closed issue [#96](https://github.com/eddiejaoude/stargate/issues/96) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. 💪 Opened PR [#123](https://github.com/eddiejaoude/stargate/pull/123) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. 🗣 Commented on [#83](https://github.com/eddiejaoude/stargate/issues/83) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. ❗️ Reopened issue [#386](https://github.com/EddieHubCommunity/EddieBot/issues/386) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. ❗️ Reopened issue [#403](https://github.com/EddieHubCommunity/EddieBot/issues/403) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Reopened issue [#300](https://github.com/EddieHubCommunity/EddieBot/issues/300) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Reopened issue [#24](https://github.com/EddieHubCommunity/EddieBot/issues/24) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🎉 Merged PR [#69](https://github.com/eddiejaoude/eddiejaoude/pull/69) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
 <!--END_SECTION:activity-->
