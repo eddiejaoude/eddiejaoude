@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#459](https://github.com/EddieHubCommunity/EddieBot/issues/459) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#459](https://github.com/EddieHubCommunity/EddieBot/issues/459) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Closed issue [#3](https://github.com/eddiejaoude/eddiejaoude/issues/3) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-4. 🗣 Commented on [#3](https://github.com/eddiejaoude/eddiejaoude/issues/3) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-5. 🗣 Commented on [#1118](https://github.com/EddieHubCommunity/support/issues/1118) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#1041](https://github.com/EddieHubCommunity/support/issues/1041) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1080](https://github.com/EddieHubCommunity/support/issues/1080) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1079](https://github.com/EddieHubCommunity/support/issues/1079) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#10](https://github.com/SashoStoichkov/SashoStoichkov/issues/10) in [SashoStoichkov/SashoStoichkov](https://github.com/SashoStoichkov/SashoStoichkov)
+5. 🗣 Commented on [#236](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/236) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
