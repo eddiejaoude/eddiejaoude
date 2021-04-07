@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1041](https://github.com/EddieHubCommunity/support/issues/1041) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1080](https://github.com/EddieHubCommunity/support/issues/1080) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1079](https://github.com/EddieHubCommunity/support/issues/1079) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#10](https://github.com/SashoStoichkov/SashoStoichkov/issues/10) in [SashoStoichkov/SashoStoichkov](https://github.com/SashoStoichkov/SashoStoichkov)
-5. 🗣 Commented on [#236](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/236) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#1144](https://github.com/EddieHubCommunity/support/issues/1144) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1147](https://github.com/EddieHubCommunity/support/issues/1147) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1145](https://github.com/EddieHubCommunity/support/issues/1145) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Closed issue [#112](https://github.com/eddiejaoude/stargate/issues/112) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+5. 🗣 Commented on [#112](https://github.com/eddiejaoude/stargate/issues/112) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
 <!--END_SECTION:activity-->
