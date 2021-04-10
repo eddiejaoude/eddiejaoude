@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/159) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. 🗣 Commented on [#36](https://github.com/anuraghazra/anuraghazra/issues/36) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
-3. 🗣 Commented on [#108](https://github.com/eddiejaoude/stargate/issues/108) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. 🗣 Commented on [#130](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/130) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 🗣 Commented on [#35](https://github.com/anuraghazra/anuraghazra/issues/35) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
+1. ❗️ Closed issue [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#159](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/159) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. 🗣 Commented on [#36](https://github.com/anuraghazra/anuraghazra/issues/36) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
 <!--END_SECTION:activity-->
