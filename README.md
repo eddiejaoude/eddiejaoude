@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#360](https://github.com/EddieHubCommunity/EddieBot/issues/360) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Reopened issue [#397](https://github.com/EddieHubCommunity/EddieBot/issues/397) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Opened issue [#124](https://github.com/eddiejaoude/stargate/issues/124) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-4. ❗️ Closed issue [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🗣 Commented on [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🗣 Commented on [#36](https://github.com/anuraghazra/anuraghazra/issues/36) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
+2. 🗣 Commented on [#108](https://github.com/eddiejaoude/stargate/issues/108) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+3. 🗣 Commented on [#130](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/130) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 🗣 Commented on [#35](https://github.com/anuraghazra/anuraghazra/issues/35) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
+5. ❗️ Reopened issue [#374](https://github.com/EddieHubCommunity/support/issues/374) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
