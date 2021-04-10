@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#124](https://github.com/eddiejaoude/stargate/issues/124) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. ❗️ Closed issue [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🗣 Commented on [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#12](https://github.com/EddieHubCommunity/Branding/issues/12) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🎉 Merged PR [#12](https://github.com/EddieHubCommunity/Branding/pull/12) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. ❗️ Reopened issue [#360](https://github.com/EddieHubCommunity/EddieBot/issues/360) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. ❗️ Reopened issue [#397](https://github.com/EddieHubCommunity/EddieBot/issues/397) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Opened issue [#124](https://github.com/eddiejaoude/stargate/issues/124) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+4. ❗️ Closed issue [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+5. 🗣 Commented on [#10](https://github.com/EddieHubCommunity/Branding/issues/10) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
