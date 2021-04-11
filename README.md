@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1256](https://github.com/EddieHubCommunity/support/pull/1256) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1256](https://github.com/EddieHubCommunity/support/issues/1256) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#317](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/317) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#94](https://github.com/eddiejaoude/stargate/issues/94) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. ❗️ Closed issue [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❗️ Opened issue [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Closed issue [#14](https://github.com/EddieHubCommunity/Branding/issues/14) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+3. 🗣 Commented on [#14](https://github.com/EddieHubCommunity/Branding/issues/14) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+4. ❗️ Opened issue [#14](https://github.com/EddieHubCommunity/Branding/issues/14) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+5. 🎉 Merged PR [#1256](https://github.com/EddieHubCommunity/support/pull/1256) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
