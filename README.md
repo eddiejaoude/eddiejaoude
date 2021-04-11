@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#317](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/317) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#94](https://github.com/eddiejaoude/stargate/issues/94) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-3. ❗️ Closed issue [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🗣 Commented on [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🎉 Merged PR [#1256](https://github.com/EddieHubCommunity/support/pull/1256) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1256](https://github.com/EddieHubCommunity/support/issues/1256) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#317](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/317) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#94](https://github.com/eddiejaoude/stargate/issues/94) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+5. ❗️ Closed issue [#480](https://github.com/EddieHubCommunity/EddieBot/issues/480) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
