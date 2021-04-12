@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/EddieHubCommunity/api/pull/47) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Closed issue [#46](https://github.com/EddieHubCommunity/api/issues/46) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#46](https://github.com/EddieHubCommunity/api/issues/46) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#47](https://github.com/EddieHubCommunity/api/issues/47) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 💪 Opened PR [#49](https://github.com/EddieHubCommunity/api/pull/49) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. ❗️ Closed issue [#5](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/5) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+2. 🎉 Merged PR [#7](https://github.com/EddieHubCommunity/gh-action-open-source-labels/pull/7) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+3. ❗️ Closed issue [#4](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/4) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+4. 🗣 Commented on [#7](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/7) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+5. 🎉 Merged PR [#47](https://github.com/EddieHubCommunity/api/pull/47) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
