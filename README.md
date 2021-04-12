@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#14](https://github.com/EddieHubCommunity/Branding/issues/14) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🗣 Commented on [#14](https://github.com/EddieHubCommunity/Branding/issues/14) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. ❗️ Opened issue [#44](https://github.com/EddieHubCommunity/api/issues/44) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. ❗️ Opened issue [#38](https://github.com/EddieHubCommunity/api/issues/38) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Reopened issue [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Closed issue [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Opened issue [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
