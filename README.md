@@ -70,8 +70,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#54](https://github.com/EddieHubCommunity/api/issues/54) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/api/issues/34) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. ❗️ Closed issue [#1295](https://github.com/EddieHubCommunity/support/issues/1295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1295](https://github.com/EddieHubCommunity/support/issues/1295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🎉 Merged PR [#49](https://github.com/EddieHubCommunity/api/pull/49) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#54](https://github.com/EddieHubCommunity/api/issues/54) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/api/issues/34) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Closed issue [#1295](https://github.com/EddieHubCommunity/support/issues/1295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1295](https://github.com/EddieHubCommunity/support/issues/1295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
