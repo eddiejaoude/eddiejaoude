@@ -70,8 +70,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#51](https://github.com/EddieHubCommunity/api/issues/51) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#486](https://github.com/EddieHubCommunity/EddieBot/issues/486) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🗣 Commented on [#55](https://github.com/EddieHubCommunity/api/issues/55) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#58](https://github.com/EddieHubCommunity/api/issues/58) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#59](https://github.com/EddieHubCommunity/api/issues/59) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#51](https://github.com/EddieHubCommunity/api/issues/51) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🗣 Commented on [#51](https://github.com/EddieHubCommunity/api/issues/51) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#486](https://github.com/EddieHubCommunity/EddieBot/issues/486) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🗣 Commented on [#55](https://github.com/EddieHubCommunity/api/issues/55) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
