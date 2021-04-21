@@ -70,8 +70,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#69](https://github.com/EddieHubCommunity/api/issues/69) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#70](https://github.com/EddieHubCommunity/api/issues/70) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#69](https://github.com/EddieHubCommunity/api/issues/69) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 3. 🗣 Commented on [#70](https://github.com/EddieHubCommunity/api/issues/70) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#69](https://github.com/EddieHubCommunity/api/issues/69) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#70](https://github.com/EddieHubCommunity/api/issues/70) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 5. 🗣 Commented on [#69](https://github.com/EddieHubCommunity/api/issues/69) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
