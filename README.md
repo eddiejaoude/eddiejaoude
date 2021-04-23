@@ -69,7 +69,7 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/EddieHubCommunity/api/issues/60) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#74](https://github.com/EddieHubCommunity/api/issues/74) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 2. 🗣 Commented on [#60](https://github.com/EddieHubCommunity/api/issues/60) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 3. 🗣 Commented on [#60](https://github.com/EddieHubCommunity/api/issues/60) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 4. 🗣 Commented on [#60](https://github.com/EddieHubCommunity/api/issues/60) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
