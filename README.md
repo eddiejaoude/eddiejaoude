@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/EddieHubCommunity/api/issues/76) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 💪 Opened PR [#5](https://github.com/LuiseFreese/TheBaby/pull/5) in [LuiseFreese/TheBaby](https://github.com/LuiseFreese/TheBaby)
+1. ❗️ Closed issue [#163](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/163) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. ❗️ Opened issue [#163](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/163) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 3. 🗣 Commented on [#76](https://github.com/EddieHubCommunity/api/issues/76) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#75](https://github.com/EddieHubCommunity/api/issues/75) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#58](https://github.com/EddieHubCommunity/api/issues/58) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 💪 Opened PR [#5](https://github.com/LuiseFreese/TheBaby/pull/5) in [LuiseFreese/TheBaby](https://github.com/LuiseFreese/TheBaby)
+5. 🗣 Commented on [#76](https://github.com/EddieHubCommunity/api/issues/76) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
