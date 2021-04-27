@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🎉 Merged PR [#16](https://github.com/EddieHubCommunity/Branding/pull/16) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#18](https://github.com/EddieHubCommunity/Branding/issues/18) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🎉 Merged PR [#18](https://github.com/EddieHubCommunity/Branding/pull/18) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+2. ❗️ Closed issue [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+3. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+4. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+5. 🎉 Merged PR [#16](https://github.com/EddieHubCommunity/Branding/pull/16) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
