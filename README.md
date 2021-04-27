@@ -70,8 +70,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. 🎉 Merged PR [#16](https://github.com/EddieHubCommunity/Branding/pull/16) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🗣 Commented on [#18](https://github.com/EddieHubCommunity/Branding/issues/18) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+2. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+3. 🎉 Merged PR [#16](https://github.com/EddieHubCommunity/Branding/pull/16) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+4. 🗣 Commented on [#18](https://github.com/EddieHubCommunity/Branding/issues/18) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 5. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
