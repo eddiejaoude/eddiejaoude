@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/EddieHubCommunity/Branding/pull/22) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. ❗️ Closed issue [#21](https://github.com/EddieHubCommunity/Branding/issues/21) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🗣 Commented on [#22](https://github.com/EddieHubCommunity/Branding/issues/22) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#61](https://github.com/EddieHubCommunity/api/issues/61) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#5](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/5) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+1. 🎉 Merged PR [#34](https://github.com/EddieHubCommunity/Hackathons/pull/34) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+2. ❗️ Closed issue [#33](https://github.com/EddieHubCommunity/Hackathons/issues/33) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+3. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/Hackathons/issues/34) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+4. 🎉 Merged PR [#32](https://github.com/EddieHubCommunity/Hackathons/pull/32) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+5. 🎉 Merged PR [#31](https://github.com/EddieHubCommunity/Hackathons/pull/31) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
 <!--END_SECTION:activity-->
