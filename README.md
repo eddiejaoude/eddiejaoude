@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/EddieHubCommunity/Branding/pull/18) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. ❗️ Closed issue [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-3. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🎉 Merged PR [#16](https://github.com/EddieHubCommunity/Branding/pull/16) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🗣 Commented on [#4](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/4) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+2. ❗️ Opened issue [#4](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/4) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+3. ❗️ Opened issue [#3](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/3) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+4. ❗️ Opened issue [#2](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/2) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+5. 🎉 Merged PR [#18](https://github.com/EddieHubCommunity/Branding/pull/18) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
