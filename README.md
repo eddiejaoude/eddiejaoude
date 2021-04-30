@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/EddieHubCommunity/EddieBotUI/issues/45) in [EddieHubCommunity/EddieBotUI](https://github.com/EddieHubCommunity/EddieBotUI)
-2. 🗣 Commented on [#322](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/322) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. ❗️ Reopened issue [#757](https://github.com/EddieHubCommunity/support/issues/757) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Reopened issue [#759](https://github.com/EddieHubCommunity/support/issues/759) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Reopened issue [#777](https://github.com/EddieHubCommunity/support/issues/777) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#476](https://github.com/EddieHubCommunity/EddieBot/issues/476) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#295](https://github.com/EddieHubCommunity/EddieBot/issues/295) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Reopened issue [#114](https://github.com/EddieHubCommunity/EddieBot/issues/114) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Opened issue [#84](https://github.com/EddieHubCommunity/api/issues/84) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❗️ Reopened issue [#778](https://github.com/EddieHubCommunity/support/issues/778) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
