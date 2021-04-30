@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/EddieHubCommunity/Hackathons/pull/34) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-2. ❗️ Closed issue [#33](https://github.com/EddieHubCommunity/Hackathons/issues/33) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-3. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/Hackathons/issues/34) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-4. 🎉 Merged PR [#32](https://github.com/EddieHubCommunity/Hackathons/pull/32) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-5. 🎉 Merged PR [#31](https://github.com/EddieHubCommunity/Hackathons/pull/31) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+1. 🗣 Commented on [#126](https://github.com/eddiejaoude/stargate/issues/126) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 🎉 Merged PR [#34](https://github.com/EddieHubCommunity/Hackathons/pull/34) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+3. ❗️ Closed issue [#33](https://github.com/EddieHubCommunity/Hackathons/issues/33) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+4. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/Hackathons/issues/34) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+5. 🎉 Merged PR [#32](https://github.com/EddieHubCommunity/Hackathons/pull/32) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
 <!--END_SECTION:activity-->
