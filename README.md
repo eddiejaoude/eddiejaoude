@@ -69,9 +69,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#233](https://github.com/EddieHubCommunity/EddieBot/issues/233) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#452](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/452) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#1228](https://github.com/EddieHubCommunity/support/issues/1228) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#61](https://github.com/EddieHubCommunity/api/issues/61) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#126](https://github.com/eddiejaoude/stargate/issues/126) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. 🗣 Commented on [#45](https://github.com/EddieHubCommunity/EddieBotUI/issues/45) in [EddieHubCommunity/EddieBotUI](https://github.com/EddieHubCommunity/EddieBotUI)
+2. 🗣 Commented on [#322](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/322) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. ❗️ Reopened issue [#757](https://github.com/EddieHubCommunity/support/issues/757) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Reopened issue [#759](https://github.com/EddieHubCommunity/support/issues/759) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Reopened issue [#777](https://github.com/EddieHubCommunity/support/issues/777) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
