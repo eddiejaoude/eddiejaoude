@@ -72,6 +72,6 @@
 1. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 2. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 3. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#476](https://github.com/EddieHubCommunity/EddieBot/issues/476) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🗣 Commented on [#295](https://github.com/EddieHubCommunity/EddieBot/issues/295) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#476](https://github.com/EddieHubCommunity/EddieBot/issues/476) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
