@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SaraJaoude/dotfiles/pull/1) in [SaraJaoude/dotfiles](https://github.com/SaraJaoude/dotfiles)
-2. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#71](https://github.com/eddiejaoude/eddiejaoude/issues/71) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+2. 🗣 Commented on [#72](https://github.com/eddiejaoude/eddiejaoude/issues/72) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+3. 💪 Opened PR [#1](https://github.com/SaraJaoude/dotfiles/pull/1) in [SaraJaoude/dotfiles](https://github.com/SaraJaoude/dotfiles)
 4. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 5. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
