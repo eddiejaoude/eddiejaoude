@@ -1,4 +1,3 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 ![Eddie Jaoude](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg)
 
