@@ -13,6 +13,11 @@
 </p>
 
 <p align="center">
+  For more information, have a look at <b>Eddie's websiteEddieHub</b> <a href="http://eddiejaoude.io">eddiejaoude.io</a>
+  and also the <a href="http://eddiejaoude.io/newsletters">newsletters</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/eddiejaoude?tab=followers">
     <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
