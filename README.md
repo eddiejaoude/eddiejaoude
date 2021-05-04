@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🎉 Merged PR [#1495](https://github.com/EddieHubCommunity/support/pull/1495) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1495](https://github.com/EddieHubCommunity/support/issues/1495) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. ❗️ Closed issue [#1024](https://github.com/EddieHubCommunity/support/issues/1024) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#123](https://github.com/eddiejaoude/stargate/issues/123) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 🗣 Commented on [#10](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/10) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+3. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🎉 Merged PR [#1495](https://github.com/EddieHubCommunity/support/pull/1495) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1495](https://github.com/EddieHubCommunity/support/issues/1495) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
