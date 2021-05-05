@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#779](https://github.com/EddieHubCommunity/support/issues/779) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Reopened issue [#794](https://github.com/EddieHubCommunity/support/issues/794) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#36](https://github.com/anuraghazra/anuraghazra/issues/36) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
-4. 🎉 Merged PR [#125](https://github.com/eddiejaoude/stargate/pull/125) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. ❗️ Closed issue [#110](https://github.com/eddiejaoude/stargate/issues/110) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+1. ❗️ Opened issue [#89](https://github.com/EddieHubCommunity/api/issues/89) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Reopened issue [#779](https://github.com/EddieHubCommunity/support/issues/779) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Reopened issue [#794](https://github.com/EddieHubCommunity/support/issues/794) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
