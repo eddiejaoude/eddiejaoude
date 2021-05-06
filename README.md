@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/EddieHubCommunity/api/issues/29) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Closed issue [#22](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/22) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-3. 🗣 Commented on [#22](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/22) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-4. 🗣 Commented on [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Closed issue [#1283](https://github.com/EddieHubCommunity/support/issues/1283) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#91](https://github.com/EddieHubCommunity/api/issues/91) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🎉 Merged PR [#93](https://github.com/EddieHubCommunity/api/pull/93) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Closed issue [#92](https://github.com/EddieHubCommunity/api/issues/92) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#29](https://github.com/EddieHubCommunity/api/issues/29) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❗️ Closed issue [#22](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/22) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
 <!--END_SECTION:activity-->
