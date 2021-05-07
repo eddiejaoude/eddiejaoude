@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#319](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/319) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#319](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/319) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#625](https://github.com/EddieHubCommunity/support/issues/625) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#405](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/405) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. ❗️ Reopened issue [#3](https://github.com/EddieHubCommunity/Branding/issues/3) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. ❌ Closed PR [#492](https://github.com/EddieHubCommunity/EddieBot/pull/492) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/EddieBot/issues/492) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Closed issue [#319](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/319) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#319](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/319) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#625](https://github.com/EddieHubCommunity/support/issues/625) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
