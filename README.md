@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#492](https://github.com/EddieHubCommunity/EddieBot/pull/492) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/EddieBot/issues/492) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Closed issue [#319](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/319) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#319](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/319) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#625](https://github.com/EddieHubCommunity/support/issues/625) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#500](https://github.com/EddieHubCommunity/EddieBot/issues/500) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. ❗️ Opened issue [#500](https://github.com/EddieHubCommunity/EddieBot/issues/500) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🎉 Merged PR [#495](https://github.com/EddieHubCommunity/EddieBot/pull/495) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Closed issue [#494](https://github.com/EddieHubCommunity/EddieBot/issues/494) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Opened issue [#499](https://github.com/EddieHubCommunity/EddieBot/issues/499) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
