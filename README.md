@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#500](https://github.com/EddieHubCommunity/EddieBot/issues/500) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Opened issue [#500](https://github.com/EddieHubCommunity/EddieBot/issues/500) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🎉 Merged PR [#495](https://github.com/EddieHubCommunity/EddieBot/pull/495) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. ❗️ Closed issue [#494](https://github.com/EddieHubCommunity/EddieBot/issues/494) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Opened issue [#499](https://github.com/EddieHubCommunity/EddieBot/issues/499) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🎉 Merged PR [#502](https://github.com/EddieHubCommunity/EddieBot/pull/502) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 💪 Opened PR [#502](https://github.com/EddieHubCommunity/EddieBot/pull/502) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Closed issue [#501](https://github.com/EddieHubCommunity/EddieBot/issues/501) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Opened issue [#501](https://github.com/EddieHubCommunity/EddieBot/issues/501) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Closed issue [#500](https://github.com/EddieHubCommunity/EddieBot/issues/500) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
