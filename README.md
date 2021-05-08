@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/EddieHubCommunity/api/pull/91) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#1](https://github.com/SaraJaoude/dotfiles/issues/1) in [SaraJaoude/dotfiles](https://github.com/SaraJaoude/dotfiles)
-3. ❗️ Closed issue [#511](https://github.com/EddieHubCommunity/EddieBot/issues/511) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. ❗️ Opened issue [#511](https://github.com/EddieHubCommunity/EddieBot/issues/511) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Closed issue [#510](https://github.com/EddieHubCommunity/EddieBot/issues/510) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🎉 Merged PR [#94](https://github.com/EddieHubCommunity/api/pull/94) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🎉 Merged PR [#91](https://github.com/EddieHubCommunity/api/pull/91) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🗣 Commented on [#1](https://github.com/SaraJaoude/dotfiles/issues/1) in [SaraJaoude/dotfiles](https://github.com/SaraJaoude/dotfiles)
+4. ❗️ Closed issue [#511](https://github.com/EddieHubCommunity/EddieBot/issues/511) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Opened issue [#511](https://github.com/EddieHubCommunity/EddieBot/issues/511) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
