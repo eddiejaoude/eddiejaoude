@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#511](https://github.com/EddieHubCommunity/EddieBot/issues/511) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Opened issue [#511](https://github.com/EddieHubCommunity/EddieBot/issues/511) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Closed issue [#510](https://github.com/EddieHubCommunity/EddieBot/issues/510) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. ❗️ Opened issue [#510](https://github.com/EddieHubCommunity/EddieBot/issues/510) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Closed issue [#508](https://github.com/EddieHubCommunity/EddieBot/issues/508) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🗣 Commented on [#1](https://github.com/SaraJaoude/dotfiles/issues/1) in [SaraJaoude/dotfiles](https://github.com/SaraJaoude/dotfiles)
+2. ❗️ Closed issue [#511](https://github.com/EddieHubCommunity/EddieBot/issues/511) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Opened issue [#511](https://github.com/EddieHubCommunity/EddieBot/issues/511) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Closed issue [#510](https://github.com/EddieHubCommunity/EddieBot/issues/510) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Opened issue [#510](https://github.com/EddieHubCommunity/EddieBot/issues/510) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
