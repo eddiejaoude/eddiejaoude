@@ -2,7 +2,7 @@
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
 
-<p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program and Star of 2020</a></b></p>
+<p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program and Star of 2020 🌟 </a></b></p>
 
 <p align="center">Sign up to my community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date monthly with up and coming events, community achievements and more</p>
 
