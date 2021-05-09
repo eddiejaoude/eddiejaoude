@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/160) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#1264](https://github.com/EddieHubCommunity/support/issues/1264) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#160](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/160) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 🗣 Commented on [#160](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/160) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#160](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/160) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#1264](https://github.com/EddieHubCommunity/support/issues/1264) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#160](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/160) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
