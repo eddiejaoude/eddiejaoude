@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/172) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. ❌ Closed PR [#340](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/340) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#340](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/340) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#99](https://github.com/EddieHubCommunity/api/pull/99) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. ❗️ Closed issue [#98](https://github.com/EddieHubCommunity/api/issues/98) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 💪 Opened PR [#24](https://github.com/Vyvy-vi/dev-quotes-api/pull/24) in [Vyvy-vi/dev-quotes-api](https://github.com/Vyvy-vi/dev-quotes-api)
+2. ❗️ Opened issue [#23](https://github.com/Vyvy-vi/dev-quotes-api/issues/23) in [Vyvy-vi/dev-quotes-api](https://github.com/Vyvy-vi/dev-quotes-api)
+3. 💪 Opened PR [#20](https://github.com/SurPathHub/starter-kit/pull/20) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+4. 🗣 Commented on [#172](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/172) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. ❌ Closed PR [#340](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/340) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
