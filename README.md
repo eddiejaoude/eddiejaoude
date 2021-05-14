@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/vivekascoder/libman-vue/pull/11) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
-2. ❗️ Opened issue [#6](https://github.com/interaapps/pastefy/issues/6) in [interaapps/pastefy](https://github.com/interaapps/pastefy)
-3. 💪 Opened PR [#24](https://github.com/Agrover112/awesome-semantic-search/pull/24) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
-4. 🗣 Commented on [#5](https://github.com/space-lang/space/issues/5) in [space-lang/space](https://github.com/space-lang/space)
-5. 💪 Opened PR [#37](https://github.com/starlightknown/Cyberon/pull/37) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. 💪 Opened PR [#13](https://github.com/ishitakeshawani/Give-More/pull/13) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+2. ❗️ Opened issue [#12](https://github.com/ishitakeshawani/Give-More/issues/12) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+3. 💪 Opened PR [#33](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/33) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+4. 💪 Opened PR [#11](https://github.com/vivekascoder/libman-vue/pull/11) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
+5. ❗️ Opened issue [#6](https://github.com/interaapps/pastefy/issues/6) in [interaapps/pastefy](https://github.com/interaapps/pastefy)
 <!--END_SECTION:activity-->
