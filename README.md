@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/EddieHubCommunity/api/issues/34) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Closed issue [#34](https://github.com/EddieHubCommunity/api/issues/34) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🎉 Merged PR [#88](https://github.com/EddieHubCommunity/api/pull/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. ❗️ Closed issue [#87](https://github.com/EddieHubCommunity/api/issues/87) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. ❗️ Closed issue [#7](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/7) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. ❌ Closed PR [#35](https://github.com/EddieHubCommunity/api/pull/35) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/api/issues/35) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❌ Closed PR [#33](https://github.com/EddieHubCommunity/api/pull/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❌ Closed PR [#36](https://github.com/EddieHubCommunity/api/pull/36) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
