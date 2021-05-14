@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/EddieHubCommunity/api/pull/99) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Closed issue [#98](https://github.com/EddieHubCommunity/api/issues/98) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#99](https://github.com/EddieHubCommunity/api/issues/99) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. ❌ Closed PR [#35](https://github.com/EddieHubCommunity/api/pull/35) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#35](https://github.com/EddieHubCommunity/api/issues/35) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. ❌ Closed PR [#340](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/340) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#340](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/340) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#99](https://github.com/EddieHubCommunity/api/pull/99) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Closed issue [#98](https://github.com/EddieHubCommunity/api/issues/98) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#99](https://github.com/EddieHubCommunity/api/issues/99) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
