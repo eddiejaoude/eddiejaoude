@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/Vyvy-vi/dev-quotes-api/pull/24) in [Vyvy-vi/dev-quotes-api](https://github.com/Vyvy-vi/dev-quotes-api)
-2. ❗️ Opened issue [#23](https://github.com/Vyvy-vi/dev-quotes-api/issues/23) in [Vyvy-vi/dev-quotes-api](https://github.com/Vyvy-vi/dev-quotes-api)
-3. 💪 Opened PR [#20](https://github.com/SurPathHub/starter-kit/pull/20) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-4. 🗣 Commented on [#172](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/172) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. ❌ Closed PR [#340](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/340) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 💪 Opened PR [#24](https://github.com/Agrover112/awesome-semantic-search/pull/24) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
+2. 🗣 Commented on [#5](https://github.com/space-lang/space/issues/5) in [space-lang/space](https://github.com/space-lang/space)
+3. 💪 Opened PR [#37](https://github.com/starlightknown/Cyberon/pull/37) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. 🗣 Commented on [#33](https://github.com/starlightknown/Cyberon/issues/33) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+5. 💪 Opened PR [#11](https://github.com/space-lang/space/pull/11) in [space-lang/space](https://github.com/space-lang/space)
 <!--END_SECTION:activity-->
