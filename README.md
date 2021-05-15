@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-2. ❗️ Opened issue [#35](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/35) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-3. 💪 Opened PR [#13](https://github.com/ishitakeshawani/Give-More/pull/13) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
-4. ❗️ Opened issue [#12](https://github.com/ishitakeshawani/Give-More/issues/12) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
-5. 💪 Opened PR [#33](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/33) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+1. 🗣 Commented on [#128](https://github.com/eddiejaoude/stargate/issues/128) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 💪 Opened PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+3. ❗️ Opened issue [#35](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/35) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+4. 💪 Opened PR [#13](https://github.com/ishitakeshawani/Give-More/pull/13) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+5. ❗️ Opened issue [#12](https://github.com/ishitakeshawani/Give-More/issues/12) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
 <!--END_SECTION:activity-->
