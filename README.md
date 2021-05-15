@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/eddiejaoude/stargate/issues/128) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. 💪 Opened PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-3. ❗️ Opened issue [#35](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/35) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-4. 💪 Opened PR [#13](https://github.com/ishitakeshawani/Give-More/pull/13) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
-5. ❗️ Opened issue [#12](https://github.com/ishitakeshawani/Give-More/issues/12) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+1. 💪 Opened PR [#529](https://github.com/EddieHubCommunity/EddieBot/pull/529) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. ❗️ Closed issue [#528](https://github.com/EddieHubCommunity/EddieBot/issues/528) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Opened issue [#528](https://github.com/EddieHubCommunity/EddieBot/issues/528) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Closed issue [#527](https://github.com/EddieHubCommunity/EddieBot/issues/527) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Opened issue [#527](https://github.com/EddieHubCommunity/EddieBot/issues/527) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
