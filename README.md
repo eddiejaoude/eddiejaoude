@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🗣 Commented on [#105](https://github.com/EddieHubCommunity/api/issues/105) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 💪 Opened PR [#537](https://github.com/EddieHubCommunity/EddieBot/pull/537) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Closed issue [#524](https://github.com/EddieHubCommunity/EddieBot/issues/524) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❗️ Opened issue [#14](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/14) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+2. ❗️ Closed issue [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#105](https://github.com/EddieHubCommunity/api/issues/105) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 💪 Opened PR [#537](https://github.com/EddieHubCommunity/EddieBot/pull/537) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
