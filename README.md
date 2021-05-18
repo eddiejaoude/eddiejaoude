@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#97](https://github.com/EddieHubCommunity/api/issues/97) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🎉 Merged PR [#105](https://github.com/EddieHubCommunity/api/pull/105) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. ❗️ Opened issue [#107](https://github.com/EddieHubCommunity/api/issues/107) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. ❗️ Opened issue [#14](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/14) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-5. ❗️ Closed issue [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🗣 Commented on [#107](https://github.com/EddieHubCommunity/api/issues/107) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. ❗️ Closed issue [#97](https://github.com/EddieHubCommunity/api/issues/97) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🎉 Merged PR [#105](https://github.com/EddieHubCommunity/api/pull/105) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Opened issue [#107](https://github.com/EddieHubCommunity/api/issues/107) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❗️ Opened issue [#14](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/14) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
 <!--END_SECTION:activity-->
