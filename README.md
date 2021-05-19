@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#106](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/106) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. 🗣 Commented on [#106](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/106) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. ❗️ Closed issue [#110](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/110) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-4. 🗣 Commented on [#110](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/110) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. ❗️ Closed issue [#69](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/69) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. ❗️ Closed issue [#130](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/130) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. 🗣 Commented on [#130](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/130) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. ❗️ Closed issue [#155](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/155) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 🗣 Commented on [#155](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/155) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. ❗️ Closed issue [#106](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/106) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
