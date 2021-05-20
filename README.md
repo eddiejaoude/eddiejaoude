@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/173) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. ❗️ Closed issue [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🗣 Commented on [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-4. ❗️ Closed issue [#130](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/130) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 🗣 Commented on [#130](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/130) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🗣 Commented on [#112](https://github.com/EddieHubCommunity/api/issues/112) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#173](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/173) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. ❗️ Closed issue [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 🗣 Commented on [#156](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/156) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. ❗️ Closed issue [#130](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/130) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
