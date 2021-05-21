@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1322](https://github.com/EddieHubCommunity/support/issues/1322) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#32](https://github.com/EddieHubCommunity/EddieBot/issues/32) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🗣 Commented on [#15](https://github.com/EddieHubCommunity/transcriptions/issues/15) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-4. ❗️ Opened issue [#26](https://github.com/EddieHubCommunity/transcriptions/issues/26) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-5. ❗️ Closed issue [#1142](https://github.com/EddieHubCommunity/support/issues/1142) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#1323](https://github.com/EddieHubCommunity/support/issues/1323) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1322](https://github.com/EddieHubCommunity/support/issues/1322) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#32](https://github.com/EddieHubCommunity/EddieBot/issues/32) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#15](https://github.com/EddieHubCommunity/transcriptions/issues/15) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+5. ❗️ Opened issue [#26](https://github.com/EddieHubCommunity/transcriptions/issues/26) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
 <!--END_SECTION:activity-->
