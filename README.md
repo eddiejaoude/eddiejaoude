@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#362](https://github.com/EddieHubCommunity/support/issues/362) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#457](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/457) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#833](https://github.com/EddieHubCommunity/support/issues/833) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Reopened issue [#833](https://github.com/EddieHubCommunity/support/issues/833) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🎉 Merged PR [#13](https://github.com/eddiejaoude/node-express-course/pull/13) in [eddiejaoude/node-express-course](https://github.com/eddiejaoude/node-express-course)
+1. 🎉 Merged PR [#114](https://github.com/eddiejaoude/book-open-source-tips/pull/114) in [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips)
+2. 🗣 Commented on [#511](https://github.com/EddieHubCommunity/support/issues/511) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#386](https://github.com/EddieHubCommunity/EddieBot/issues/386) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#362](https://github.com/EddieHubCommunity/support/issues/362) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#457](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/457) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
