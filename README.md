@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1436](https://github.com/EddieHubCommunity/support/issues/1436) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#25](https://github.com/EddieHubCommunity/transcriptions/issues/25) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
-3. ❗️ Reopened issue [#339](https://github.com/EddieHubCommunity/EddieBot/issues/339) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#339](https://github.com/EddieHubCommunity/EddieBot/issues/339) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#19](https://github.com/EddieHubCommunity/Branding/pull/19) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 🗣 Commented on [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#1436](https://github.com/EddieHubCommunity/support/issues/1436) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#25](https://github.com/EddieHubCommunity/transcriptions/issues/25) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+4. ❗️ Reopened issue [#339](https://github.com/EddieHubCommunity/EddieBot/issues/339) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🗣 Commented on [#339](https://github.com/EddieHubCommunity/EddieBot/issues/339) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
