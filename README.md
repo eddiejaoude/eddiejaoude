@@ -65,9 +65,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/KhushiSharma22/KhushiSharma22/pull/1) in [KhushiSharma22/KhushiSharma22](https://github.com/KhushiSharma22/KhushiSharma22)
-2. 🗣 Commented on [#112](https://github.com/EddieHubCommunity/api/issues/112) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#1436](https://github.com/EddieHubCommunity/support/issues/1436) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#25](https://github.com/EddieHubCommunity/transcriptions/issues/25) in [EddieHubCommunity/transcriptions](https://github.com/EddieHubCommunity/transcriptions)
+1. ❗️ Opened issue [#89](https://github.com/eddiejaoude/eddiejaoude/issues/89) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+2. 💪 Opened PR [#1](https://github.com/KhushiSharma22/KhushiSharma22/pull/1) in [KhushiSharma22/KhushiSharma22](https://github.com/KhushiSharma22/KhushiSharma22)
+3. 🗣 Commented on [#112](https://github.com/EddieHubCommunity/api/issues/112) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#1436](https://github.com/EddieHubCommunity/support/issues/1436) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
