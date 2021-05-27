@@ -66,8 +66,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#116](https://github.com/EddieHubCommunity/api/issues/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🎉 Merged PR [#115](https://github.com/EddieHubCommunity/api/pull/115) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. ❗️ Closed issue [#114](https://github.com/EddieHubCommunity/api/issues/114) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. ❌ Closed PR [#110](https://github.com/EddieHubCommunity/api/pull/110) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#110](https://github.com/EddieHubCommunity/api/issues/110) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#116](https://github.com/EddieHubCommunity/api/issues/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🎉 Merged PR [#115](https://github.com/EddieHubCommunity/api/pull/115) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Closed issue [#114](https://github.com/EddieHubCommunity/api/issues/114) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❌ Closed PR [#110](https://github.com/EddieHubCommunity/api/pull/110) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
