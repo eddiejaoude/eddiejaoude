@@ -2,7 +2,7 @@
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
 
-<p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program and Star of 2020 🌟 </a></b></p>
+<p align="center"><b>Part of the <a href="https://stars.github.com/profiles"> GitHub Stars program and Star of 2020 🌟</a></b></p>
 
 <p align="center"><b>Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!</p>
 
@@ -31,7 +31,6 @@
   <img width="48%" src="https://user-images.githubusercontent.com/624760/87853406-a34b6900-c901-11ea-834b-07d90ca3d4fa.gif" alt="Eddie teaching code on YouTube" />
   <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
 </p>
-
 
 ---
 
