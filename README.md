@@ -68,9 +68,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#550](https://github.com/EddieHubCommunity/EddieBot/issues/550) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Opened issue [#550](https://github.com/EddieHubCommunity/EddieBot/issues/550) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Closed issue [#1783](https://github.com/EddieHubCommunity/support/issues/1783) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#1783](https://github.com/EddieHubCommunity/support/issues/1783) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#182](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/182) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🗣 Commented on [#180](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/180) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. 🗣 Commented on [#176](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/176) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. ❗️ Closed issue [#183](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/183) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 🗣 Commented on [#183](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/183) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+5. 🎉 Merged PR [#16](https://github.com/EddieHubCommunity/gh-action-open-source-labels/pull/16) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
 <!--END_SECTION:activity-->
