@@ -69,8 +69,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#118](https://github.com/EddieHubCommunity/api/issues/118) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Opened issue [#90](https://github.com/eddiejaoude/eddiejaoude/issues/90) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-3. 💪 Opened PR [#118](https://github.com/EddieHubCommunity/api/pull/118) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🎉 Merged PR [#116](https://github.com/EddieHubCommunity/api/pull/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#117](https://github.com/EddieHubCommunity/api/issues/117) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#118](https://github.com/EddieHubCommunity/api/issues/118) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🗣 Commented on [#118](https://github.com/EddieHubCommunity/api/issues/118) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Opened issue [#90](https://github.com/eddiejaoude/eddiejaoude/issues/90) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+5. 💪 Opened PR [#118](https://github.com/EddieHubCommunity/api/pull/118) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
