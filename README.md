@@ -69,8 +69,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#108](https://github.com/EddieHubCommunity/api/issues/108) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🎉 Merged PR [#122](https://github.com/EddieHubCommunity/api/pull/122) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. ❗️ Closed issue [#121](https://github.com/EddieHubCommunity/api/issues/121) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. ❗️ Opened issue [#218](https://github.com/goupaz/goupaz.com/issues/218) in [goupaz/goupaz.com](https://github.com/goupaz/goupaz.com)
-5. 🗣 Commented on [#108](https://github.com/EddieHubCommunity/api/issues/108) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#108](https://github.com/EddieHubCommunity/api/issues/108) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🎉 Merged PR [#122](https://github.com/EddieHubCommunity/api/pull/122) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Closed issue [#121](https://github.com/EddieHubCommunity/api/issues/121) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❗️ Opened issue [#218](https://github.com/goupaz/goupaz.com/issues/218) in [goupaz/goupaz.com](https://github.com/goupaz/goupaz.com)
 <!--END_SECTION:activity-->
