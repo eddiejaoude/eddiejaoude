@@ -68,9 +68,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/api/issues/124) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#119](https://github.com/EddieHubCommunity/api/issues/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#119](https://github.com/EddieHubCommunity/api/issues/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#218](https://github.com/goupaz/goupaz.com/issues/218) in [goupaz/goupaz.com](https://github.com/goupaz/goupaz.com)
-5. 🗣 Commented on [#108](https://github.com/EddieHubCommunity/api/issues/108) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#1795](https://github.com/EddieHubCommunity/support/issues/1795) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#776](https://github.com/EddieHubCommunity/support/issues/776) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/api/issues/124) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#119](https://github.com/EddieHubCommunity/api/issues/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#119](https://github.com/EddieHubCommunity/api/issues/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
