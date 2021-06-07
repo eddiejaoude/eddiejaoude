@@ -68,9 +68,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/EddieHubCommunity/Branding/issues/24) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. 🗣 Commented on [#1795](https://github.com/EddieHubCommunity/support/issues/1795) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#776](https://github.com/EddieHubCommunity/support/issues/776) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/api/issues/124) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#119](https://github.com/EddieHubCommunity/api/issues/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🎉 Merged PR [#24](https://github.com/EddieHubCommunity/Branding/pull/24) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+2. 🎉 Merged PR [#25](https://github.com/EddieHubCommunity/Branding/pull/25) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+3. 🗣 Commented on [#24](https://github.com/EddieHubCommunity/Branding/issues/24) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+4. 🗣 Commented on [#1795](https://github.com/EddieHubCommunity/support/issues/1795) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#776](https://github.com/EddieHubCommunity/support/issues/776) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
