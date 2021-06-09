@@ -68,9 +68,9 @@
 <h1 align="center">❞</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#125](https://github.com/EddieHubCommunity/api/issues/125) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Closed issue [#218](https://github.com/goupaz/goupaz.com/issues/218) in [goupaz/goupaz.com](https://github.com/goupaz/goupaz.com)
-3. 🗣 Commented on [#218](https://github.com/goupaz/goupaz.com/issues/218) in [goupaz/goupaz.com](https://github.com/goupaz/goupaz.com)
-4. 🎉 Merged PR [#24](https://github.com/EddieHubCommunity/Branding/pull/24) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🎉 Merged PR [#25](https://github.com/EddieHubCommunity/Branding/pull/25) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. ❗️ Closed issue [#127](https://github.com/EddieHubCommunity/api/issues/127) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. ❗️ Opened issue [#127](https://github.com/EddieHubCommunity/api/issues/127) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Opened issue [#125](https://github.com/EddieHubCommunity/api/issues/125) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Closed issue [#218](https://github.com/goupaz/goupaz.com/issues/218) in [goupaz/goupaz.com](https://github.com/goupaz/goupaz.com)
+5. 🗣 Commented on [#218](https://github.com/goupaz/goupaz.com/issues/218) in [goupaz/goupaz.com](https://github.com/goupaz/goupaz.com)
 <!--END_SECTION:activity-->
