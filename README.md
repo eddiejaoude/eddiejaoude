@@ -69,8 +69,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1839](https://github.com/EddieHubCommunity/support/issues/1839) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1453](https://github.com/EddieHubCommunity/support/issues/1453) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#259](https://github.com/EddieHubCommunity/support/issues/259) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#195](https://github.com/EddieHubCommunity/support/issues/195) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#1380](https://github.com/EddieHubCommunity/support/issues/1380) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1839](https://github.com/EddieHubCommunity/support/issues/1839) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1453](https://github.com/EddieHubCommunity/support/issues/1453) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#259](https://github.com/EddieHubCommunity/support/issues/259) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#195](https://github.com/EddieHubCommunity/support/issues/195) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
