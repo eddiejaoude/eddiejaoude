@@ -1,4 +1,4 @@
-![Eddie Jaoude](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg)
+<a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg" /></a>
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
 
