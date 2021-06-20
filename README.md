@@ -64,13 +64,3 @@
     <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
   </tr>
 </table>
-
-<h1 align="center">❞</h1>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1870](https://github.com/EddieHubCommunity/support/issues/1870) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#1870](https://github.com/EddieHubCommunity/support/issues/1870) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#1874](https://github.com/EddieHubCommunity/support/issues/1874) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#1873](https://github.com/EddieHubCommunity/support/pull/1873) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Opened issue [#1874](https://github.com/EddieHubCommunity/support/issues/1874) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-<!--END_SECTION:activity-->
