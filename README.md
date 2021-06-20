@@ -39,6 +39,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
 </p>
 
+---
+
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
 
@@ -66,6 +68,8 @@
 </table>
 
 <h1 align="center">❞</h1>
+
+---
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1870](https://github.com/EddieHubCommunity/support/issues/1870) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
