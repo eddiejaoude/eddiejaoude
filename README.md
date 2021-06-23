@@ -64,13 +64,3 @@
     <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
   </tr>
 </table>
-
-<h1 align="center">❞</h1>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/eddiejaoude/eddiejaoude/issues/92) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-2. ❗️ Closed issue [#54](https://github.com/eddiejaoude/eddiejaoude/issues/54) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-3. 🗣 Commented on [#54](https://github.com/eddiejaoude/eddiejaoude/issues/54) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-4. 🎉 Merged PR [#88](https://github.com/eddiejaoude/eddiejaoude/pull/88) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-5. 🎉 Merged PR [#87](https://github.com/eddiejaoude/eddiejaoude/pull/87) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-<!--END_SECTION:activity-->
