@@ -1,4 +1,4 @@
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg" /></a>
+<a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
 
@@ -8,22 +8,19 @@
 
 <p align="center"><b>FREE checklist download</b> for <a href="http://eddiejaoude.io/maintainer-checklist">project maintainers</a><br><i>(includes: achieve more Stars, get more Forks, gain more Pull Requests, more visibility to your Repo, attract paid work</i></p>
 
-<p align="center">Sign up to my community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date monthly with up and coming events, community achievements and more</p>
+<p align="center">Sign up to my community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
 
 <p align="center">In recent years, I have trended on GitHub with the likes of Twitter, Facebook, Angular, etc. and was in the Top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realize how much I still need to learn.</p>
 
 <p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
-    <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
+    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" />
   </a>
   <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
 </p>
 
@@ -71,13 +68,3 @@
     <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
   </tr>
 </table>
-
-<h1 align="center">❞</h1>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1870](https://github.com/EddieHubCommunity/support/issues/1870) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#1870](https://github.com/EddieHubCommunity/support/issues/1870) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#1874](https://github.com/EddieHubCommunity/support/issues/1874) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#1873](https://github.com/EddieHubCommunity/support/pull/1873) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Opened issue [#1874](https://github.com/EddieHubCommunity/support/issues/1874) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-<!--END_SECTION:activity-->
