@@ -13,20 +13,22 @@
 <p align="center">In recent years, I have trended on GitHub with the likes of Twitter, Facebook, Angular, etc. and was in the Top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realize how much I still need to learn.</p>
 
 <p align="center">
-  <a href="http://twitter.com/eddiejaoude">
+  <a href="https://twitter.com/eddiejaoude">
     <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
     <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" />
   </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+  <a href="https://youtube.com/eddiejaoude?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://user-images.githubusercontent.com/624760/87853406-a34b6900-c901-11ea-834b-07d90ca3d4fa.gif" alt="Eddie teaching code on YouTube" />
-  <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
+  <a href="https://youtube.com/eddiejaoude?sub_confirmation=1">
+    <img width="48%" src="https://user-images.githubusercontent.com/624760/87853406-a34b6900-c901-11ea-834b-07d90ca3d4fa.gif" alt="Eddie teaching code on YouTube" />
+    <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
+  </a>
 </p>
 
 ---
