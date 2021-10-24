@@ -55,4 +55,8 @@
     <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
     <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://github.com/Ranjbar1/">Abolfazl Ranjbarr</a></td>
+    <td>i just watched the Minibootcamp about git hub tuts ! that was awesome and helped me apply for a job!</td>
+  </tr>
 </table>
