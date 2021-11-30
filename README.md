@@ -32,6 +32,11 @@
 ---
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Curl open source project with the creator Daniel Stenberg](https://www.youtube.com/watch?v=_SbaQTzXb2c)
+- [How much does it cost to be a FREELANCER?](https://www.youtube.com/watch?v=mxu62w33ekA)
+- [How to get more stars and forks on GitHub and make your open source project standout](https://www.youtube.com/watch?v=bASuF1TbMy4)
+- [Real resume &lpar;cv&rpar; reviews and tips to get your next job and a pay rise](https://www.youtube.com/watch?v=HNKQVOqwBDg)
+- [How to get started in freelancing in tech and how to grow it to scale](https://www.youtube.com/watch?v=-ZfCB33n5KI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
