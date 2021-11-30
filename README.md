@@ -6,6 +6,8 @@
 
 <p align="center"><b>Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!</p>
 
+<p align="center"><b>FREE video course</b> on <a href="http://eddiejaoude.io/course-github-profile-landing">How to make your GitHub profile standout</a>
+  
 <p align="center"><b>FREE checklist download</b> for <a href="http://eddiejaoude.io/maintainer-checklist">project maintainers</a><br><i>(includes: achieve more Stars, get more Forks, gain more Pull Requests, more visibility to your Repo, attract paid work</i></p>
 
 <p align="center">Sign up to my community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
