@@ -33,6 +33,8 @@
 
 ---
 
+### Latest YouTube videos
+
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Curl open source project with the creator Daniel Stenberg](https://www.youtube.com/watch?v=_SbaQTzXb2c)
 - [How much does it cost to be a FREELANCER?](https://www.youtube.com/watch?v=mxu62w33ekA)
