@@ -36,11 +36,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Your open source GitHub repos / profiles shoutouts and reviews](https://www.youtube.com/watch?v=xsZIKzE7gy8)
 - [New GitHub Beta feature to star your favourite projects and group into lists](https://www.youtube.com/watch?v=_RzLtnEWncs)
 - [Update GitHub Profile with your Blog/YouTube activity using GitHub Actions](https://www.youtube.com/watch?v=oVS3M9IPZUM)
 - [Organise your GitHub projects with these SUPER project boards](https://www.youtube.com/watch?v=C0RTISXqyAk)
 - [Curl open source project with the creator Daniel Stenberg](https://www.youtube.com/watch?v=_SbaQTzXb2c)
+- [How much does it cost to be a FREELANCER?](https://www.youtube.com/watch?v=mxu62w33ekA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
