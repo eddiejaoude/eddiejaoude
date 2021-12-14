@@ -3,7 +3,7 @@ tasks:
   - init: npm install
     command: |
       npm run marked
-      npm run serve
+      npm start
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 ports:
