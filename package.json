@@ -1,0 +1,27 @@
+{
+  "name": "eddiejaoude",
+  "version": "1.0.0",
+  "description": "[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#http://github.com/eddiejaoude/eddiejaoude)",
+  "main": "index.js",
+  "scripts": {
+    "marked": "npx marked -i README.md -o index.html",
+    "start": "npx serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiejaoude/eddiejaoude.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddiejaoude/eddiejaoude/issues"
+  },
+  "homepage": "https://github.com/eddiejaoude/eddiejaoude#readme",
+  "devDependencies": {
+    "marked": "^4.0.7",
+    "nodemon": "^2.0.15",
+    "serve": "^13.0.2"
+  }
+}
