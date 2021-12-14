@@ -1,4 +1,4 @@
-[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#http://github.com/eddiejaoude/eddiejaoude)
+[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eddiejaoude/eddiejaoude)
 
 <a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
 
