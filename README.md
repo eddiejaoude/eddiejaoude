@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What happened to Open Source in 2021](https://www.youtube.com/watch?v=0Rzw_AHuGxc)
 - [Refactoring Markdown to Fullstack NextJS app using Gitpod](https://www.youtube.com/watch?v=KU3aLQ_3ok0)
 - [Digital nomad life how I work from anywhere around the world as a web developer](https://www.youtube.com/watch?v=eejGXpKc1HU)
 - [Your open source GitHub repos / profiles shoutouts and reviews](https://www.youtube.com/watch?v=xsZIKzE7gy8)
 - [New GitHub Beta feature to star your favourite projects and group into lists](https://www.youtube.com/watch?v=_RzLtnEWncs)
-- [Update GitHub Profile with your Blog/YouTube activity using GitHub Actions](https://www.youtube.com/watch?v=oVS3M9IPZUM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
