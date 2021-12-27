@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to contribute to open source with automated testing using Cypress and Cucumber](https://www.youtube.com/watch?v=AYGUj-Zf4ho)
 - [Open source reviews - share your GitHub repos](https://www.youtube.com/watch?v=wQvlaYc5nl8)
 - [What happened to Open Source in 2021](https://www.youtube.com/watch?v=0Rzw_AHuGxc)
 - [Refactoring Markdown to Fullstack NextJS app using Gitpod](https://www.youtube.com/watch?v=KU3aLQ_3ok0)
 - [Digital nomad life how I work from anywhere around the world as a web developer](https://www.youtube.com/watch?v=eejGXpKc1HU)
-- [Your open source GitHub repos / profiles shoutouts and reviews](https://www.youtube.com/watch?v=xsZIKzE7gy8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
