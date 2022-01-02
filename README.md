@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Getting YOU into Open Source - 2022 Q&amp;A](https://www.youtube.com/watch?v=fo3uzmFpA8c)
 - [What computer do I need to be a web developer + contribute to open source - ephemeral dev env Gitpod](https://www.youtube.com/watch?v=qfIdHPnk-J4)
 - [How to contribute to open source with automated testing using Cypress and Cucumber](https://www.youtube.com/watch?v=AYGUj-Zf4ho)
 - [Open source reviews - share your GitHub repos](https://www.youtube.com/watch?v=wQvlaYc5nl8)
 - [What happened to Open Source in 2021](https://www.youtube.com/watch?v=0Rzw_AHuGxc)
+- [Refactoring Markdown to Fullstack NextJS app using Gitpod](https://www.youtube.com/watch?v=KU3aLQ_3ok0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
