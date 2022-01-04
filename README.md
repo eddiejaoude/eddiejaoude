@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Your open source repo reviews + shoutouts &lpar;share your GitHub repos&rpar;](https://www.youtube.com/watch?v=i2t50B5lmIU)
 - [My 2021 standup, what went well, what went wrong, plans for 2022](https://www.youtube.com/watch?v=wNv0ch9YZGQ)
 - [Getting YOU into Open Source - 2022 Q&amp;A](https://www.youtube.com/watch?v=fo3uzmFpA8c)
 - [What computer do I need to be a web developer + contribute to open source - ephemeral dev env Gitpod](https://www.youtube.com/watch?v=qfIdHPnk-J4)
 - [How to contribute to open source with automated testing using Cypress and Cucumber](https://www.youtube.com/watch?v=AYGUj-Zf4ho)
-- [Open source reviews - share your GitHub repos](https://www.youtube.com/watch?v=wQvlaYc5nl8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
