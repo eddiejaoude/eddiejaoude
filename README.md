@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [React search in 10mins - search any data with a few lines of javascript](https://www.youtube.com/watch?v=vMGbxOAaCLY)
 - [Your open source repo reviews + shoutouts &lpar;share your GitHub repos&rpar;](https://www.youtube.com/watch?v=i2t50B5lmIU)
 - [how to freelance as web developer - get and keep your clients](https://www.youtube.com/watch?v=FbS85WU4PoE)
 - [My 2021 standup, what went well, what went wrong, plans for 2022](https://www.youtube.com/watch?v=wNv0ch9YZGQ)
 - [Getting YOU into Open Source - 2022 Q&amp;A](https://www.youtube.com/watch?v=fo3uzmFpA8c)
-- [What computer do I need to be a web developer + contribute to open source - ephemeral dev env Gitpod](https://www.youtube.com/watch?v=qfIdHPnk-J4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
