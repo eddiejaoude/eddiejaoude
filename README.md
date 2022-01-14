@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to get remote work as a self taught developer](https://www.youtube.com/watch?v=QMYUo28h-UA)
 - [React search in 10mins - search any data with a few lines of javascript](https://www.youtube.com/watch?v=vMGbxOAaCLY)
 - [Your open source repo reviews + shoutouts &lpar;share your GitHub repos&rpar;](https://www.youtube.com/watch?v=i2t50B5lmIU)
 - [how to freelance as web developer - get and keep your clients](https://www.youtube.com/watch?v=FbS85WU4PoE)
 - [My 2021 standup, what went well, what went wrong, plans for 2022](https://www.youtube.com/watch?v=wNv0ch9YZGQ)
-- [Getting YOU into Open Source - 2022 Q&amp;A](https://www.youtube.com/watch?v=fo3uzmFpA8c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
