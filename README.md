@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to make your resume STANDOUT with Open Source - reviewing YOUR resumes](https://www.youtube.com/watch?v=IuspU5OMis8)
 - [How to contribute to open source within 10 minutes - start now!](https://www.youtube.com/watch?v=8B_JWf7pG20)
 - [Fullstack app using NextJS and GitHub&#39;s API pair programming with Mia Sibala](https://www.youtube.com/watch?v=f5NsX-AM5o0)
 - [How to get remote work as a self taught developer](https://www.youtube.com/watch?v=QMYUo28h-UA)
 - [React search in 10mins - search any data with a few lines of javascript](https://www.youtube.com/watch?v=vMGbxOAaCLY)
-- [Your open source repo reviews + shoutouts &lpar;share your GitHub repos&rpar;](https://www.youtube.com/watch?v=i2t50B5lmIU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
