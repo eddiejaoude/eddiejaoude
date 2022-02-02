@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is better Freelance or Permanent?](https://www.youtube.com/watch?v=2253S3lsWWE)
 - [How to make money with open source - 8 revenue streams - github](https://www.youtube.com/watch?v=MzOlvPj24Wo)
 - [How to make your resume STANDOUT with Open Source - reviewing YOUR resumes](https://www.youtube.com/watch?v=IuspU5OMis8)
 - [How to contribute to open source within 10 minutes - start now!](https://www.youtube.com/watch?v=8B_JWf7pG20)
 - [Fullstack app using NextJS and GitHub&#39;s API pair programming with Mia Sibala](https://www.youtube.com/watch?v=f5NsX-AM5o0)
-- [How to get remote work as a self taught developer](https://www.youtube.com/watch?v=QMYUo28h-UA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
