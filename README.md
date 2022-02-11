@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [If I started web development again in 2022](https://www.youtube.com/watch?v=_ItDG687wC0)
 - [How to grow organically on Twitter by 1000 followers per week](https://www.youtube.com/watch?v=Mrzd3fvavbw)
 - [Will GitHub Discussions replace Stackoverflow?](https://www.youtube.com/watch?v=Bz66Z4Bmk6I)
 - [What is better Freelance or Permanent?](https://www.youtube.com/watch?v=2253S3lsWWE)
 - [How to make money with open source - 8 revenue streams - github](https://www.youtube.com/watch?v=MzOlvPj24Wo)
-- [How to make your resume STANDOUT with Open Source - reviewing YOUR resumes](https://www.youtube.com/watch?v=IuspU5OMis8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
