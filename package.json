@@ -1,7 +1,7 @@
 {
   "name": "eddiejaoude",
   "version": "1.0.0",
-  "description": "[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#http://github.com/eddiejaoude/eddiejaoude)",
+  "description": "GitHub profile for Eddie Jaoude",
   "main": "index.js",
   "scripts": {
     "marked": "npx marked -i README.md -o index.html",
