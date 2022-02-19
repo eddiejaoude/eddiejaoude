@@ -38,11 +38,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Getting YOU started with Open source and fullstack using SvelteKit](https://www.youtube.com/watch?v=FO0TC7_p9_o)
 - [How to ACE an interview and get the job](https://www.youtube.com/watch?v=LeznSAB7_Ug)
 - [YOUR Open Source project reactions, reviews and shoutouts](https://www.youtube.com/watch?v=HCsQWr5r6_s)
 - [If I started web development again in 2022 I would use GitHub and Twitter &lpar;web dev&rpar;](https://www.youtube.com/watch?v=_ItDG687wC0)
 - [How to grow organically on Twitter by 1000 followers per week](https://www.youtube.com/watch?v=Mrzd3fvavbw)
-- [Will GitHub Discussions replace Stackoverflow?](https://www.youtube.com/watch?v=Bz66Z4Bmk6I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
