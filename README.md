@@ -38,7 +38,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Be more efficient in tech, get more done - Definition of Done &lpar;DoD&rpar;](https://www.youtube.com/watch?v=0Pcp_vRh44U)
+- [Be more productive in tech, get more done - Definition of Done &lpar;DoD&rpar;](https://www.youtube.com/watch?v=0Pcp_vRh44U)
 - [YOUR Open Source project reactions, reviews and shoutouts](https://www.youtube.com/watch?v=HCsQWr5r6_s)
 - [Getting YOU started with Open source and fullstack using SvelteKit](https://www.youtube.com/watch?v=FO0TC7_p9_o)
 - [How to ACE an interview and get the job](https://www.youtube.com/watch?v=LeznSAB7_Ug)
