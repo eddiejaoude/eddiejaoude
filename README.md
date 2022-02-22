@@ -4,17 +4,10 @@
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
 
-<p align="center"><b>Part of the <a href="https://stars.github.com/profiles"> GitHub Stars program and Star of 2020 🌟</a></b></p>
-
-<p align="center"><b>Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!</p>
-
-<p align="center"><b>FREE video course</b> on <a href="http://eddiejaoude.io/course-github-profile-landing">How to make your GitHub profile standout</a>
-  
-<p align="center"><b>FREE checklist download</b> for <a href="http://eddiejaoude.io/maintainer-checklist">project maintainers</a><br><i>(includes: achieve more Stars, get more Forks, gain more Pull Requests, more visibility to your Repo, attract paid work</i></p>
-
-<p align="center">Sign up to my community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more</p>
-
-<p align="center">In recent years, I have trended on GitHub with the likes of Twitter, Facebook, Angular, etc. and was in the Top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realize how much I still need to learn.</p>
+- 🌟 Part of the <a href="https://stars.github.com/profiles/eddiejaoude/"> GitHub Stars program</a>
+- 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!
+- 📸 FREE video course on <a href="http://eddiejaoude.io/course-github-profile-landing">How to make your GitHub profile standout</a>
+- 📰 Sign up to my community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date monthly with upcoming events, community achievements and more
 
 <p align="center">
   <a href="http://twitter.com/eddiejaoude">
