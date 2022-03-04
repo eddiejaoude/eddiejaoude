@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [VueJS with Gwen Faraday](https://www.youtube.com/watch?v=mMG45c5Z3Jw)
 - [Fullstack app with NextJS consuming 3rd party API data from GitHub](https://www.youtube.com/watch?v=opHb8wtXYlE)
 - [Getting YOU started with Open source and fullstack using SvelteKit](https://www.youtube.com/watch?v=FO0TC7_p9_o)
 - [LinkTree clone using VueJS with Gwen Faraday](https://www.youtube.com/watch?v=tYW5U7S3eRM)
 - [Open source digital nomad life in Bali - DevRel WebDev edition](https://www.youtube.com/watch?v=16zQn2L0qFE)
+- [Be more productive in tech, get more done - Definition of Done &lpar;DoD&rpar;](https://www.youtube.com/watch?v=0Pcp_vRh44U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
