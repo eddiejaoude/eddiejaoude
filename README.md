@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Reviewing YOUR Open Source projects with Debbie Dann](https://www.youtube.com/watch?v=O7_XpYAJouQ)
 - [Can you code with Dyslexia? Developer story from Sylvia F](https://www.youtube.com/watch?v=zMXC5XfA6wc)
 - [Cloud hosting with DigitalOcean, GCP, AWS, Azure](https://www.youtube.com/watch?v=uCE65_FtDcU)
 - [YOUR Open Source project reactions, reviews and shoutouts](https://www.youtube.com/watch?v=GlqsDH-S7kE)
 - [VueJS with Gwen Faraday](https://www.youtube.com/watch?v=mMG45c5Z3Jw)
+- [Fullstack app with NextJS consuming 3rd party API data from GitHub](https://www.youtube.com/watch?v=opHb8wtXYlE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
