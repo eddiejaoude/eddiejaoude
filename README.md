@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [NextJS authentication with GitHub OAuth &lpar;React, NodeJS&rpar;](https://www.youtube.com/watch?v=e2EKSJkXkqQ)
 - [How can I be a tech ALLY? With Louise Moulié](https://www.youtube.com/watch?v=tRlASYCiCBY)
 - [Reviewing YOUR Open Source projects with Debbie Dann](https://www.youtube.com/watch?v=O7_XpYAJouQ)
 - [Can you code with Dyslexia? Developer story from Sylvia F](https://www.youtube.com/watch?v=zMXC5XfA6wc)
 - [Cloud hosting with DigitalOcean, GCP, AWS, Azure](https://www.youtube.com/watch?v=uCE65_FtDcU)
-- [YOUR Open Source project reactions, reviews and shoutouts](https://www.youtube.com/watch?v=GlqsDH-S7kE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
