@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [DevOps with AWS Amplify and React + Auth with Matt Auerbach](https://www.youtube.com/watch?v=PjxGB8QD9uQ)
 - [Tech and it&#39;s many opportunities with Adelina Simion](https://www.youtube.com/watch?v=5w9kIy4xuxM)
 - [How to get into tech and standout with Francesco Ciulla](https://www.youtube.com/watch?v=uP4Q07ViQzk)
 - [NextJS authentication with GitHub OAuth &lpar;React, NodeJS&rpar;](https://www.youtube.com/watch?v=e2EKSJkXkqQ)
 - [How can I be a tech ALLY? With Louise Moulié](https://www.youtube.com/watch?v=tRlASYCiCBY)
-- [Reviewing YOUR Open Source projects with Debbie Dann](https://www.youtube.com/watch?v=O7_XpYAJouQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
