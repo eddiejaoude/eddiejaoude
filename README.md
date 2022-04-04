@@ -27,10 +27,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Focusing on React and finding a job with Julia Undeutsch](https://www.youtube.com/watch?v=MWWr3iFyLu0)
-- [How to send daily Open Source tips by email and SMS with Dima Grossman](https://www.youtube.com/watch?v=W2EybtWhZqo)
 - [Upload files using NextJS and Digital Ocean Spaces &lpar;AWS S3&rpar;](https://www.youtube.com/watch?v=HmHOTW2lNV8)
 - [DevOps with AWS Amplify and React + Auth with Matt Auerbach](https://www.youtube.com/watch?v=PjxGB8QD9uQ)
 - [Http status codes quiz - use these in your RESTful API &lpar;aka REST&rpar;](https://www.youtube.com/watch?v=0z0eMxwnwYk)
+- [Tech and it&#39;s many opportunities with Adelina Simion](https://www.youtube.com/watch?v=5w9kIy4xuxM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
