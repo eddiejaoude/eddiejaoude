@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Open Source project reviews with Martin Woodward from GitHub](https://www.youtube.com/watch?v=xJ-gNEIBD6M)
+- [How to build a ticketing app with Low Code using Appsmith’s Open Source platform](https://www.youtube.com/watch?v=kvf7MWeXkys)
 - [How to Open Source YOUR project](https://www.youtube.com/watch?v=yFbQpCCGLXc)
 - [GitHub Issues using Agile story points label to show effort/complexity etc](https://www.youtube.com/watch?v=Yd2FhXcxtYM)
 - [How to send daily Open Source tips by email and SMS with Dima Grossman](https://www.youtube.com/watch?v=W2EybtWhZqo)
-- [Focusing on React and finding a job with Julia Undeutsch](https://www.youtube.com/watch?v=MWWr3iFyLu0)
-- [Upload files using NextJS and Digital Ocean Spaces &lpar;AWS S3&rpar;](https://www.youtube.com/watch?v=HmHOTW2lNV8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
