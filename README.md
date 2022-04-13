@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [NextJS fullstack building random tips app &lpar;ReactJS, NodeJS&rpar;](https://www.youtube.com/watch?v=9jrOZ3rhX64)
 - [How to Open Source YOUR project](https://www.youtube.com/watch?v=yFbQpCCGLXc)
 - [GitHub Open Source project reviews with Martin Woodward from GitHub](https://www.youtube.com/watch?v=xJ-gNEIBD6M)
 - [How to build a ticketing app with Low Code using Appsmith’s Open Source platform](https://www.youtube.com/watch?v=kvf7MWeXkys)
 - [GitHub Issues using Agile story points label to show effort/complexity etc](https://www.youtube.com/watch?v=Yd2FhXcxtYM)
-- [How to send daily Open Source tips by email and SMS with Dima Grossman](https://www.youtube.com/watch?v=W2EybtWhZqo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
