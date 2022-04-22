@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to build a ticketing app with Low Code using Appsmith’s Open Source platform](https://www.youtube.com/watch?v=kvf7MWeXkys)
 - [GitHub Open Source repo reviews](https://www.youtube.com/watch?v=NxxJ_5nyG9E)
 - [How to make money as a student with Kunal Kushwaha](https://www.youtube.com/watch?v=GLVtezjMRHw)
 - [NextJS fullstack building random tips app &lpar;ReactJS, NodeJS&rpar;](https://www.youtube.com/watch?v=9jrOZ3rhX64)
 - [How to Open Source YOUR project](https://www.youtube.com/watch?v=yFbQpCCGLXc)
-- [GitHub Open Source project reviews with Martin Woodward from GitHub](https://www.youtube.com/watch?v=xJ-gNEIBD6M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
