@@ -26,7 +26,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Getting into tech with Lucy Mac](https://www.youtube.com/watch?v=sSNCfuScBhA)
+- [Getting into tech with Lucy Macartney](https://www.youtube.com/watch?v=sSNCfuScBhA)
 - [How to build a ticketing app with Low Code using Appsmith’s Open Source platform](https://www.youtube.com/watch?v=kvf7MWeXkys)
 - [GitHub Open Source repo reviews](https://www.youtube.com/watch?v=NxxJ_5nyG9E)
 - [How to make money as a student with Kunal Kushwaha](https://www.youtube.com/watch?v=GLVtezjMRHw)
