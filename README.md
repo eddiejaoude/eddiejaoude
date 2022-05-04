@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Percona Live 2022 in-person Open Source database conference](https://www.youtube.com/watch?v=W_3IsDjjnPU)
 - [GitHub forks, git branch and remotes explained](https://www.youtube.com/watch?v=FnxFwyzm4Z4)
 - [How to find a tech mentor with Jae Taylor for Mentor Mesh](https://www.youtube.com/watch?v=2KpSjxpTrjw)
 - [Build a FULLSTACK app with NextJS and send notifications using Novu &lpar;open source&rpar;](https://www.youtube.com/watch?v=dRzrd-6kciM)
 - [Getting into tech with Lucy Macartney](https://www.youtube.com/watch?v=sSNCfuScBhA)
-- [How to build a ticketing app with Low Code using Appsmith’s Open Source platform](https://www.youtube.com/watch?v=kvf7MWeXkys)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
