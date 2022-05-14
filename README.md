@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Open Source GitHub repo reviews](https://www.youtube.com/watch?v=T14I0ECfPlU)
 - [YOUR open source, freelancing questions answered](https://www.youtube.com/watch?v=vyfPLoUPWto)
 - [Try Catch in JAVASCRIPT &lpar;NodeJS&rpar; - wrapping an API request](https://www.youtube.com/watch?v=_YA9yII8a3M)
 - [Percona Live 2022 in-person Open Source database conference](https://www.youtube.com/watch?v=W_3IsDjjnPU)
 - [GitHub forks, git branch and remotes explained](https://www.youtube.com/watch?v=FnxFwyzm4Z4)
-- [How to find a tech mentor with Jae Taylor for Mentor Mesh](https://www.youtube.com/watch?v=2KpSjxpTrjw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
