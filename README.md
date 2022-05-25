@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Web development is NOT saturated](https://www.youtube.com/watch?v=f64HiGe0S58)
 - [GITHUB Organisation customise for members and non members &lpar;OPEN SOURCE&rpar;](https://www.youtube.com/watch?v=_uuH0IlFodA)
 - [GitHub Advanced Search - find your open source projects](https://www.youtube.com/watch?v=L1X5f2ZxN0E)
 - [Open Source GitHub repo reviews](https://www.youtube.com/watch?v=T14I0ECfPlU)
 - [YOUR open source, freelancing questions answered](https://www.youtube.com/watch?v=vyfPLoUPWto)
-- [Try Catch in JAVASCRIPT &lpar;NodeJS&rpar; - wrapping an API request](https://www.youtube.com/watch?v=_YA9yII8a3M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
