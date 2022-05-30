@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Coding on LinkFree project open source GitHub alternative to LinkTree](https://www.youtube.com/watch?v=0qRcDJy0bDw)
 - [How to get more GitHub STARS for your Open Source repo as a maintainer](https://www.youtube.com/watch?v=HCXT3tBW3sU)
 - [Is web development saturated &lpar;web dev&rpar;](https://www.youtube.com/watch?v=f64HiGe0S58)
 - [GITHUB Organisation customise for members and non members &lpar;OPEN SOURCE&rpar;](https://www.youtube.com/watch?v=_uuH0IlFodA)
 - [GitHub Advanced Search - find your open source projects](https://www.youtube.com/watch?v=L1X5f2ZxN0E)
+- [Open Source GitHub repo reviews](https://www.youtube.com/watch?v=T14I0ECfPlU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
