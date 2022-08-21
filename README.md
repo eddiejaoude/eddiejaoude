@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Create these web dev projects to get a JOB](https://www.youtube.com/watch?v=Tge_nBFZEAs)
-- [Coding on LinkFree project open source GitHub alternative to LinkTree](https://www.youtube.com/watch?v=0qRcDJy0bDw)
-- [How to get more GitHub STARS for your Open Source repo as a maintainer](https://www.youtube.com/watch?v=HCXT3tBW3sU)
-- [Is web development saturated &lpar;web dev&rpar;](https://www.youtube.com/watch?v=f64HiGe0S58)
-- [GITHUB Organisation customise for members and non members &lpar;OPEN SOURCE&rpar;](https://www.youtube.com/watch?v=_uuH0IlFodA)
+- [Reviewing your GitHub Open Source Projects](https://www.youtube.com/watch?v=yK-NLKZ8cHU)
+- [Javascript NextJS React Mongo | Code with Eddie Jaoude on LinkFree](https://www.youtube.com/watch?v=mdQKavEmmPI)
+- [Host multiple WordPress clients on a single Virtual Machine &lpar;MySQL, SSL&rpar; on Civo Cloud](https://www.youtube.com/watch?v=PtMA7FVTo-8)
+- [Reviewing your GitHub Open Source Projects with Pradumna Saraf](https://www.youtube.com/watch?v=KnR5OoVLpc4)
+- [Getting started with SolidJS with Dan Jutan](https://www.youtube.com/watch?v=_EGWKhIznAg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
