@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Reviewing your GitHub Open Source Projects](https://www.youtube.com/watch?v=yK-NLKZ8cHU)
 - [Javascript NextJS React Mongo | Code with Eddie Jaoude on LinkFree](https://www.youtube.com/watch?v=mdQKavEmmPI)
 - [Host multiple WordPress clients on a single Virtual Machine &lpar;MySQL, SSL&rpar; on Civo Cloud](https://www.youtube.com/watch?v=PtMA7FVTo-8)
 - [Reviewing your GitHub Open Source Projects with Pradumna Saraf](https://www.youtube.com/watch?v=KnR5OoVLpc4)
 - [Getting started with SolidJS with Dan Jutan](https://www.youtube.com/watch?v=_EGWKhIznAg)
+- [Migrating from REACT library to NEXTJS framework](https://www.youtube.com/watch?v=wUmdPkZTz2c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
