@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Supercharging our GitHub Pull Requests and Issues](https://www.youtube.com/watch?v=1kp0Muo_2Sc)
 - [GitHub MARKDOWN supporting Mermaid diagrams](https://www.youtube.com/watch?v=ooXfqNpLPZc)
 - [Reviewing your GitHub Open Source Projects](https://www.youtube.com/watch?v=yK-NLKZ8cHU)
 - [Javascript NextJS React Mongo | Code with Eddie Jaoude on LinkFree](https://www.youtube.com/watch?v=mdQKavEmmPI)
 - [Host multiple WordPress clients on a single Virtual Machine &lpar;MySQL, SSL&rpar; on Civo Cloud](https://www.youtube.com/watch?v=PtMA7FVTo-8)
-- [Reviewing your GitHub Open Source Projects with Pradumna Saraf](https://www.youtube.com/watch?v=KnR5OoVLpc4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
