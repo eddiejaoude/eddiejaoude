@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Getting started with SolidJS with Dan Jutan](https://www.youtube.com/watch?v=_EGWKhIznAg)
 - [Grow on Tech Twitter 70k #shorts](https://www.youtube.com/watch?v=IBllmKQC11E)
 - [Supercharging our GitHub Pull Requests and Issues](https://www.youtube.com/watch?v=1kp0Muo_2Sc)
 - [GitHub MARKDOWN supporting Mermaid diagrams](https://www.youtube.com/watch?v=ooXfqNpLPZc)
 - [Reviewing your GitHub Open Source Projects](https://www.youtube.com/watch?v=yK-NLKZ8cHU)
-- [Javascript NextJS React Mongo | Code with Eddie Jaoude on LinkFree](https://www.youtube.com/watch?v=mdQKavEmmPI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
