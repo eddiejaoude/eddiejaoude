@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Building EddieHub kubernetes infrastructure as code with David Flanagan](https://www.youtube.com/watch?v=dChtjtBlaSo)
+- [Reviewing YOUR GitHub Sponsors page](https://www.youtube.com/watch?v=He9lBSlTvhQ)
 - [Do NOT commit the wrong file again with git global ignore #shorts](https://www.youtube.com/watch?v=oH3MuD6WkZI)
 - [Getting started with SolidJS with Dan Jutan](https://www.youtube.com/watch?v=_EGWKhIznAg)
 - [Grow on Tech Twitter 70k #shorts](https://www.youtube.com/watch?v=IBllmKQC11E)
-- [Supercharging our GitHub Pull Requests and Issues](https://www.youtube.com/watch?v=1kp0Muo_2Sc)
-- [GitHub MARKDOWN supporting Mermaid diagrams](https://www.youtube.com/watch?v=ooXfqNpLPZc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
