@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Supercharging our GitHub Pull Requests and Issues](https://www.youtube.com/watch?v=1kp0Muo_2Sc)
 - [Securing your Kubernetes with Kubescape K8s Open Source tool](https://www.youtube.com/watch?v=fhpJ-KbA1Co)
 - [Building EddieHub kubernetes infrastructure as code with David Flanagan](https://www.youtube.com/watch?v=dChtjtBlaSo)
 - [Reviewing YOUR GitHub Sponsors page](https://www.youtube.com/watch?v=He9lBSlTvhQ)
 - [Do NOT commit the wrong file again with git global ignore #shorts](https://www.youtube.com/watch?v=oH3MuD6WkZI)
-- [Getting started with SolidJS with Dan Jutan](https://www.youtube.com/watch?v=_EGWKhIznAg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
