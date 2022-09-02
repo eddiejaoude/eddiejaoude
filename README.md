@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Using Astro with YOUR favourite UI library &lpar;React example&rpar;](https://www.youtube.com/watch?v=SoezjkNppkE)
 - [Make money TODAY with Open Source on GitHub &lpar;sponsors&rpar; #shorts](https://www.youtube.com/watch?v=tVHCY766d5w)
 - [Supercharging our GitHub Pull Requests and Issues](https://www.youtube.com/watch?v=1kp0Muo_2Sc)
 - [Securing your Kubernetes with Kubescape K8s Open Source tool](https://www.youtube.com/watch?v=fhpJ-KbA1Co)
 - [Building EddieHub kubernetes infrastructure as code with David Flanagan](https://www.youtube.com/watch?v=dChtjtBlaSo)
-- [Reviewing YOUR GitHub Sponsors page](https://www.youtube.com/watch?v=He9lBSlTvhQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
