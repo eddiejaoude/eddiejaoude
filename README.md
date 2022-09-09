@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Manage MongoDB from VScode plugin &lpar;Mongo NoSQL&rpar;](https://www.youtube.com/watch?v=QzLjgdGw6PA)
 - [Will AI tools replace Web Devs? &lpar;GitHub Copilot&rpar;](https://www.youtube.com/watch?v=SBkEEt_29qs)
 - [Reviewing YOUR GitHub Sponsors page](https://www.youtube.com/watch?v=He9lBSlTvhQ)
 - [GitHub milestones group and priorities your issues #shorts](https://www.youtube.com/watch?v=3PrCC3nvFnw)
 - [Using Astro with YOUR favourite UI library &lpar;React example&rpar;](https://www.youtube.com/watch?v=SoezjkNppkE)
-- [Make money TODAY with Open Source on GitHub &lpar;sponsors&rpar; #shorts](https://www.youtube.com/watch?v=tVHCY766d5w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
