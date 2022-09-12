@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hacktoberfest Open Source Contributions Start Now!](https://www.youtube.com/watch?v=1DCCbuyF20E)
 - [Reviewing your GitHub Open Source Projects](https://www.youtube.com/watch?v=YVJyz7DZMQo)
 - [GitHub Action performance improvements - a great way to contribute to Open Source #shorts](https://www.youtube.com/watch?v=cBczOZlYwJQ)
 - [Manage MongoDB from VScode plugin &lpar;Mongo NoSQL&rpar;](https://www.youtube.com/watch?v=QzLjgdGw6PA)
 - [Will AI tools replace Web Devs? &lpar;GitHub Copilot&rpar;](https://www.youtube.com/watch?v=SBkEEt_29qs)
-- [Reviewing YOUR GitHub Sponsors page](https://www.youtube.com/watch?v=He9lBSlTvhQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
