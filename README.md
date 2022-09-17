@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub CLI #shorts](https://www.youtube.com/watch?v=6kza2Jl7pOg)
 - [Building an API with NextJS](https://www.youtube.com/watch?v=2EDJ5kMzhYs)
 - [Reviewing your GitHub Open Source Projects](https://www.youtube.com/watch?v=YVJyz7DZMQo)
 - [Hacktoberfest Open Source Contributions Start Now!](https://www.youtube.com/watch?v=1DCCbuyF20E)
 - [GitHub Action performance improvements - a great way to contribute to Open Source #shorts](https://www.youtube.com/watch?v=cBczOZlYwJQ)
-- [Manage MongoDB from VScode plugin &lpar;Mongo NoSQL&rpar;](https://www.youtube.com/watch?v=QzLjgdGw6PA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
