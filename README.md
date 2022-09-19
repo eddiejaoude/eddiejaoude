@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Get organised with GitHub project boards better than Trello and Jira](https://www.youtube.com/watch?v=JC2aFOJ1HS4)
 - [GitHub CLI #shorts](https://www.youtube.com/watch?v=6kza2Jl7pOg)
 - [Building an API with NextJS](https://www.youtube.com/watch?v=2EDJ5kMzhYs)
 - [Reviewing your GitHub Open Source Projects](https://www.youtube.com/watch?v=YVJyz7DZMQo)
 - [Hacktoberfest Open Source Contributions Start Now!](https://www.youtube.com/watch?v=1DCCbuyF20E)
-- [GitHub Action performance improvements - a great way to contribute to Open Source #shorts](https://www.youtube.com/watch?v=cBczOZlYwJQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
