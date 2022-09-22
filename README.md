@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Getting into Open Source and GitHub for Hacktoberfest!](https://www.youtube.com/watch?v=3el3dK7xu_Y)
 - [Level up your Open Source contributions](https://www.youtube.com/watch?v=3dbKwnoNngo)
 - [Secure your VMs and pair on the terminal with friends with Teleport](https://www.youtube.com/watch?v=k_S0TQLJCBA)
 - [Get organised with GitHub project boards better than Trello and Jira](https://www.youtube.com/watch?v=JC2aFOJ1HS4)
 - [GitHub CLI #shorts](https://www.youtube.com/watch?v=6kza2Jl7pOg)
-- [Building an API with NextJS](https://www.youtube.com/watch?v=2EDJ5kMzhYs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
