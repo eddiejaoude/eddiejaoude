@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Repo Mini Bootcamp &lpar;great for hacktoberfest&rpar;](https://www.youtube.com/watch?v=BI18N3ZC2Es)
 - [Getting into Open Source and GitHub for Hacktoberfest!](https://www.youtube.com/watch?v=3el3dK7xu_Y)
 - [Debugging javascript with console table &lpar;log&rpar;](https://www.youtube.com/watch?v=sdkSxNjp49M)
 - [Secure your VMs and pair on the terminal with friends with Teleport](https://www.youtube.com/watch?v=k_S0TQLJCBA)
 - [Building EddieHub Kubernetes infrastructure as code with David Flanagan](https://www.youtube.com/watch?v=dChtjtBlaSo)
-- [Level up your Open Source contributions](https://www.youtube.com/watch?v=3dbKwnoNngo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
