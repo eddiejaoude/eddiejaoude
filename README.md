@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Undo git commit with git revert command #shorts](https://www.youtube.com/watch?v=R5AzOBd3ry8)
 - [Hacktoberfest Open Source Contributions Start Now!](https://www.youtube.com/watch?v=1DCCbuyF20E)
 - [Getting started with Storybook on the EddieHub LinkFree Repo](https://www.youtube.com/watch?v=Nx6bnkAEQjM)
 - [GitHub Repo Mini Bootcamp &lpar;great for hacktoberfest&rpar;](https://www.youtube.com/watch?v=BI18N3ZC2Es)
 - [Getting into Open Source and GitHub for Hacktoberfest!](https://www.youtube.com/watch?v=3el3dK7xu_Y)
-- [Debugging javascript with console table &lpar;log&rpar;](https://www.youtube.com/watch?v=sdkSxNjp49M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
