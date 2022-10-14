@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Let&#39;s all collaborate on Open Source!](https://www.youtube.com/watch?v=NsBJD21fdT4)
 - [Maintainers: Get more contributors on your projects! &lpar;Hacktoberfest&rpar;](https://www.youtube.com/watch?v=ZoXeGQ0Wvz4)
 - [Search your Linux CLI history #shorts](https://www.youtube.com/watch?v=Wgl-BCmeGyE)
 - [Hacktoberfest Edition: Your GitHub Open Source Projects &amp; Profiles REVIEWED!](https://www.youtube.com/watch?v=jWqMuVKU53c)
 - [Getting started with Storybook on the EddieHub LinkFree Repo](https://www.youtube.com/watch?v=Nx6bnkAEQjM)
+- [From Learning in Public to Open Source to Content Creation](https://www.youtube.com/watch?v=IRO0kUjCq6c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
