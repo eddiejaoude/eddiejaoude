@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Money or skills? With  @Kunal Kushwaha](https://www.youtube.com/watch?v=fCYcVrKlTh8)
 - [Open Source Reviews](https://www.youtube.com/watch?v=PN9gs8TmnTw)
 - [Let&#39;s all collaborate on Open Source!](https://www.youtube.com/watch?v=NsBJD21fdT4)
 - [Maintainers: Get more contributors on your projects! &lpar;Hacktoberfest&rpar;](https://www.youtube.com/watch?v=ZoXeGQ0Wvz4)
 - [Search your Linux CLI history #shorts](https://www.youtube.com/watch?v=Wgl-BCmeGyE)
-- [Hacktoberfest Edition: Your GitHub Open Source Projects &amp; Profiles REVIEWED!](https://www.youtube.com/watch?v=jWqMuVKU53c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
