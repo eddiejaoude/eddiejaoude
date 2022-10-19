@@ -26,11 +26,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Git Cherry Pick instead of Git Merge](https://www.youtube.com/watch?v=OJmcEoMLOTM)
 - [Let&#39;s improve my GitHub Profile](https://www.youtube.com/watch?v=4POaptBcyG0)
 - [Money or skills? With  @Kunal Kushwaha](https://www.youtube.com/watch?v=fCYcVrKlTh8)
 - [Open Source Reviews](https://www.youtube.com/watch?v=PN9gs8TmnTw)
 - [Let&#39;s all collaborate on Open Source!](https://www.youtube.com/watch?v=NsBJD21fdT4)
-- [Maintainers: Get more contributors on your projects! &lpar;Hacktoberfest&rpar;](https://www.youtube.com/watch?v=ZoXeGQ0Wvz4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
