@@ -33,13 +33,13 @@
 <table>
   <tr>
     <td>
-<!-- YOUTUBE-VIDEOS-LIST1:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OJmcEoMLOTM"><img width="140px" src="https://i.ytimg.com/vi/OJmcEoMLOTM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OJmcEoMLOTM"><img width="140px" src="https://i.ytimg.com/vi/OJmcEoMLOTM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OJmcEoMLOTM">Git Cherry Pick instead of Git Merge</a><br/>Oct 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4POaptBcyG0"><img width="140px" src="https://i.ytimg.com/vi/4POaptBcyG0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4POaptBcyG0">Let&#39;s improve my GitHub Profile</a><br/>Oct 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fCYcVrKlTh8"><img width="140px" src="https://i.ytimg.com/vi/fCYcVrKlTh8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fCYcVrKlTh8">Money or skills? With  @Kunal Kushwaha</a><br/>Oct 18, 2022</td></tr></table>
-<!-- YOUTUBE-VIDEOS-LIST1:END -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
     </td>
     <td>
      ---
