@@ -6,14 +6,29 @@ on:
   workflow_dispatch:
 
 jobs:
-  youtube:
-    name: latest videos from YouTube
+  youtube1:
+    name: Column 1 - latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST1"
+          max_post_count: 3
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5mnBodB73bR88fLXHSfzYA"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+  youtube2:
+    name: Column 2 - latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST2"
+          max_post_count: 6
+          remove_duplicates: true
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5mnBodB73bR88fLXHSfzYA"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
