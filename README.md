@@ -31,16 +31,16 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OJmcEoMLOTM"><img width="140px" src="https://i.ytimg.com/vi/OJmcEoMLOTM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OJmcEoMLOTM">Git Cherry Pick instead of Git Merge</a><br/>Oct 19, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4POaptBcyG0"><img width="140px" src="https://i.ytimg.com/vi/4POaptBcyG0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4POaptBcyG0">Let&#39;s improve my GitHub Profile</a><br/>Oct 19, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fCYcVrKlTh8"><img width="140px" src="https://i.ytimg.com/vi/fCYcVrKlTh8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fCYcVrKlTh8">Money or skills? With  @Kunal Kushwaha</a><br/>Oct 18, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PN9gs8TmnTw"><img width="140px" src="https://i.ytimg.com/vi/PN9gs8TmnTw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PN9gs8TmnTw">Open Source Reviews</a><br/>Oct 17, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NsBJD21fdT4"><img width="140px" src="https://i.ytimg.com/vi/NsBJD21fdT4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NsBJD21fdT4">Let&#39;s all collaborate on Open Source!</a><br/>Oct 15, 2022</td></tr></table>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=OJmcEoMLOTM"><img width="140px" src="https://i.ytimg.com/vi/OJmcEoMLOTM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OJmcEoMLOTM">Git Cherry Pick instead of Git Merge</a><br/>Oct 19, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=4POaptBcyG0"><img width="140px" src="https://i.ytimg.com/vi/4POaptBcyG0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4POaptBcyG0">Let&#39;s improve my GitHub Profile</a><br/>Oct 19, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=fCYcVrKlTh8"><img width="140px" src="https://i.ytimg.com/vi/fCYcVrKlTh8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fCYcVrKlTh8">Money or skills? With  @Kunal Kushwaha</a><br/>Oct 18, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=PN9gs8TmnTw"><img width="140px" src="https://i.ytimg.com/vi/PN9gs8TmnTw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PN9gs8TmnTw">Open Source Reviews</a><br/>Oct 17, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=NsBJD21fdT4"><img width="140px" src="https://i.ytimg.com/vi/NsBJD21fdT4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NsBJD21fdT4">Let&#39;s all collaborate on Open Source!</a><br/>Oct 15, 2022</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
