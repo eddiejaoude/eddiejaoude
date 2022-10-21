@@ -3,9 +3,9 @@
 <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
 - 🌟 Part of the <a href="https://stars.github.com/profiles/eddiejaoude/"> GitHub Stars program</a>
-- 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!
-- 🤓 FREE video course on <a href="http://eddiejaoude.io/course-github-profile-landing">How to make your GitHub profile standout</a>
-- 📰 Sign up to my monthly community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date with upcoming events, community achievements and more
+- 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe in Collaboration 1st, Code 2nd!
+- 📸 FREE video course on <a href="http://eddiejaoude.io/course-github-profile-landing">How to make your GitHub profile standout</a>
+- 📰 Sign up to my monthly community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date with upcoming events, community achievements, and more
 
 <p align="center">
   <a href="http://twitter.com/eddiejaoude">
