@@ -21,8 +21,8 @@
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></td>
-    <td><img src="https://user-images.githubusercontent.com/624760/197230439-f90cd6b0-2174-41be-97eb-5f28f49d9d19.jpg" /></td>
+    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></a></td>
+    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230439-f90cd6b0-2174-41be-97eb-5f28f49d9d19.jpg" /></a></td>
   </tr>
 </table>
 
