@@ -32,7 +32,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=R75j79yNSKg"><img width="140px" src="https://i.ytimg.com/vi/R75j79yNSKg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=R75j79yNSKg">Learning about Kubernetes at KubeHuddle</a> (Oct 24, 2022)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=R75j79yNSKg">Learning about Kubernetes at KubeHuddle in person event UK</a> (Oct 24, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4POaptBcyG0"><img width="140px" src="https://i.ytimg.com/vi/4POaptBcyG0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4POaptBcyG0">Let&#39;s improve my GitHub Profile</a> (Oct 22, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OJmcEoMLOTM"><img width="140px" src="https://i.ytimg.com/vi/OJmcEoMLOTM/mqdefault.jpg"></a></td>
