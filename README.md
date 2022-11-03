@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=-ZiuJdT1i0k"><img width="140px" src="https://i.ytimg.com/vi/-ZiuJdT1i0k/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=btvegqPdVyw"><img width="140px" src="https://i.ytimg.com/vi/btvegqPdVyw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=btvegqPdVyw">Open Source coding on LinkFree v2 using NextJS and Playwright</a> (Nov 3, 2022)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-ZiuJdT1i0k"><img width="140px" src="https://i.ytimg.com/vi/-ZiuJdT1i0k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-ZiuJdT1i0k">How to get started with GitHub Actions</a> (Nov 2, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=vMljzaC0kWQ"><img width="140px" src="https://i.ytimg.com/vi/vMljzaC0kWQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vMljzaC0kWQ">Hacktoberfest halloween SCARY Spammy Pull Requests</a> (Oct 31, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=80GBNMwlt-Y"><img width="140px" src="https://i.ytimg.com/vi/80GBNMwlt-Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=80GBNMwlt-Y">Organising Kubernetes in-person event KubeHuddle: Interview with David Flanagan</a> (Oct 28, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=7vBUbpbl-JA"><img width="140px" src="https://i.ytimg.com/vi/7vBUbpbl-JA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7vBUbpbl-JA">Docker container for your fullstack NextJS project</a> (Oct 26, 2022)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
