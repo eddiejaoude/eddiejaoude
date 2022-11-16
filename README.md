@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=V7hsw_EEclo"><img width="140px" src="https://i.ytimg.com/vi/V7hsw_EEclo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=c_gssXt0cOU"><img width="140px" src="https://i.ytimg.com/vi/c_gssXt0cOU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c_gssXt0cOU">Is it STILL possible to grow on Twitter? &lpar;and is it WORTH it?&rpar;</a> (Nov 16, 2022)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=V7hsw_EEclo"><img width="140px" src="https://i.ytimg.com/vi/V7hsw_EEclo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V7hsw_EEclo">How to make your way in tech: Interview with Kunal Kushwaha</a> (Nov 14, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KegUYtQFvKg"><img width="140px" src="https://i.ytimg.com/vi/KegUYtQFvKg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KegUYtQFvKg">REACTING to your Open Source Projects &amp; Profiles</a> (Nov 12, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=omUkhMAD8Pw"><img width="140px" src="https://i.ytimg.com/vi/omUkhMAD8Pw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=omUkhMAD8Pw">DevRel? Open Source? Content Creation? Q&amp;A</a> (Nov 9, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=HNrYsEYuNdo"><img width="140px" src="https://i.ytimg.com/vi/HNrYsEYuNdo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HNrYsEYuNdo">Kubernetes move from Sidecar to eBPF Service Mesh: Interview with Liz Rice</a> (Nov 7, 2022)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
