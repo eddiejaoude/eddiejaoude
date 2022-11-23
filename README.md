@@ -68,3 +68,5 @@
     <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
   </tr>
 </table>
+
+<p>All my social links and courses in one place... https://linkfree.eddiehub.io/eddiejaoude</p>
