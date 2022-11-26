@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=7Sy4DQVJ7zw"><img width="140px" src="https://i.ytimg.com/vi/7Sy4DQVJ7zw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=FRuEqy-weno"><img width="140px" src="https://i.ytimg.com/vi/FRuEqy-weno/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FRuEqy-weno">Adding dynamic testimonials to LinkFree Profiles</a> (Nov 26, 2022)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=7Sy4DQVJ7zw"><img width="140px" src="https://i.ytimg.com/vi/7Sy4DQVJ7zw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7Sy4DQVJ7zw">What happened to Open Source in 2022?</a> (Nov 23, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=R3pWXVK1bS0"><img width="140px" src="https://i.ytimg.com/vi/R3pWXVK1bS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R3pWXVK1bS0">Collaborating &amp; Listening to other in Tech: Interview with Lian Li</a> (Nov 21, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=7Put3ddOpTw"><img width="140px" src="https://i.ytimg.com/vi/7Put3ddOpTw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7Put3ddOpTw">5 GitHub Profiles that STAND OUT</a> (Nov 18, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=c_gssXt0cOU"><img width="140px" src="https://i.ytimg.com/vi/c_gssXt0cOU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c_gssXt0cOU">Is it STILL possible to grow on Twitter? &lpar;and is it WORTH it?&rpar;</a> (Nov 16, 2022)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
