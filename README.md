@@ -31,10 +31,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=FRuEqy-weno"><img width="140px" src="https://i.ytimg.com/vi/FRuEqy-weno/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=gzvqFHU9rl8"><img width="140px" src="https://i.ytimg.com/vi/gzvqFHU9rl8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gzvqFHU9rl8">TALK: How to Accelerate your career with Open Source</a> (Nov 28, 2022)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=FRuEqy-weno"><img width="140px" src="https://i.ytimg.com/vi/FRuEqy-weno/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FRuEqy-weno">Adding dynamic testimonials to LinkFree Profiles</a> (Nov 26, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gzvqFHU9rl8"><img width="140px" src="https://i.ytimg.com/vi/gzvqFHU9rl8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gzvqFHU9rl8">TALK: How to Accelerate your career with Open Source</a> (Nov 25, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=7Sy4DQVJ7zw"><img width="140px" src="https://i.ytimg.com/vi/7Sy4DQVJ7zw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7Sy4DQVJ7zw">What happened to Open Source in 2022?</a> (Nov 23, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=R3pWXVK1bS0"><img width="140px" src="https://i.ytimg.com/vi/R3pWXVK1bS0/mqdefault.jpg"></a></td>
