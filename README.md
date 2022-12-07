@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=iqIFD02OkVE"><img width="140px" src="https://i.ytimg.com/vi/iqIFD02OkVE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=yOPyK5WMxCs"><img width="140px" src="https://i.ytimg.com/vi/yOPyK5WMxCs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yOPyK5WMxCs">Kubernetes as a Web Dev</a> (Dec 7, 2022)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=iqIFD02OkVE"><img width="140px" src="https://i.ytimg.com/vi/iqIFD02OkVE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iqIFD02OkVE">Open Source Reactions &amp; Reviews</a> (Dec 7, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=W0pf9UAXyS0"><img width="140px" src="https://i.ytimg.com/vi/W0pf9UAXyS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W0pf9UAXyS0">Open Source paving the way to sustainability in tech: Interview with Cheryl Hung</a> (Dec 5, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ES05mCEomm0"><img width="140px" src="https://i.ytimg.com/vi/ES05mCEomm0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ES05mCEomm0">REACTING to your GitHub SPONSORS page</a> (Dec 2, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mA3eC9YnhsU"><img width="140px" src="https://i.ytimg.com/vi/mA3eC9YnhsU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mA3eC9YnhsU">QR Code generator with React</a> (Nov 30, 2022)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
