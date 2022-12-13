@@ -35,10 +35,10 @@
 <td><a href="https://www.youtube.com/watch?v=k1ogozxOh40">Succeed in tech by networking: Interview with Marino Wijay</a> (Dec 12, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=iqIFD02OkVE"><img width="140px" src="https://i.ytimg.com/vi/iqIFD02OkVE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iqIFD02OkVE">Open Source Reactions &amp; Reviews</a> (Dec 10, 2022)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Tdn5YP6UK34"><img width="140px" src="https://i.ytimg.com/vi/Tdn5YP6UK34/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Tdn5YP6UK34">Content Creation STRATEGY for Developers</a> (Dec 9, 2022)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yOPyK5WMxCs"><img width="140px" src="https://i.ytimg.com/vi/yOPyK5WMxCs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yOPyK5WMxCs">Kubernetes as a Web Dev</a> (Dec 7, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=W0pf9UAXyS0"><img width="140px" src="https://i.ytimg.com/vi/W0pf9UAXyS0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W0pf9UAXyS0">Open Source paving the way to sustainability in tech: Interview with Cheryl Hung</a> (Dec 5, 2022)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
