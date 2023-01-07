@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=uEaa4K0rx-0"><img width="140px" src="https://i.ytimg.com/vi/uEaa4K0rx-0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=xgEa7hFjWm4"><img width="140px" src="https://i.ytimg.com/vi/xgEa7hFjWm4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xgEa7hFjWm4">Geeking out on Open Source with Bashbunni</a> (Jan 7, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=uEaa4K0rx-0"><img width="140px" src="https://i.ytimg.com/vi/uEaa4K0rx-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uEaa4K0rx-0">Should you merge your own Pull Requests?</a> (Jan 4, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=krmRG6o83Io"><img width="140px" src="https://i.ytimg.com/vi/krmRG6o83Io/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=krmRG6o83Io">React Form Generates custom QR code</a> (Jan 2, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AEmy6FXdzyk"><img width="140px" src="https://i.ytimg.com/vi/AEmy6FXdzyk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AEmy6FXdzyk">Javascript + Markdown = MDX &lpar;using NextJS&rpar;</a> (Dec 28, 2022)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=DXFc8MNUZQM"><img width="140px" src="https://i.ytimg.com/vi/DXFc8MNUZQM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DXFc8MNUZQM">Render Markdown React Component</a> (Dec 21, 2022)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
