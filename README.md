@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=YUHS5Ana7Jw"><img width="140px" src="https://i.ytimg.com/vi/YUHS5Ana7Jw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=6sZyOAoJrHU"><img width="140px" src="https://i.ytimg.com/vi/6sZyOAoJrHU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6sZyOAoJrHU">Running GitHub Open Source Organisations</a> (Jan 12, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=YUHS5Ana7Jw"><img width="140px" src="https://i.ytimg.com/vi/YUHS5Ana7Jw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YUHS5Ana7Jw">Git revert single file using git checkout on the CLI</a> (Jan 11, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tr7_66ZNyM0"><img width="140px" src="https://i.ytimg.com/vi/tr7_66ZNyM0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tr7_66ZNyM0">Machine Learning using Tensorflow.JS with Patty O&#39;Callaghan</a> (Jan 11, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=kvtz6wwE59A"><img width="140px" src="https://i.ytimg.com/vi/kvtz6wwE59A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kvtz6wwE59A">GitHub Swag GIVE AWAY for LinkFree open source project</a> (Jan 9, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=xgEa7hFjWm4"><img width="140px" src="https://i.ytimg.com/vi/xgEa7hFjWm4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xgEa7hFjWm4">Geeking out on Open Source with Bashbunni</a> (Jan 7, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
