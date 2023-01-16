@@ -33,12 +33,12 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=byNk8O5PRWQ"><img width="140px" src="https://i.ytimg.com/vi/byNk8O5PRWQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=byNk8O5PRWQ">Open Source Reviews</a> (Jan 14, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=6sZyOAoJrHU"><img width="140px" src="https://i.ytimg.com/vi/6sZyOAoJrHU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6sZyOAoJrHU">Running GitHub Open Source Organisations</a> (Jan 12, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=YUHS5Ana7Jw"><img width="140px" src="https://i.ytimg.com/vi/YUHS5Ana7Jw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YUHS5Ana7Jw">Git revert single file using git checkout on the CLI</a> (Jan 11, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=kvtz6wwE59A"><img width="140px" src="https://i.ytimg.com/vi/kvtz6wwE59A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kvtz6wwE59A">GitHub Swag GIVE AWAY for LinkFree open source project</a> (Jan 9, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=xgEa7hFjWm4"><img width="140px" src="https://i.ytimg.com/vi/xgEa7hFjWm4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xgEa7hFjWm4">Geeking out on Open Source with Bashbunni</a> (Jan 7, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
