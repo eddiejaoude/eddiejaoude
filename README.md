@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=udzoQQQNSfQ"><img width="140px" src="https://i.ytimg.com/vi/udzoQQQNSfQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=05HEeCQSKRE"><img width="140px" src="https://i.ytimg.com/vi/05HEeCQSKRE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=05HEeCQSKRE">LinkFree Quickstart: How to create YOUR Profile! &lpar;Open Source&rpar;</a> (Jan 23, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=udzoQQQNSfQ"><img width="140px" src="https://i.ytimg.com/vi/udzoQQQNSfQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=udzoQQQNSfQ">Learning Golang as a Javascript Developer with Lane from Boot.dev</a> (Jan 21, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QphbBKlGMAI"><img width="140px" src="https://i.ytimg.com/vi/QphbBKlGMAI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QphbBKlGMAI">Visualise &amp; Manage your Kubernetes Helm Charts with Helm Dashboard</a> (Jan 18, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=6sZyOAoJrHU"><img width="140px" src="https://i.ytimg.com/vi/6sZyOAoJrHU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6sZyOAoJrHU">Running GitHub Open Source Organisations</a> (Jan 17, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=byNk8O5PRWQ"><img width="140px" src="https://i.ytimg.com/vi/byNk8O5PRWQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=byNk8O5PRWQ">Open Source Reviews</a> (Jan 14, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
