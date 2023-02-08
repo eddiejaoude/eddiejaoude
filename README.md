@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=jHkIXYVpMTo"><img width="140px" src="https://i.ytimg.com/vi/jHkIXYVpMTo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=2Mhqx2VamWo"><img width="140px" src="https://i.ytimg.com/vi/2Mhqx2VamWo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2Mhqx2VamWo">Content Creation Challenges</a> (Feb 8, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=jHkIXYVpMTo"><img width="140px" src="https://i.ytimg.com/vi/jHkIXYVpMTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jHkIXYVpMTo">npm install vs npm ci</a> (Feb 3, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mOJ8lagv0jM"><img width="140px" src="https://i.ytimg.com/vi/mOJ8lagv0jM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mOJ8lagv0jM">Reviewing YOUR GitHub Organisations</a> (Feb 1, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=vtKtxDdS96U"><img width="140px" src="https://i.ytimg.com/vi/vtKtxDdS96U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vtKtxDdS96U">LinkFree Profile Reviews and Giveaway!</a> (Jan 28, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=bRxhzt3UQlg"><img width="140px" src="https://i.ytimg.com/vi/bRxhzt3UQlg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bRxhzt3UQlg">How much have I learnt in 6 years</a> (Jan 25, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
