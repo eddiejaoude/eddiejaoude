@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=jRXeGEwrD_U"><img width="140px" src="https://i.ytimg.com/vi/jRXeGEwrD_U/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=q9dcPvgxV30"><img width="140px" src="https://i.ytimg.com/vi/q9dcPvgxV30/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=q9dcPvgxV30">Twitter AMA for 2023: YOUR questions answered</a> (Feb 15, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=jRXeGEwrD_U"><img width="140px" src="https://i.ytimg.com/vi/jRXeGEwrD_U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jRXeGEwrD_U">Adding value to any coding project</a> (Feb 13, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZYN1TW3ciAs"><img width="140px" src="https://i.ytimg.com/vi/ZYN1TW3ciAs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZYN1TW3ciAs">Work from anywhere in the world #shorts</a> (Feb 12, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9pXcE3-WnkA"><img width="140px" src="https://i.ytimg.com/vi/9pXcE3-WnkA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9pXcE3-WnkA">Open Source Reviews</a> (Feb 12, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=6CBzVNmgBoE"><img width="140px" src="https://i.ytimg.com/vi/6CBzVNmgBoE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6CBzVNmgBoE">Digital Nomad life #shorts</a> (Feb 10, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
