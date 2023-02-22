@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=eze7Y4Rxwtc"><img width="140px" src="https://i.ytimg.com/vi/eze7Y4Rxwtc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=9CwD8ADCdvQ"><img width="140px" src="https://i.ytimg.com/vi/9CwD8ADCdvQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9CwD8ADCdvQ">Portable studio #DigitalNomad #DevRel #ContentCreation #Travel</a> (Feb 22, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=eze7Y4Rxwtc"><img width="140px" src="https://i.ytimg.com/vi/eze7Y4Rxwtc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eze7Y4Rxwtc">How to update your GitHub fork to avoid Git conflicts &lpar;LINKFREE Profile example&rpar;</a> (Feb 20, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=IpHx3exSQUI"><img width="140px" src="https://i.ytimg.com/vi/IpHx3exSQUI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IpHx3exSQUI">npm install vs npm ci #shorts</a> (Feb 18, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Fj2VV_e01UQ"><img width="140px" src="https://i.ytimg.com/vi/Fj2VV_e01UQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Fj2VV_e01UQ">Building NEW Changelog feature for LinkFree Open Source Project</a> (Feb 18, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=q9dcPvgxV30"><img width="140px" src="https://i.ytimg.com/vi/q9dcPvgxV30/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=q9dcPvgxV30">Twitter AMA for 2023: YOUR questions answered</a> (Feb 15, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
