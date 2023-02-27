@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=e0b49aikQE8"><img width="140px" src="https://i.ytimg.com/vi/e0b49aikQE8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=iIWlmnFxLfM"><img width="140px" src="https://i.ytimg.com/vi/iIWlmnFxLfM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iIWlmnFxLfM">Content Creator Bloopers Outtakes #shorts</a> (Feb 27, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=e0b49aikQE8"><img width="140px" src="https://i.ytimg.com/vi/e0b49aikQE8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e0b49aikQE8">How to refactor code &lpar;LinkFree example&rpar;</a> (Feb 25, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9CwD8ADCdvQ"><img width="140px" src="https://i.ytimg.com/vi/9CwD8ADCdvQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9CwD8ADCdvQ">Portable studio #DigitalNomad #DevRel #ContentCreation #Travel</a> (Feb 22, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=eze7Y4Rxwtc"><img width="140px" src="https://i.ytimg.com/vi/eze7Y4Rxwtc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eze7Y4Rxwtc">How to update your GitHub fork to avoid Git conflicts &lpar;LINKFREE Profile example&rpar;</a> (Feb 20, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=IpHx3exSQUI"><img width="140px" src="https://i.ytimg.com/vi/IpHx3exSQUI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IpHx3exSQUI">npm install vs npm ci #shorts</a> (Feb 18, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
