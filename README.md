@@ -33,12 +33,12 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=0E6F0oxUTQ4"><img width="140px" src="https://i.ytimg.com/vi/0E6F0oxUTQ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0E6F0oxUTQ4">Don&#39;t give up! #shorts</a> (Mar 3, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JQ1wZRjint8"><img width="140px" src="https://i.ytimg.com/vi/JQ1wZRjint8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JQ1wZRjint8">Get your Open Source Project and Profile reviewed by me!</a> (Mar 2, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=c1F4Zc20pyQ"><img width="140px" src="https://i.ytimg.com/vi/c1F4Zc20pyQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c1F4Zc20pyQ">GIT Learn these essential commands</a> (Mar 1, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=iIWlmnFxLfM"><img width="140px" src="https://i.ytimg.com/vi/iIWlmnFxLfM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iIWlmnFxLfM">Content Creator Bloopers Outtakes #shorts</a> (Feb 27, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=e0b49aikQE8"><img width="140px" src="https://i.ytimg.com/vi/e0b49aikQE8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e0b49aikQE8">How to refactor code &lpar;LinkFree example&rpar;</a> (Feb 25, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
