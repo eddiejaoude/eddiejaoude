@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=T0_7JJ6mVWo"><img width="140px" src="https://i.ytimg.com/vi/T0_7JJ6mVWo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=VyY-yKJWNUI"><img width="140px" src="https://i.ytimg.com/vi/VyY-yKJWNUI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VyY-yKJWNUI">Your Questions My Answers: Part 2</a> (Mar 11, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=T0_7JJ6mVWo"><img width="140px" src="https://i.ytimg.com/vi/T0_7JJ6mVWo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=T0_7JJ6mVWo">Tips to getting a REMOTE job</a> (Mar 9, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=qV_NRxunnek"><img width="140px" src="https://i.ytimg.com/vi/qV_NRxunnek/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qV_NRxunnek">Digital Nomad life! Join me</a> (Mar 5, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JQ1wZRjint8"><img width="140px" src="https://i.ytimg.com/vi/JQ1wZRjint8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JQ1wZRjint8">Get your Open Source Project and Profile reviewed by me!</a> (Mar 5, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0E6F0oxUTQ4"><img width="140px" src="https://i.ytimg.com/vi/0E6F0oxUTQ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0E6F0oxUTQ4">Don&#39;t give up! #shorts</a> (Mar 3, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
