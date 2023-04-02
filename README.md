@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Tf3Ui6Lezpo"><img width="140px" src="https://i.ytimg.com/vi/Tf3Ui6Lezpo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=87nlVHsPM1Q"><img width="140px" src="https://i.ytimg.com/vi/87nlVHsPM1Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=87nlVHsPM1Q">Code with me on LinkFree using NextJS and MDX</a> (Apr 2, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Tf3Ui6Lezpo"><img width="140px" src="https://i.ytimg.com/vi/Tf3Ui6Lezpo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Tf3Ui6Lezpo">The key to getting into DevRel with Marino Vijay, EddieHub Ambassador</a> (Mar 29, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=flgQjWDgs9E"><img width="140px" src="https://i.ytimg.com/vi/flgQjWDgs9E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=flgQjWDgs9E">Reviewing YOUR Open Source</a> (Mar 26, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PdipPuk6LZI"><img width="140px" src="https://i.ytimg.com/vi/PdipPuk6LZI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PdipPuk6LZI">Get feedback on your Pull Request NOW!</a> (Mar 22, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=TqmUB4pdGwM"><img width="140px" src="https://i.ytimg.com/vi/TqmUB4pdGwM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TqmUB4pdGwM">Collaborate 1st Code 2nd!</a> (Mar 18, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
