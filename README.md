@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/badge/follow-%40eddiejaoude-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+    <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
     <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" alt="EddieHub Discord"/>
