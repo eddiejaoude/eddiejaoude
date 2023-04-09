@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=H1KTbhYvvlo"><img width="140px" src="https://i.ytimg.com/vi/H1KTbhYvvlo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ZzHCj5qYtjc"><img width="140px" src="https://i.ytimg.com/vi/ZzHCj5qYtjc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZzHCj5qYtjc">Make your GitHub Sponsors page standout</a> (Apr 9, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=H1KTbhYvvlo"><img width="140px" src="https://i.ytimg.com/vi/H1KTbhYvvlo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H1KTbhYvvlo">Shorten your JS imports with aliases</a> (Apr 5, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=87nlVHsPM1Q"><img width="140px" src="https://i.ytimg.com/vi/87nlVHsPM1Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=87nlVHsPM1Q">Code with me on LinkFree using NextJS and MDX</a> (Apr 2, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Tf3Ui6Lezpo"><img width="140px" src="https://i.ytimg.com/vi/Tf3Ui6Lezpo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Tf3Ui6Lezpo">The key to getting into DevRel with Marino Vijay, EddieHub Ambassador</a> (Mar 29, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=flgQjWDgs9E"><img width="140px" src="https://i.ytimg.com/vi/flgQjWDgs9E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=flgQjWDgs9E">Reviewing YOUR Open Source</a> (Mar 26, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
