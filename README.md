@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=q539shYcaiQ"><img width="140px" src="https://i.ytimg.com/vi/q539shYcaiQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=FCCQdM3ZSw4"><img width="140px" src="https://i.ytimg.com/vi/FCCQdM3ZSw4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FCCQdM3ZSw4">Customising your NextJS application with light and dark mode</a> (Apr 19, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=djEleZKPt10"><img width="140px" src="https://i.ytimg.com/vi/djEleZKPt10/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=djEleZKPt10">Collaborating on the Open Source Project LinkFree with Kyle TechSquidTV</a> (Apr 19, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=q539shYcaiQ"><img width="140px" src="https://i.ytimg.com/vi/q539shYcaiQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q539shYcaiQ">Reviewing YOUR LinkFree Profile!</a> (Apr 15, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QaB50I9vnVk"><img width="140px" src="https://i.ytimg.com/vi/QaB50I9vnVk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QaB50I9vnVk">Pull Request Inline Comments: Are you doing them?</a> (Apr 12, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ZzHCj5qYtjc"><img width="140px" src="https://i.ytimg.com/vi/ZzHCj5qYtjc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZzHCj5qYtjc">Make your GitHub Sponsors page standout</a> (Apr 9, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=H1KTbhYvvlo"><img width="140px" src="https://i.ytimg.com/vi/H1KTbhYvvlo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=H1KTbhYvvlo">Shorten your JS imports with aliases</a> (Apr 5, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
