@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=WSPDg57S05E"><img width="140px" src="https://i.ytimg.com/vi/WSPDg57S05E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=TR1L3cFit3E"><img width="140px" src="https://i.ytimg.com/vi/TR1L3cFit3E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TR1L3cFit3E">Twitter growth tips: reviewing YOUR profile</a> (May 6, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=WSPDg57S05E"><img width="140px" src="https://i.ytimg.com/vi/WSPDg57S05E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WSPDg57S05E">How to reduce noise and increase collaboration in your Open Source project</a> (May 3, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=xfuehC7O63M"><img width="140px" src="https://i.ytimg.com/vi/xfuehC7O63M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xfuehC7O63M">Create a good Issue</a> (Apr 29, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=jAUjd7Xfb6E"><img width="140px" src="https://i.ytimg.com/vi/jAUjd7Xfb6E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jAUjd7Xfb6E">Making Money Online with Open Source</a> (Apr 26, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=djEleZKPt10"><img width="140px" src="https://i.ytimg.com/vi/djEleZKPt10/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=djEleZKPt10">Collaborating on the Open Source Project LinkFree with Kyle TechSquidTV</a> (Apr 23, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
