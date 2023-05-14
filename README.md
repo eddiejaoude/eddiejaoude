@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=H3aUQWxSfVI"><img width="140px" src="https://i.ytimg.com/vi/H3aUQWxSfVI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=nFXh4F96UTs"><img width="140px" src="https://i.ytimg.com/vi/nFXh4F96UTs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nFXh4F96UTs">Get more freelance clients #shorts</a> (May 14, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=H3aUQWxSfVI"><img width="140px" src="https://i.ytimg.com/vi/H3aUQWxSfVI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H3aUQWxSfVI">Filter your GitHub Issues by EXCLUDING certain labels</a> (May 13, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KjW7T2A8-QQ"><img width="140px" src="https://i.ytimg.com/vi/KjW7T2A8-QQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KjW7T2A8-QQ">Coding 8 hours a day? #shorts</a> (May 12, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=0nISFyMQGwY"><img width="140px" src="https://i.ytimg.com/vi/0nISFyMQGwY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0nISFyMQGwY">CrowdSec the Open Source way to secure your servers and apps</a> (May 10, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ODVKIUUwcmc"><img width="140px" src="https://i.ytimg.com/vi/ODVKIUUwcmc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ODVKIUUwcmc">Tech interviews are BROKEN #shorts</a> (May 8, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
