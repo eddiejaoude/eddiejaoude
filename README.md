@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=c7EqB_S_a7I"><img width="140px" src="https://i.ytimg.com/vi/c7EqB_S_a7I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=7oeW7UPR5aw"><img width="140px" src="https://i.ytimg.com/vi/7oeW7UPR5aw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7oeW7UPR5aw">EddieCon 0.2: The Unconference! &lpar;submit your talk now!&rpar;</a> (May 28, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=c7EqB_S_a7I"><img width="140px" src="https://i.ytimg.com/vi/c7EqB_S_a7I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c7EqB_S_a7I">Cost of hosting an Open Source SAAS product? Moving to Vercel</a> (May 24, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=To--rXNV3lo"><img width="140px" src="https://i.ytimg.com/vi/To--rXNV3lo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=To--rXNV3lo">STAND OUT  in interviews #shorts</a> (May 21, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=x2N9vFTpXyc"><img width="140px" src="https://i.ytimg.com/vi/x2N9vFTpXyc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=x2N9vFTpXyc">Get involved in Open Source TODAY!</a> (May 21, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=klkDWvAUhso"><img width="140px" src="https://i.ytimg.com/vi/klkDWvAUhso/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=klkDWvAUhso">5 Tips not to ruin your career</a> (May 17, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
