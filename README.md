@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=lBqZj7hJHJ4"><img width="140px" src="https://i.ytimg.com/vi/lBqZj7hJHJ4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=xAFHzinL_VQ"><img width="140px" src="https://i.ytimg.com/vi/xAFHzinL_VQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xAFHzinL_VQ">Simple page caching with NextJS</a> (Jun 14, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=lBqZj7hJHJ4"><img width="140px" src="https://i.ytimg.com/vi/lBqZj7hJHJ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lBqZj7hJHJ4">Working on a SaaS Product &lpar;LinkFree&rpar;</a> (Jun 13, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WPaN9vIyqt4"><img width="140px" src="https://i.ytimg.com/vi/WPaN9vIyqt4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WPaN9vIyqt4">How I choose Maintainers</a> (Jun 7, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=VG90WH7Y624"><img width="140px" src="https://i.ytimg.com/vi/VG90WH7Y624/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VG90WH7Y624">Find your perfect Open Source GitHub Issue</a> (Jun 5, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kYd_ch2oX38"><img width="140px" src="https://i.ytimg.com/vi/kYd_ch2oX38/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kYd_ch2oX38">Reviewing YOUR Open Source Project and Profile!</a> (Jun 4, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
