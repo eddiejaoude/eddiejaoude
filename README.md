@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=lBqZj7hJHJ4"><img width="140px" src="https://i.ytimg.com/vi/lBqZj7hJHJ4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=AacR0hS1VwE"><img width="140px" src="https://i.ytimg.com/vi/AacR0hS1VwE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AacR0hS1VwE">No experience to get your first job?</a> (Jun 18, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=lBqZj7hJHJ4"><img width="140px" src="https://i.ytimg.com/vi/lBqZj7hJHJ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lBqZj7hJHJ4">Working on a SaaS Product &lpar;LinkFree&rpar;</a> (Jun 18, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=h16kJiVcqXg"><img width="140px" src="https://i.ytimg.com/vi/h16kJiVcqXg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=h16kJiVcqXg">No resume required!</a> (Jun 16, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=xAFHzinL_VQ"><img width="140px" src="https://i.ytimg.com/vi/xAFHzinL_VQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xAFHzinL_VQ">Simple page caching with NextJS</a> (Jun 14, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=WPaN9vIyqt4"><img width="140px" src="https://i.ytimg.com/vi/WPaN9vIyqt4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WPaN9vIyqt4">How I choose Maintainers</a> (Jun 7, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
