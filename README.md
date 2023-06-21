@@ -32,7 +32,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=gIHBVpJhmEk"><img width="140px" src="https://i.ytimg.com/vi/gIHBVpJhmEk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gIHBVpJhmEk">https://github.com/EddieHubCommunity/LinkFree</a> (Jun 21, 2023)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=gIHBVpJhmEk">Deploy to Vercel with a GitHub Action</a> (Jun 21, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AacR0hS1VwE"><img width="140px" src="https://i.ytimg.com/vi/AacR0hS1VwE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AacR0hS1VwE">No experience to get your first job?</a> (Jun 18, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=lBqZj7hJHJ4"><img width="140px" src="https://i.ytimg.com/vi/lBqZj7hJHJ4/mqdefault.jpg"></a></td>
