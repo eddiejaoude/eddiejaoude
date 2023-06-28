@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=3rH1HIhk2lo"><img width="140px" src="https://i.ytimg.com/vi/3rH1HIhk2lo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=426FgRC2Abo"><img width="140px" src="https://i.ytimg.com/vi/426FgRC2Abo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=426FgRC2Abo">Secure your server with CrowdSec - the Open Source crowdsourcing tool</a> (Jun 28, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=3rH1HIhk2lo"><img width="140px" src="https://i.ytimg.com/vi/3rH1HIhk2lo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3rH1HIhk2lo">Work with me on an Open Source SaaS Product &lpar;LinkFree&rpar;</a> (Jun 25, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=D79j_Uu9rpY"><img width="140px" src="https://i.ytimg.com/vi/D79j_Uu9rpY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=D79j_Uu9rpY">Tech career tips</a> (Jun 23, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gIHBVpJhmEk"><img width="140px" src="https://i.ytimg.com/vi/gIHBVpJhmEk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gIHBVpJhmEk">Deploy to Vercel with a GitHub Action</a> (Jun 21, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=AacR0hS1VwE"><img width="140px" src="https://i.ytimg.com/vi/AacR0hS1VwE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AacR0hS1VwE">No experience to get your first job?</a> (Jun 18, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
