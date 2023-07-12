@@ -31,14 +31,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ZP4fs_xQdO4"><img width="140px" src="https://i.ytimg.com/vi/ZP4fs_xQdO4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=cWHfeXc-uN8"><img width="140px" src="https://i.ytimg.com/vi/cWHfeXc-uN8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cWHfeXc-uN8">Open Source Pingdom with Civo and Discord alerts</a> (Jul 12, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ZP4fs_xQdO4"><img width="140px" src="https://i.ytimg.com/vi/ZP4fs_xQdO4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZP4fs_xQdO4">Reacting to YOUR Open Source tips</a> (Jul 9, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=L5W6SIRGc1g"><img width="140px" src="https://i.ytimg.com/vi/L5W6SIRGc1g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L5W6SIRGc1g">More Github Stars for your Open Source Repo</a> (Jul 5, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=wl9WW3vWXKQ"><img width="140px" src="https://i.ytimg.com/vi/wl9WW3vWXKQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wl9WW3vWXKQ">Find the RIGHT GitHub Issue for you...and get it assigned!</a> (Jul 1, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=426FgRC2Abo"><img width="140px" src="https://i.ytimg.com/vi/426FgRC2Abo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=426FgRC2Abo">Secure your server with CrowdSec - the Open Source crowdsourcing tool</a> (Jun 28, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
