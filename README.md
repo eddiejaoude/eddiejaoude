@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=X1duT-4vKcI"><img width="140px" src="https://i.ytimg.com/vi/X1duT-4vKcI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=nzcexP8e5Ro"><img width="140px" src="https://i.ytimg.com/vi/nzcexP8e5Ro/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nzcexP8e5Ro">Busting Open Source Myths - why you should contribute</a> (Jul 26, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=X1duT-4vKcI"><img width="140px" src="https://i.ytimg.com/vi/X1duT-4vKcI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X1duT-4vKcI">Are YOUR git commits from you?</a> (Jul 18, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZcEyzZt-mkc"><img width="140px" src="https://i.ytimg.com/vi/ZcEyzZt-mkc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZcEyzZt-mkc">Google GDG London #github</a> (Jul 16, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_cqQGaFnevA"><img width="140px" src="https://i.ytimg.com/vi/_cqQGaFnevA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_cqQGaFnevA">Resume not needed</a> (Jul 15, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=cWHfeXc-uN8"><img width="140px" src="https://i.ytimg.com/vi/cWHfeXc-uN8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cWHfeXc-uN8">Open Source Pingdom with Civo and Discord alerts</a> (Jul 12, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
