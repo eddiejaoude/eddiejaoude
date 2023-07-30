@@ -33,7 +33,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=9UsXy_PcrtE"><img width="140px" src="https://i.ytimg.com/vi/9UsXy_PcrtE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9UsXy_PcrtE">Do you need an Apple Mac to code?</a> (Jul 30, 2023)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=9UsXy_PcrtE">Do you need an Apple Mac to code? #MacbookPro</a> (Jul 30, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=nzcexP8e5Ro"><img width="140px" src="https://i.ytimg.com/vi/nzcexP8e5Ro/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nzcexP8e5Ro">Busting Open Source Myths - why you should contribute</a> (Jul 26, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=X1duT-4vKcI"><img width="140px" src="https://i.ytimg.com/vi/X1duT-4vKcI/mqdefault.jpg"></a></td>
