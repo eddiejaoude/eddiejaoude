@@ -33,7 +33,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ndljok8CNv4"><img width="140px" src="https://i.ytimg.com/vi/ndljok8CNv4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ndljok8CNv4">Creating a Discovery Page for LinkFree</a> (Aug 11, 2023)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=ndljok8CNv4">Creating a Discovery Page for LinkFree</a> (Aug 13, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=c3-DBg5M0Zg"><img width="140px" src="https://i.ytimg.com/vi/c3-DBg5M0Zg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c3-DBg5M0Zg">Are your questions not being answered?</a> (Aug 9, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=njYz-QWmTBY"><img width="140px" src="https://i.ytimg.com/vi/njYz-QWmTBY/mqdefault.jpg"></a></td>
