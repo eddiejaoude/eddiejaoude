@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ndljok8CNv4"><img width="140px" src="https://i.ytimg.com/vi/ndljok8CNv4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=d3-Df3sLW5o"><img width="140px" src="https://i.ytimg.com/vi/d3-Df3sLW5o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=d3-Df3sLW5o">Reviewing YOUR Open Source Repo and Profile!</a> (Aug 14, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ndljok8CNv4"><img width="140px" src="https://i.ytimg.com/vi/ndljok8CNv4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ndljok8CNv4">Creating a Discovery Page for LinkFree</a> (Aug 13, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=c3-DBg5M0Zg"><img width="140px" src="https://i.ytimg.com/vi/c3-DBg5M0Zg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c3-DBg5M0Zg">Are your questions not being answered?</a> (Aug 9, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=njYz-QWmTBY"><img width="140px" src="https://i.ytimg.com/vi/njYz-QWmTBY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=njYz-QWmTBY">Customising your GitHub Feed</a> (Aug 5, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=RyFk8pW6Sno"><img width="140px" src="https://i.ytimg.com/vi/RyFk8pW6Sno/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RyFk8pW6Sno">Don&#39;t ask to ask!</a> (Aug 3, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
