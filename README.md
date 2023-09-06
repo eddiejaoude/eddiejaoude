@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=DedQiMc3HWc"><img width="140px" src="https://i.ytimg.com/vi/DedQiMc3HWc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=LgV9K2DcFYY"><img width="140px" src="https://i.ytimg.com/vi/LgV9K2DcFYY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LgV9K2DcFYY">Making money on X &lpar;Twitter&rpar;, YouTube and GitHub</a> (Sep 6, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=DedQiMc3HWc"><img width="140px" src="https://i.ytimg.com/vi/DedQiMc3HWc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DedQiMc3HWc">Open Source is more than code!</a> (Sep 3, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HGi3dBe43AA"><img width="140px" src="https://i.ytimg.com/vi/HGi3dBe43AA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HGi3dBe43AA">Giving YOUR GitHub Profiles and Projects a SHOUTOUT!</a> (Aug 30, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=-S-k_mMvdW4"><img width="140px" src="https://i.ytimg.com/vi/-S-k_mMvdW4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-S-k_mMvdW4">Code your diagrams with Mermaid</a> (Aug 23, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=d3-Df3sLW5o"><img width="140px" src="https://i.ytimg.com/vi/d3-Df3sLW5o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=d3-Df3sLW5o">Reviewing YOUR Open Source Repo and Profile!</a> (Aug 20, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
