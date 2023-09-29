@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=PPl4Mwb9Zg4"><img width="140px" src="https://i.ytimg.com/vi/PPl4Mwb9Zg4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=_fL2cBkvOeM"><img width="140px" src="https://i.ytimg.com/vi/_fL2cBkvOeM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_fL2cBkvOeM">Code with me: GitHub Repo Ratings System &lpar;BioDrop&rpar;</a> (Sep 29, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=PPl4Mwb9Zg4"><img width="140px" src="https://i.ytimg.com/vi/PPl4Mwb9Zg4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PPl4Mwb9Zg4">Public Speaking for Techies</a> (Sep 27, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fPhrYSypAEM"><img width="140px" src="https://i.ytimg.com/vi/fPhrYSypAEM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fPhrYSypAEM">Open Source Roadmap v0.1</a> (Sep 23, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=zwqKhQD3TYM"><img width="140px" src="https://i.ytimg.com/vi/zwqKhQD3TYM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zwqKhQD3TYM">Events: get the most out of them!</a> (Sep 20, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=y0qxJrSmPIg"><img width="140px" src="https://i.ytimg.com/vi/y0qxJrSmPIg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y0qxJrSmPIg">London unconference by Codebar!</a> (Sep 16, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
