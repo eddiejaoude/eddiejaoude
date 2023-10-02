@@ -32,10 +32,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=SY3-XoOiTyQ"><img width="140px" src="https://i.ytimg.com/vi/SY3-XoOiTyQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=_fL2cBkvOeM"><img width="140px" src="https://i.ytimg.com/vi/_fL2cBkvOeM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_fL2cBkvOeM">Code with me: GitHub Repo Ratings System &lpar;BioDrop&rpar;</a> (Oct 2, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=SY3-XoOiTyQ"><img width="140px" src="https://i.ytimg.com/vi/SY3-XoOiTyQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SY3-XoOiTyQ">Hacktoberfest for Maintainers</a> (Oct 2, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=_fL2cBkvOeM"><img width="140px" src="https://i.ytimg.com/vi/_fL2cBkvOeM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_fL2cBkvOeM">Code with me: GitHub Repo Ratings System &lpar;BioDrop&rpar;</a> (Sep 29, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PPl4Mwb9Zg4"><img width="140px" src="https://i.ytimg.com/vi/PPl4Mwb9Zg4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PPl4Mwb9Zg4">Public Speaking for Techies</a> (Sep 27, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fPhrYSypAEM"><img width="140px" src="https://i.ytimg.com/vi/fPhrYSypAEM/mqdefault.jpg"></a></td>
