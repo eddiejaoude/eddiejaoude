@@ -32,10 +32,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=IYI9fkXK-IA"><img width="140px" src="https://i.ytimg.com/vi/IYI9fkXK-IA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=sanTIgySz9Y"><img width="140px" src="https://i.ytimg.com/vi/sanTIgySz9Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sanTIgySz9Y">Javascript, NextJS, React, HTML, CSS, Tailwind... CODING</a> (Oct 9, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=IYI9fkXK-IA"><img width="140px" src="https://i.ytimg.com/vi/IYI9fkXK-IA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IYI9fkXK-IA">Behind the scenes: Infobip Shift Event 2023</a> (Oct 4, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=sanTIgySz9Y"><img width="140px" src="https://i.ytimg.com/vi/sanTIgySz9Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sanTIgySz9Y">Javascript, NextJS, React, HTML, CSS, Tailwind... CODING</a> (Oct 3, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_fL2cBkvOeM"><img width="140px" src="https://i.ytimg.com/vi/_fL2cBkvOeM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_fL2cBkvOeM">Code with me: GitHub Repo Ratings System &lpar;BioDrop&rpar;</a> (Oct 2, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=SY3-XoOiTyQ"><img width="140px" src="https://i.ytimg.com/vi/SY3-XoOiTyQ/mqdefault.jpg"></a></td>
