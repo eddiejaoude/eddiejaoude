@@ -70,4 +70,4 @@
   </tr>
 </table>
 
-<p>All my social links and courses in one place... https://linkfree.eddiehub.io/eddiejaoude</p>
+<p>All my social links and courses in one place... https://biodrop.io/eddiejaoude</p>
