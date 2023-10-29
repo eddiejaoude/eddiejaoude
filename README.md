@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=LEZn3kT4rOI"><img width="140px" src="https://i.ytimg.com/vi/LEZn3kT4rOI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=JnSAHjMCkQQ"><img width="140px" src="https://i.ytimg.com/vi/JnSAHjMCkQQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JnSAHjMCkQQ">GitHub Issue Template Walk Through for better contributions</a> (Oct 29, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=LEZn3kT4rOI"><img width="140px" src="https://i.ytimg.com/vi/LEZn3kT4rOI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LEZn3kT4rOI">Real example of iterating over objects in Javascript &lpar;loop&rpar;</a> (Oct 25, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=g-aFIPcHrXo"><img width="140px" src="https://i.ytimg.com/vi/g-aFIPcHrXo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g-aFIPcHrXo">Dropdown: The Issue Template Series &lpar;Part 2&rpar;</a> (Oct 22, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pSBs9sWw1Vk"><img width="140px" src="https://i.ytimg.com/vi/pSBs9sWw1Vk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pSBs9sWw1Vk">Use your GitHub Profile to STAND OUT</a> (Oct 18, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mLnuohGd69k"><img width="140px" src="https://i.ytimg.com/vi/mLnuohGd69k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mLnuohGd69k">Get FUNDING for your Open Source project</a> (Oct 15, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
