@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=o_Bn6zBfB0A"><img width="140px" src="https://i.ytimg.com/vi/o_Bn6zBfB0A/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=PodGKBbNle4"><img width="140px" src="https://i.ytimg.com/vi/PodGKBbNle4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PodGKBbNle4">Open Source SaaS BioDrop with @francescociulla</a> (Nov 8, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=o_Bn6zBfB0A"><img width="140px" src="https://i.ytimg.com/vi/o_Bn6zBfB0A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o_Bn6zBfB0A">GitHub Sponsors: Are you MISSING OUT?</a> (Nov 4, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=d2f58Xs1BuU"><img width="140px" src="https://i.ytimg.com/vi/d2f58Xs1BuU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=d2f58Xs1BuU">Small Open Source contributions</a> (Nov 3, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JnSAHjMCkQQ"><img width="140px" src="https://i.ytimg.com/vi/JnSAHjMCkQQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JnSAHjMCkQQ">GitHub Issue Template Walk Through for better contributions</a> (Oct 29, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=LEZn3kT4rOI"><img width="140px" src="https://i.ytimg.com/vi/LEZn3kT4rOI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LEZn3kT4rOI">Real example of iterating over objects in Javascript &lpar;loop&rpar;</a> (Oct 25, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
