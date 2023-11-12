@@ -32,10 +32,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=g4_GpTly2WM"><img width="140px" src="https://i.ytimg.com/vi/g4_GpTly2WM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=PodGKBbNle4"><img width="140px" src="https://i.ytimg.com/vi/PodGKBbNle4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PodGKBbNle4">Open Source SaaS BioDrop with @francescociulla</a> (Nov 12, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=g4_GpTly2WM"><img width="140px" src="https://i.ytimg.com/vi/g4_GpTly2WM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g4_GpTly2WM">Communication + Collaboration</a> (Nov 8, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=PodGKBbNle4"><img width="140px" src="https://i.ytimg.com/vi/PodGKBbNle4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PodGKBbNle4">Open Source SaaS BioDrop with @francescociulla</a> (Nov 8, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o_Bn6zBfB0A"><img width="140px" src="https://i.ytimg.com/vi/o_Bn6zBfB0A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o_Bn6zBfB0A">GitHub Sponsors: Are you MISSING OUT?</a> (Nov 4, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=d2f58Xs1BuU"><img width="140px" src="https://i.ytimg.com/vi/d2f58Xs1BuU/mqdefault.jpg"></a></td>
