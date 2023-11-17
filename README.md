@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=eCwpyffIFSE"><img width="140px" src="https://i.ytimg.com/vi/eCwpyffIFSE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=9N05U2hkJKI"><img width="140px" src="https://i.ytimg.com/vi/9N05U2hkJKI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9N05U2hkJKI">Be consistent, join a community</a> (Nov 17, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=eCwpyffIFSE"><img width="140px" src="https://i.ytimg.com/vi/eCwpyffIFSE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eCwpyffIFSE">Life before work</a> (Nov 16, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=LemgapUMQis"><img width="140px" src="https://i.ytimg.com/vi/LemgapUMQis/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LemgapUMQis">Custom Domains with NextJS Middleware and Vercel</a> (Nov 15, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PodGKBbNle4"><img width="140px" src="https://i.ytimg.com/vi/PodGKBbNle4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PodGKBbNle4">Open Source SaaS BioDrop with @francescociulla</a> (Nov 12, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=g4_GpTly2WM"><img width="140px" src="https://i.ytimg.com/vi/g4_GpTly2WM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g4_GpTly2WM">Communication + Collaboration</a> (Nov 8, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
