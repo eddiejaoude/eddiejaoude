@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=3q-GWPrfUI0"><img width="140px" src="https://i.ytimg.com/vi/3q-GWPrfUI0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=e06NGFfSdkI"><img width="140px" src="https://i.ytimg.com/vi/e06NGFfSdkI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e06NGFfSdkI">Pair with me: Real World NextJS Open Source project</a> (Nov 29, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=3q-GWPrfUI0"><img width="140px" src="https://i.ytimg.com/vi/3q-GWPrfUI0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3q-GWPrfUI0">More than code</a> (Nov 27, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=dZXOlmNsd7o"><img width="140px" src="https://i.ytimg.com/vi/dZXOlmNsd7o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dZXOlmNsd7o">NextJS to Mobile and Desktop App &lpar;PWA&rpar;</a> (Nov 22, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_a_lDeK3-U4"><img width="140px" src="https://i.ytimg.com/vi/_a_lDeK3-U4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_a_lDeK3-U4">It&#39;s NEVER too late!</a> (Nov 19, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=9N05U2hkJKI"><img width="140px" src="https://i.ytimg.com/vi/9N05U2hkJKI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9N05U2hkJKI">Be consistent, join a community</a> (Nov 17, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
