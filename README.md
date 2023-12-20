@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=egdQ9yrH_d8"><img width="140px" src="https://i.ytimg.com/vi/egdQ9yrH_d8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ICcCjGjsWTk"><img width="140px" src="https://i.ytimg.com/vi/ICcCjGjsWTk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ICcCjGjsWTk">Supercharge your NextJS project with MDX</a> (Dec 20, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=egdQ9yrH_d8"><img width="140px" src="https://i.ytimg.com/vi/egdQ9yrH_d8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=egdQ9yrH_d8">Grow and Diversify your Income</a> (Dec 13, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sPOpK6-sGXI"><img width="140px" src="https://i.ytimg.com/vi/sPOpK6-sGXI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sPOpK6-sGXI">How to REVIEW code</a> (Dec 6, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Je2ilSw4EgA"><img width="140px" src="https://i.ytimg.com/vi/Je2ilSw4EgA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Je2ilSw4EgA">Need more experience?</a> (Dec 1, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=e06NGFfSdkI"><img width="140px" src="https://i.ytimg.com/vi/e06NGFfSdkI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=e06NGFfSdkI">Pair with me: Real World NextJS Open Source project</a> (Nov 29, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
