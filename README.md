@@ -33,7 +33,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=0sRRpFoMeaU"><img width="140px" src="https://i.ytimg.com/vi/0sRRpFoMeaU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0sRRpFoMeaU">Code with me on Open Source RepoRater using NextJS + Appwrite</a> (Dec 22, 2023)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=0sRRpFoMeaU">Code with me on Open Source RepoRater using NextJS + Appwrite</a> (Dec 24, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ICcCjGjsWTk"><img width="140px" src="https://i.ytimg.com/vi/ICcCjGjsWTk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ICcCjGjsWTk">Supercharge your NextJS project with MDX</a> (Dec 20, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=egdQ9yrH_d8"><img width="140px" src="https://i.ytimg.com/vi/egdQ9yrH_d8/mqdefault.jpg"></a></td>
