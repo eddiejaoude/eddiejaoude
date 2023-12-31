@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=GIFmhXhhrTo"><img width="140px" src="https://i.ytimg.com/vi/GIFmhXhhrTo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=j-wA6TKtT0Q"><img width="140px" src="https://i.ytimg.com/vi/j-wA6TKtT0Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=j-wA6TKtT0Q">NextJS Server and Client Composition Patterns</a> (Dec 31, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=GIFmhXhhrTo"><img width="140px" src="https://i.ytimg.com/vi/GIFmhXhhrTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GIFmhXhhrTo">Automate everything and community more!</a> (Dec 31, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=eEhAX_Cn5A8"><img width="140px" src="https://i.ytimg.com/vi/eEhAX_Cn5A8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eEhAX_Cn5A8">Husky: get feedback NOW with Git Pre-commit Hooks</a> (Dec 27, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=jKIt3AxHVIQ"><img width="140px" src="https://i.ytimg.com/vi/jKIt3AxHVIQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jKIt3AxHVIQ">NOT how to end a live stream</a> (Dec 25, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0sRRpFoMeaU"><img width="140px" src="https://i.ytimg.com/vi/0sRRpFoMeaU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0sRRpFoMeaU">Code with me on Open Source RepoRater using NextJS + Appwrite</a> (Dec 24, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
