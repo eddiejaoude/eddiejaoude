@@ -33,7 +33,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=xG2jxXgKpcY"><img width="140px" src="https://i.ytimg.com/vi/xG2jxXgKpcY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xG2jxXgKpcY">Code with me on Open Source &lpar;NextJS&rpar;</a> (Jan 5, 2024)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=xG2jxXgKpcY">Code with me on Open Source &lpar;NextJS&rpar;</a> (Jan 8, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=l18kJbSN2z8"><img width="140px" src="https://i.ytimg.com/vi/l18kJbSN2z8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=l18kJbSN2z8">Maintainer Productivity: Manage your GitHub Notifications like a PRO</a> (Jan 4, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=j-wA6TKtT0Q"><img width="140px" src="https://i.ytimg.com/vi/j-wA6TKtT0Q/mqdefault.jpg"></a></td>
