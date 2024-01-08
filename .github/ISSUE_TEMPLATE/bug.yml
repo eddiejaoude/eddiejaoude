@@ -5,8 +5,10 @@ labels: [Bug, Needs Triage]
 body:
 - type: checkboxes
   attributes:
-    label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the bug you encountered.
+   > label: Is there an existing issue for this?
+   - Yes from my side I don't know if its because I am opening with the Github
+   > description: Please search to see if an issue already exists for the bug you encountered.
+   - I still can't seem to find the answer to my question
     options:
     - label: I have searched the existing issues
       required: true
@@ -52,3 +54,4 @@ body:
       - Chrome
       - Safari
       - Microsoft Edge
+      - Linux
