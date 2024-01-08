@@ -49,8 +49,8 @@
 
 <table>
   <tr>
-    <th>Author</th>
-    <th>Message</th>
+    <th>https://github.com/CoderBlee</th>
+    <th>I have watched your video on Youtube <b>Complete Guide to Open Source - How to Contribute</b> i believe lot of beginners like myself will learn a lot. I was inspired by the video </th>
   </tr>
   <tr>
     <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
