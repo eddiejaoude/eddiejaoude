@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=-GuWsVLBM2A"><img width="140px" src="https://i.ytimg.com/vi/-GuWsVLBM2A/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=vksraDNPmSU"><img width="140px" src="https://i.ytimg.com/vi/vksraDNPmSU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vksraDNPmSU">STOP watching tutorials!</a> (Jan 24, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-GuWsVLBM2A"><img width="140px" src="https://i.ytimg.com/vi/-GuWsVLBM2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-GuWsVLBM2A">Mockoon: Open Source SaaS product</a> (Jan 22, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=SLX4m6Ztyhk"><img width="140px" src="https://i.ytimg.com/vi/SLX4m6Ztyhk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SLX4m6Ztyhk">Want more GitHub Repo Contributors &amp; Stars?</a> (Jan 17, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Nj1O1vbyzIM"><img width="140px" src="https://i.ytimg.com/vi/Nj1O1vbyzIM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Nj1O1vbyzIM">NextJS AppRouter API custom headers</a> (Jan 14, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=pV_OMNd1fkU"><img width="140px" src="https://i.ytimg.com/vi/pV_OMNd1fkU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pV_OMNd1fkU">Contributing to Open Source the right way</a> (Jan 10, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
