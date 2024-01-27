@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=53ODzQoSZOg"><img width="140px" src="https://i.ytimg.com/vi/53ODzQoSZOg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=z6-5RklxhVY"><img width="140px" src="https://i.ytimg.com/vi/z6-5RklxhVY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=z6-5RklxhVY">Developer Decisions 🤔 #javascript #devlife</a> (Jan 27, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=53ODzQoSZOg"><img width="140px" src="https://i.ytimg.com/vi/53ODzQoSZOg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=53ODzQoSZOg">Networking is HARD!</a> (Jan 26, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=XTrDk9GJxsw"><img width="140px" src="https://i.ytimg.com/vi/XTrDk9GJxsw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XTrDk9GJxsw">Open Source welcomes ALL help!</a> (Jan 25, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=vksraDNPmSU"><img width="140px" src="https://i.ytimg.com/vi/vksraDNPmSU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vksraDNPmSU">STOP watching tutorials!</a> (Jan 24, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=-GuWsVLBM2A"><img width="140px" src="https://i.ytimg.com/vi/-GuWsVLBM2A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-GuWsVLBM2A">Mockoon: Open Source SaaS product</a> (Jan 22, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
