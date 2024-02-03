@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=pOI0zhjLtp8"><img width="140px" src="https://i.ytimg.com/vi/pOI0zhjLtp8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=gP4BXv-lrIw"><img width="140px" src="https://i.ytimg.com/vi/gP4BXv-lrIw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gP4BXv-lrIw">SaaS: Select the right tool for the job</a> (Feb 3, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=pOI0zhjLtp8"><img width="140px" src="https://i.ytimg.com/vi/pOI0zhjLtp8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pOI0zhjLtp8">SaaS Ideas to make extra money</a> (Jan 31, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=z6-5RklxhVY"><img width="140px" src="https://i.ytimg.com/vi/z6-5RklxhVY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z6-5RklxhVY">Developer Decisions 🤔 #javascript #devlife</a> (Jan 27, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=53ODzQoSZOg"><img width="140px" src="https://i.ytimg.com/vi/53ODzQoSZOg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=53ODzQoSZOg">Networking is HARD!</a> (Jan 26, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=XTrDk9GJxsw"><img width="140px" src="https://i.ytimg.com/vi/XTrDk9GJxsw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XTrDk9GJxsw">Open Source welcomes ALL help!</a> (Jan 25, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
