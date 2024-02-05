@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=gP4BXv-lrIw"><img width="140px" src="https://i.ytimg.com/vi/gP4BXv-lrIw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=L3KN17klxpc"><img width="140px" src="https://i.ytimg.com/vi/L3KN17klxpc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L3KN17klxpc">Custom GitHub Actions and Release Workflows</a> (Feb 5, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=rfykPkE9nNY"><img width="140px" src="https://i.ytimg.com/vi/rfykPkE9nNY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rfykPkE9nNY">Must learn GIT, GITHUB and MARKDOWN</a> (Feb 5, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=gP4BXv-lrIw"><img width="140px" src="https://i.ytimg.com/vi/gP4BXv-lrIw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gP4BXv-lrIw">SaaS: Select the right tool for the job</a> (Feb 3, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pOI0zhjLtp8"><img width="140px" src="https://i.ytimg.com/vi/pOI0zhjLtp8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pOI0zhjLtp8">SaaS Ideas to make extra money</a> (Jan 31, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=z6-5RklxhVY"><img width="140px" src="https://i.ytimg.com/vi/z6-5RklxhVY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=z6-5RklxhVY">Developer Decisions 🤔 #javascript #devlife</a> (Jan 27, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=53ODzQoSZOg"><img width="140px" src="https://i.ytimg.com/vi/53ODzQoSZOg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=53ODzQoSZOg">Networking is HARD!</a> (Jan 26, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
