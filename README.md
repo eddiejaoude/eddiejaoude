@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=L3KN17klxpc"><img width="140px" src="https://i.ytimg.com/vi/L3KN17klxpc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=YBP0a_uaE28"><img width="140px" src="https://i.ytimg.com/vi/YBP0a_uaE28/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YBP0a_uaE28">Are tech jobs BROKEN!?</a> (Feb 6, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=L3KN17klxpc"><img width="140px" src="https://i.ytimg.com/vi/L3KN17klxpc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L3KN17klxpc">Custom GitHub Actions and Release Workflows</a> (Feb 5, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=rfykPkE9nNY"><img width="140px" src="https://i.ytimg.com/vi/rfykPkE9nNY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rfykPkE9nNY">Must learn GIT, GITHUB and MARKDOWN</a> (Feb 5, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gP4BXv-lrIw"><img width="140px" src="https://i.ytimg.com/vi/gP4BXv-lrIw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gP4BXv-lrIw">SaaS: Select the right tool for the job</a> (Feb 3, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=pOI0zhjLtp8"><img width="140px" src="https://i.ytimg.com/vi/pOI0zhjLtp8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pOI0zhjLtp8">SaaS Ideas to make extra money</a> (Jan 31, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
