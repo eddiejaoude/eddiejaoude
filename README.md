@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=apjPnO9287s"><img width="140px" src="https://i.ytimg.com/vi/apjPnO9287s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=aZxcqn9DEzM"><img width="140px" src="https://i.ytimg.com/vi/aZxcqn9DEzM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aZxcqn9DEzM">CLOSED GitHub Pull Requests!!</a> (Feb 9, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=apjPnO9287s"><img width="140px" src="https://i.ytimg.com/vi/apjPnO9287s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=apjPnO9287s">5 must build side projects</a> (Feb 7, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=YBP0a_uaE28"><img width="140px" src="https://i.ytimg.com/vi/YBP0a_uaE28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YBP0a_uaE28">Are tech jobs BROKEN!?</a> (Feb 6, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=L3KN17klxpc"><img width="140px" src="https://i.ytimg.com/vi/L3KN17klxpc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L3KN17klxpc">Custom GitHub Actions and Release Workflows</a> (Feb 5, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=rfykPkE9nNY"><img width="140px" src="https://i.ytimg.com/vi/rfykPkE9nNY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rfykPkE9nNY">Must learn GIT, GITHUB and MARKDOWN</a> (Feb 5, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
