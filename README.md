@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=6YhkVV-7EOA"><img width="140px" src="https://i.ytimg.com/vi/6YhkVV-7EOA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=dh_Y1pS3npA"><img width="140px" src="https://i.ytimg.com/vi/dh_Y1pS3npA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dh_Y1pS3npA">Is Open Source needed?</a> (Feb 13, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=6YhkVV-7EOA"><img width="140px" src="https://i.ytimg.com/vi/6YhkVV-7EOA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6YhkVV-7EOA">Must know Linux Commands for every developer &lpar;Vim, Grep&rpar;</a> (Feb 11, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=u9TjbtZX4Zg"><img width="140px" src="https://i.ytimg.com/vi/u9TjbtZX4Zg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u9TjbtZX4Zg">Open Source Feature Flags with Flagsmith</a> (Feb 9, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aZxcqn9DEzM"><img width="140px" src="https://i.ytimg.com/vi/aZxcqn9DEzM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aZxcqn9DEzM">CLOSED GitHub Pull Requests!!</a> (Feb 9, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=apjPnO9287s"><img width="140px" src="https://i.ytimg.com/vi/apjPnO9287s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=apjPnO9287s">5 must build side projects</a> (Feb 7, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
