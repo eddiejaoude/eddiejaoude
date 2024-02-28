@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=L3KN17klxpc"><img width="140px" src="https://i.ytimg.com/vi/L3KN17klxpc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Xj4cSObuf3w"><img width="140px" src="https://i.ytimg.com/vi/Xj4cSObuf3w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Xj4cSObuf3w">Automate Repo Reviews with NextJS and Tailwind</a> (Feb 28, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=L3KN17klxpc"><img width="140px" src="https://i.ytimg.com/vi/L3KN17klxpc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L3KN17klxpc">Custom GitHub Actions and Release Workflows</a> (Feb 26, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ko9-JNUtfic"><img width="140px" src="https://i.ytimg.com/vi/ko9-JNUtfic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ko9-JNUtfic">Get YOUR Pull Request merged!</a> (Feb 23, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=nnYyWuPBblE"><img width="140px" src="https://i.ytimg.com/vi/nnYyWuPBblE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nnYyWuPBblE">Open Source GitHub Repo Reactions &lpar;part 2&rpar;</a> (Feb 18, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=BYs8d6KbnHM"><img width="140px" src="https://i.ytimg.com/vi/BYs8d6KbnHM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BYs8d6KbnHM">5 ways to Open Source</a> (Feb 16, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
