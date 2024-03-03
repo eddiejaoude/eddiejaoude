@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=to6zWf0BF-o"><img width="140px" src="https://i.ytimg.com/vi/to6zWf0BF-o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=BCzNtbEh5T4"><img width="140px" src="https://i.ytimg.com/vi/BCzNtbEh5T4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BCzNtbEh5T4">GitHub VERIFIED #github #git</a> (Mar 3, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=to6zWf0BF-o"><img width="140px" src="https://i.ytimg.com/vi/to6zWf0BF-o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=to6zWf0BF-o">STOP looking at Open Source GREEN squares</a> (Feb 29, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Xj4cSObuf3w"><img width="140px" src="https://i.ytimg.com/vi/Xj4cSObuf3w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Xj4cSObuf3w">Automate Repo Reviews with NextJS and Tailwind</a> (Feb 28, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=L3KN17klxpc"><img width="140px" src="https://i.ytimg.com/vi/L3KN17klxpc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L3KN17klxpc">Custom GitHub Actions and Release Workflows</a> (Feb 26, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ko9-JNUtfic"><img width="140px" src="https://i.ytimg.com/vi/ko9-JNUtfic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ko9-JNUtfic">Get YOUR Pull Request merged!</a> (Feb 23, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
