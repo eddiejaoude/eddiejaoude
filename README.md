@@ -33,7 +33,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ZI7tSRR9q8w"><img width="140px" src="https://i.ytimg.com/vi/ZI7tSRR9q8w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZI7tSRR9q8w">Reviewing your Open Source Repos + Profiles</a> (Mar 6, 2024)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=ZI7tSRR9q8w">Reviewing your Open Source Repos + Profiles</a> (Mar 10, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=diWUEgE3Hxo"><img width="140px" src="https://i.ytimg.com/vi/diWUEgE3Hxo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=diWUEgE3Hxo">Get more GitHub repo Stars</a> (Mar 5, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=BCzNtbEh5T4"><img width="140px" src="https://i.ytimg.com/vi/BCzNtbEh5T4/mqdefault.jpg"></a></td>
