@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+    <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=1A8CD8" alt="Eddie Jaoude's Twitter"/>
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" alt="EddieHub Discord"/>
+    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=404EED" alt="EddieHub Discord"/>
   </a>
   <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Eddie Jaoude's YouTube channel"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="Eddie Jaoude's YouTube channel"/>
   </a>
 </p>
 
