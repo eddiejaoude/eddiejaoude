@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=SVmf8_8QifU"><img width="140px" src="https://i.ytimg.com/vi/SVmf8_8QifU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=OxY_linV9As"><img width="140px" src="https://i.ytimg.com/vi/OxY_linV9As/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OxY_linV9As">Make your GitHub standout</a> (Apr 1, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=SVmf8_8QifU"><img width="140px" src="https://i.ytimg.com/vi/SVmf8_8QifU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SVmf8_8QifU">How to find the best clients</a> (Mar 28, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2Wvdiu4E3U"><img width="140px" src="https://i.ytimg.com/vi/o2Wvdiu4E3U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o2Wvdiu4E3U">Want to be senior in tech?</a> (Mar 23, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=dHfvNx1mg-c"><img width="140px" src="https://i.ytimg.com/vi/dHfvNx1mg-c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dHfvNx1mg-c">STOP Deploying! Use Feature Flags with NextJS and Flagsmith</a> (Mar 20, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=78pXfsw6Ikw"><img width="140px" src="https://i.ytimg.com/vi/78pXfsw6Ikw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=78pXfsw6Ikw">GitHub Account HACKED?</a> (Mar 17, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
