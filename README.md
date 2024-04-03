@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=wGtWYDXeUyI"><img width="140px" src="https://i.ytimg.com/vi/wGtWYDXeUyI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=evaCbGuwDQ0"><img width="140px" src="https://i.ytimg.com/vi/evaCbGuwDQ0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=evaCbGuwDQ0">Tripadvisor for Open Source GitHub Repos</a> (Apr 3, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=wGtWYDXeUyI"><img width="140px" src="https://i.ytimg.com/vi/wGtWYDXeUyI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wGtWYDXeUyI">Don’t rely on ChatGPT #AI</a> (Apr 2, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OxY_linV9As"><img width="140px" src="https://i.ytimg.com/vi/OxY_linV9As/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OxY_linV9As">Make your GitHub standout</a> (Apr 1, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=SVmf8_8QifU"><img width="140px" src="https://i.ytimg.com/vi/SVmf8_8QifU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SVmf8_8QifU">How to find the best clients</a> (Mar 28, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=o2Wvdiu4E3U"><img width="140px" src="https://i.ytimg.com/vi/o2Wvdiu4E3U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=o2Wvdiu4E3U">Want to be senior in tech?</a> (Mar 23, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
