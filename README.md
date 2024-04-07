@@ -6,7 +6,7 @@
 - 🚀 Part of the <a href="https://accelerator.github.com"> GitHub Accelerator program</a> for <a href="https://github.com/EddieHubCommunity/LinkFree">LinkFree</a>
 - 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe in Collaboration 1st, Code 2nd!
 - 📸 FREE video course on <a href="https://www.udemy.com/course/make-your-github-profile-stand-out/learn/lecture/29205792#overview">How to make your GitHub profile standout</a>
-- 📰 Sign up to my monthly community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date with upcoming events, community achievements, and more
+- 📰 Check out my digital products (for example a Markdown course) https://products.eddiejaoude.io
 
 <p align="center">
   <a href="http://twitter.com/eddiejaoude">
