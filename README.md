@@ -3,7 +3,7 @@
 <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
 - 🌟 Part of the <a href="https://stars.github.com/profiles/eddiejaoude/"> GitHub Stars program</a>
-- 🚀 Part of the <a href="https://accelerator.github.com"> GitHub Accelerator program</a> for <a href="https://github.com/EddieHubCommunity/LinkFree">LinkFree</a>
+- 🚀 Part of the <a href="https://accelerator.github.com"> GitHub Accelerator program</a> for <a href="https://github.com/EddieHubCommunity/BioDrop">BioDrop</a>
 - 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe in Collaboration 1st, Code 2nd!
 - 📸 FREE video course on <a href="https://www.udemy.com/course/make-your-github-profile-stand-out/learn/lecture/29205792#overview">How to make your GitHub profile standout</a>
 - 📰 Check out my digital products (for example a Markdown course) https://products.eddiejaoude.io
