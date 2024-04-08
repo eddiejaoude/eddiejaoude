@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=b18fYAj-ZeE"><img width="140px" src="https://i.ytimg.com/vi/b18fYAj-ZeE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=V0ALx1e98bs"><img width="140px" src="https://i.ytimg.com/vi/V0ALx1e98bs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=V0ALx1e98bs">Getting Started with The Boring JavaScript Stack</a> (Apr 8, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=b18fYAj-ZeE"><img width="140px" src="https://i.ytimg.com/vi/b18fYAj-ZeE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b18fYAj-ZeE">Reviewing your Open Source Repos + Profiles</a> (Apr 8, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=eZU-CzD0QcQ"><img width="140px" src="https://i.ytimg.com/vi/eZU-CzD0QcQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eZU-CzD0QcQ">No more BUGS 🐛</a> (Apr 3, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=evaCbGuwDQ0"><img width="140px" src="https://i.ytimg.com/vi/evaCbGuwDQ0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=evaCbGuwDQ0">Tripadvisor for Open Source GitHub Repos</a> (Apr 3, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=wGtWYDXeUyI"><img width="140px" src="https://i.ytimg.com/vi/wGtWYDXeUyI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wGtWYDXeUyI">Don’t rely on ChatGPT #AI</a> (Apr 2, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
