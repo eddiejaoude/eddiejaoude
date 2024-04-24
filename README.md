@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=vGq95IavGck"><img width="140px" src="https://i.ytimg.com/vi/vGq95IavGck/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=EClEILE3MzY"><img width="140px" src="https://i.ytimg.com/vi/EClEILE3MzY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EClEILE3MzY">Asking AI are we safe?</a> (Apr 24, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=vGq95IavGck"><img width="140px" src="https://i.ytimg.com/vi/vGq95IavGck/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vGq95IavGck">How your GitHub Profile can get you a job</a> (Apr 17, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=V0ALx1e98bs"><img width="140px" src="https://i.ytimg.com/vi/V0ALx1e98bs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V0ALx1e98bs">Getting Started with The Boring JavaScript Stack</a> (Apr 15, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=XLtNUXiuP34"><img width="140px" src="https://i.ytimg.com/vi/XLtNUXiuP34/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XLtNUXiuP34">Display colors with Markdown</a> (Apr 13, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=o_WDRfN4lgU"><img width="140px" src="https://i.ytimg.com/vi/o_WDRfN4lgU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=o_WDRfN4lgU">Markdown ALERTS  #github</a> (Apr 10, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
