@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ylqMag4iEHE"><img width="140px" src="https://i.ytimg.com/vi/ylqMag4iEHE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=JGFQgsOt11w"><img width="140px" src="https://i.ytimg.com/vi/JGFQgsOt11w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JGFQgsOt11w">Host your own official MongoDB Database on Ubuntu with Civo</a> (Jun 12, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM"><img width="140px" src="https://i.ytimg.com/vi/ytsL8_eW6YM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM">Coding an app for Content Creators to get PAID!</a> (Jun 12, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ylqMag4iEHE"><img width="140px" src="https://i.ytimg.com/vi/ylqMag4iEHE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ylqMag4iEHE">NextJS: How to get started &lpar;Part1&rpar;</a> (Jun 5, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=R-gCqlqlqQM"><img width="140px" src="https://i.ytimg.com/vi/R-gCqlqlqQM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R-gCqlqlqQM">Hosting a Discord Bot on Civo Compute &lpar;VM&rpar;</a> (May 29, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0wLZ7qwpKzo"><img width="140px" src="https://i.ytimg.com/vi/0wLZ7qwpKzo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0wLZ7qwpKzo">GitHub TRENDING Repos and Developers</a> (May 22, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=MEq15pBl_PY"><img width="140px" src="https://i.ytimg.com/vi/MEq15pBl_PY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MEq15pBl_PY">Don&#39;t Git commit the wrong file again!</a> (May 15, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
