@@ -32,10 +32,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=JGFQgsOt11w"><img width="140px" src="https://i.ytimg.com/vi/JGFQgsOt11w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM"><img width="140px" src="https://i.ytimg.com/vi/ytsL8_eW6YM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM">Coding an app for Content Creators to get PAID!</a> (Jun 17, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=JGFQgsOt11w"><img width="140px" src="https://i.ytimg.com/vi/JGFQgsOt11w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JGFQgsOt11w">Host your own official MongoDB Database on Ubuntu with Civo</a> (Jun 12, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM"><img width="140px" src="https://i.ytimg.com/vi/ytsL8_eW6YM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM">Coding an app for Content Creators to get PAID!</a> (Jun 12, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ylqMag4iEHE"><img width="140px" src="https://i.ytimg.com/vi/ylqMag4iEHE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ylqMag4iEHE">NextJS: How to get started &lpar;Part1&rpar;</a> (Jun 5, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=R-gCqlqlqQM"><img width="140px" src="https://i.ytimg.com/vi/R-gCqlqlqQM/mqdefault.jpg"></a></td>
