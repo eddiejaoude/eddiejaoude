@@ -32,10 +32,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=mHn8KOzpPNY"><img width="140px" src="https://i.ytimg.com/vi/mHn8KOzpPNY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=SZIxomm06JU"><img width="140px" src="https://i.ytimg.com/vi/SZIxomm06JU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SZIxomm06JU">Deploying my new SaaS &lpar;with NextJS and Docker&rpar;</a> (Jun 24, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=mHn8KOzpPNY"><img width="140px" src="https://i.ytimg.com/vi/mHn8KOzpPNY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mHn8KOzpPNY">GitLab Duo AI: more than a pair programming partner</a> (Jun 19, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=SZIxomm06JU"><img width="140px" src="https://i.ytimg.com/vi/SZIxomm06JU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SZIxomm06JU">Deploying my new SaaS &lpar;with NextJS and Docker&rpar;</a> (Jun 18, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM"><img width="140px" src="https://i.ytimg.com/vi/ytsL8_eW6YM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM">Coding an app for Content Creators to get PAID!</a> (Jun 17, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JGFQgsOt11w"><img width="140px" src="https://i.ytimg.com/vi/JGFQgsOt11w/mqdefault.jpg"></a></td>
