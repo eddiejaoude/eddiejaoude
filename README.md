@@ -32,8 +32,8 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=3c_asy0GogI"><img width="140px" src="https://i.ytimg.com/vi/3c_asy0GogI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3c_asy0GogI">Build a real world project: New EddieHub Repo with Flagsmith</a> (Jun 28, 2024)<br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Bk9wkgUhAqc"><img width="140px" src="https://i.ytimg.com/vi/Bk9wkgUhAqc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Bk9wkgUhAqc">Build a real world project: New EddieHub Repo with Flagsmith</a> (Jun 30, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=RISz-RGc_4Q"><img width="140px" src="https://i.ytimg.com/vi/RISz-RGc_4Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RISz-RGc_4Q">Prevent unwanted changes in your Pull Request</a> (Jun 26, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gCPPk_ICRUM"><img width="140px" src="https://i.ytimg.com/vi/gCPPk_ICRUM/mqdefault.jpg"></a></td>
