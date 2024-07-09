@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=lcHaBZKuPdk"><img width="140px" src="https://i.ytimg.com/vi/lcHaBZKuPdk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Bk9wkgUhAqc"><img width="140px" src="https://i.ytimg.com/vi/Bk9wkgUhAqc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Bk9wkgUhAqc">Build a real world project: New EddieHub Repo with Flagsmith</a> (Jul 8, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=lcHaBZKuPdk"><img width="140px" src="https://i.ytimg.com/vi/lcHaBZKuPdk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lcHaBZKuPdk">E2E Testing using Playwright with Debbie O&#39;Brien from Microsoft</a> (Jul 6, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AyYMLTt9YtI"><img width="140px" src="https://i.ytimg.com/vi/AyYMLTt9YtI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AyYMLTt9YtI">Host your own Heroku / Vercel with the Open Source Project Caprover</a> (Jul 3, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gCPPk_ICRUM"><img width="140px" src="https://i.ytimg.com/vi/gCPPk_ICRUM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gCPPk_ICRUM">GitHub Open Source Reviews</a> (Jul 1, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Bk9wkgUhAqc"><img width="140px" src="https://i.ytimg.com/vi/Bk9wkgUhAqc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Bk9wkgUhAqc">Build a real world project: New EddieHub Repo with Flagsmith</a> (Jun 30, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
