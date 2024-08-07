@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=f53RvUpUA8w"><img width="140px" src="https://i.ytimg.com/vi/f53RvUpUA8w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=9W-RVzYZR6o"><img width="140px" src="https://i.ytimg.com/vi/9W-RVzYZR6o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9W-RVzYZR6o">STOP hardcoding values in your project by using the Open Source project Flagsmith</a> (Aug 6, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=f53RvUpUA8w"><img width="140px" src="https://i.ytimg.com/vi/f53RvUpUA8w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=f53RvUpUA8w">Create custom badges with NextJS &lpar;shields&rpar;</a> (Jul 31, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=dGa4sJXtbrU"><img width="140px" src="https://i.ytimg.com/vi/dGa4sJXtbrU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dGa4sJXtbrU">Authenticated E2E Testing with Playwright - Mocking Users</a> (Jul 29, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=GkorCiECnWc"><img width="140px" src="https://i.ytimg.com/vi/GkorCiECnWc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GkorCiECnWc">Is your Open Source Repo READY?</a> (Jul 25, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=s1LCWW-w5lI"><img width="140px" src="https://i.ytimg.com/vi/s1LCWW-w5lI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=s1LCWW-w5lI">Git commit hooks with Husky</a> (Jul 17, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
