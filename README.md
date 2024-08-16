@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=yEePLXpCI_4"><img width="140px" src="https://i.ytimg.com/vi/yEePLXpCI_4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yEePLXpCI_4">GitLab Repo: MY first impressions &lpar;reviewing the Wireshark project&rpar;</a> (Aug 11, 2024)<br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=XBvWwxQ-VFw"><img width="140px" src="https://i.ytimg.com/vi/XBvWwxQ-VFw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XBvWwxQ-VFw">Contribute to the Open Source GitLab Platform</a> (Aug 15, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9W-RVzYZR6o"><img width="140px" src="https://i.ytimg.com/vi/9W-RVzYZR6o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9W-RVzYZR6o">STOP hardcoding values in your project by using the Open Source project Flagsmith</a> (Aug 6, 2024)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=9W-RVzYZR6o">STOP hardcoding values in your project by using the Open Source project Flagsmith</a> (Aug 15, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=yEePLXpCI_4"><img width="140px" src="https://i.ytimg.com/vi/yEePLXpCI_4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yEePLXpCI_4">GitLab Repo: MY first impressions &lpar;reviewing the Wireshark project&rpar;</a> (Aug 11, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=f53RvUpUA8w"><img width="140px" src="https://i.ytimg.com/vi/f53RvUpUA8w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=f53RvUpUA8w">Create custom badges with NextJS &lpar;shields&rpar;</a> (Jul 31, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=dGa4sJXtbrU"><img width="140px" src="https://i.ytimg.com/vi/dGa4sJXtbrU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dGa4sJXtbrU">Authenticated E2E Testing with Playwright - Mocking Users</a> (Jul 29, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
