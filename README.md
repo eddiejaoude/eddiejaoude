@@ -32,10 +32,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=qL7n5C-tv3U"><img width="140px" src="https://i.ytimg.com/vi/qL7n5C-tv3U/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=XBvWwxQ-VFw"><img width="140px" src="https://i.ytimg.com/vi/XBvWwxQ-VFw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XBvWwxQ-VFw">Contribute to the Open Source GitLab Platform</a> (Aug 21, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=qL7n5C-tv3U"><img width="140px" src="https://i.ytimg.com/vi/qL7n5C-tv3U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qL7n5C-tv3U">Are you using Global Git Ignore?</a> (Aug 18, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=XBvWwxQ-VFw"><img width="140px" src="https://i.ytimg.com/vi/XBvWwxQ-VFw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XBvWwxQ-VFw">Contribute to the Open Source GitLab Platform</a> (Aug 15, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9W-RVzYZR6o"><img width="140px" src="https://i.ytimg.com/vi/9W-RVzYZR6o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9W-RVzYZR6o">STOP hardcoding values in your project by using the Open Source project Flagsmith</a> (Aug 15, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yEePLXpCI_4"><img width="140px" src="https://i.ytimg.com/vi/yEePLXpCI_4/mqdefault.jpg"></a></td>
