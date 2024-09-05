@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=XZOgX6sq1ZY"><img width="140px" src="https://i.ytimg.com/vi/XZOgX6sq1ZY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Z2lz6W12BCQ"><img width="140px" src="https://i.ytimg.com/vi/Z2lz6W12BCQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Z2lz6W12BCQ">Mock serverside API requests using NextJS and MSWjs</a> (Sep 4, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=XZOgX6sq1ZY"><img width="140px" src="https://i.ytimg.com/vi/XZOgX6sq1ZY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XZOgX6sq1ZY">Is your web application secure?</a> (Aug 29, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=K3iZJSWyOGc"><img width="140px" src="https://i.ytimg.com/vi/K3iZJSWyOGc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K3iZJSWyOGc">Test in Production</a> (Aug 25, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=XBvWwxQ-VFw"><img width="140px" src="https://i.ytimg.com/vi/XBvWwxQ-VFw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XBvWwxQ-VFw">Contribute to the Open Source GitLab Platform</a> (Aug 21, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=qL7n5C-tv3U"><img width="140px" src="https://i.ytimg.com/vi/qL7n5C-tv3U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qL7n5C-tv3U">Are you using Global Git Ignore?</a> (Aug 18, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
