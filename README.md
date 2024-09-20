@@ -32,10 +32,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=hT0AiSIk_d0"><img width="140px" src="https://i.ytimg.com/vi/hT0AiSIk_d0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=GsN4_x1dd2M"><img width="140px" src="https://i.ytimg.com/vi/GsN4_x1dd2M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GsN4_x1dd2M">HealthCheck scheduler with NextJS, Prisma and Flagsmith</a> (Sep 19, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=hT0AiSIk_d0"><img width="140px" src="https://i.ytimg.com/vi/hT0AiSIk_d0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hT0AiSIk_d0">Why do Developers HATE writing tests? And are they right?</a> (Sep 15, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=GsN4_x1dd2M"><img width="140px" src="https://i.ytimg.com/vi/GsN4_x1dd2M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GsN4_x1dd2M">HealthCheck scheduler with NextJS, Prisma and Flagsmith</a> (Sep 12, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=SgwBl1IWZ5M"><img width="140px" src="https://i.ytimg.com/vi/SgwBl1IWZ5M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SgwBl1IWZ5M">Security for Maintainers</a> (Sep 12, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Z2lz6W12BCQ"><img width="140px" src="https://i.ytimg.com/vi/Z2lz6W12BCQ/mqdefault.jpg"></a></td>
