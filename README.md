@@ -32,14 +32,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=0-FTLTVtG-g"><img width="140px" src="https://i.ytimg.com/vi/0-FTLTVtG-g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=UUwncIIR-r8"><img width="140px" src="https://i.ytimg.com/vi/UUwncIIR-r8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UUwncIIR-r8">Contribute to GitLab for Hacktoberfest!</a> (Sep 27, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=0-FTLTVtG-g"><img width="140px" src="https://i.ytimg.com/vi/0-FTLTVtG-g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0-FTLTVtG-g">No scheduler? No Cron? No problem... use GitHub Actions</a> (Sep 23, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=GsN4_x1dd2M"><img width="140px" src="https://i.ytimg.com/vi/GsN4_x1dd2M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GsN4_x1dd2M">HealthCheck scheduler with NextJS, Prisma and Flagsmith</a> (Sep 19, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=hT0AiSIk_d0"><img width="140px" src="https://i.ytimg.com/vi/hT0AiSIk_d0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hT0AiSIk_d0">Why do Developers HATE writing tests? And are they right?</a> (Sep 15, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=SgwBl1IWZ5M"><img width="140px" src="https://i.ytimg.com/vi/SgwBl1IWZ5M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SgwBl1IWZ5M">Security for Maintainers</a> (Sep 12, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
