@@ -32,10 +32,10 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=C1IKFYwSMM0"><img width="140px" src="https://i.ytimg.com/vi/C1IKFYwSMM0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=UUwncIIR-r8"><img width="140px" src="https://i.ytimg.com/vi/UUwncIIR-r8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UUwncIIR-r8">Contribute to GitLab for Hacktoberfest!</a> (Oct 6, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=C1IKFYwSMM0"><img width="140px" src="https://i.ytimg.com/vi/C1IKFYwSMM0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C1IKFYwSMM0">Mock out OAuth Provider using MswJS &lpar;NextJS and Next-Auth&rpar;</a> (Sep 29, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=UUwncIIR-r8"><img width="140px" src="https://i.ytimg.com/vi/UUwncIIR-r8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UUwncIIR-r8">Contribute to GitLab for Hacktoberfest!</a> (Sep 27, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=0-FTLTVtG-g"><img width="140px" src="https://i.ytimg.com/vi/0-FTLTVtG-g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0-FTLTVtG-g">No scheduler? No Cron? No problem... use GitHub Actions</a> (Sep 23, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=GsN4_x1dd2M"><img width="140px" src="https://i.ytimg.com/vi/GsN4_x1dd2M/mqdefault.jpg"></a></td>
