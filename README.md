@@ -30,14 +30,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=NiR0IHrXf0o"><img width="140px" src="https://i.ytimg.com/vi/NiR0IHrXf0o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=lT8jeRdCTos"><img width="140px" src="https://i.ytimg.com/vi/lT8jeRdCTos/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lT8jeRdCTos">Generate unit tests with EarlyAI</a> (Oct 30, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=NiR0IHrXf0o"><img width="140px" src="https://i.ytimg.com/vi/NiR0IHrXf0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NiR0IHrXf0o">Stop creating Typescript interfaces manually &lpar;use quicktype&rpar;</a> (Oct 16, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=UUwncIIR-r8"><img width="140px" src="https://i.ytimg.com/vi/UUwncIIR-r8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UUwncIIR-r8">Contribute to GitLab for Hacktoberfest!</a> (Oct 6, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=C1IKFYwSMM0"><img width="140px" src="https://i.ytimg.com/vi/C1IKFYwSMM0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C1IKFYwSMM0">Mock out OAuth Provider using MswJS &lpar;NextJS and Next-Auth&rpar;</a> (Sep 29, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0-FTLTVtG-g"><img width="140px" src="https://i.ytimg.com/vi/0-FTLTVtG-g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0-FTLTVtG-g">No scheduler? No Cron? No problem... use GitHub Actions</a> (Sep 23, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
