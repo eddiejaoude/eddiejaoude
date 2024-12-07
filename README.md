@@ -30,14 +30,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=oTvshob9Lyo"><img width="140px" src="https://i.ytimg.com/vi/oTvshob9Lyo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=SS7u2a1gE9o"><img width="140px" src="https://i.ytimg.com/vi/SS7u2a1gE9o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SS7u2a1gE9o">Create beautiful UI with Vercel&#39;s AI  v0 #vercel #ai</a> (Dec 6, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=oTvshob9Lyo"><img width="140px" src="https://i.ytimg.com/vi/oTvshob9Lyo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oTvshob9Lyo">AI SQL queries with Prisma Optimize  #nodejs #postgres #sql</a> (Nov 28, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5nAAH7y8R9A"><img width="140px" src="https://i.ytimg.com/vi/5nAAH7y8R9A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5nAAH7y8R9A">Improve your database queries with Prisma Optimize AI</a> (Nov 27, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OjNmXLWOX64"><img width="140px" src="https://i.ytimg.com/vi/OjNmXLWOX64/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OjNmXLWOX64">Local services public online</a> (Nov 22, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=aEfwXn3B-GE"><img width="140px" src="https://i.ytimg.com/vi/aEfwXn3B-GE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aEfwXn3B-GE">Expose your local services on the web with LocalTunnel</a> (Nov 21, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
