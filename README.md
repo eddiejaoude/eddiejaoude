@@ -30,14 +30,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Et6sM6Xsklc"><img width="140px" src="https://i.ytimg.com/vi/Et6sM6Xsklc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=kUJ3vt1AJU4"><img width="140px" src="https://i.ytimg.com/vi/kUJ3vt1AJU4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kUJ3vt1AJU4">When coding, we are not always coding #digitalnomad #devlife</a> (Dec 21, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Et6sM6Xsklc"><img width="140px" src="https://i.ytimg.com/vi/Et6sM6Xsklc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Et6sM6Xsklc">Prisma ORM Typescript models #prisma #orm #database</a> (Dec 19, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=c1EqB-lIGRs"><img width="140px" src="https://i.ytimg.com/vi/c1EqB-lIGRs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c1EqB-lIGRs">Twitter &lpar;X&rpar; pinned post #twitter #socialmedia</a> (Dec 17, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=0y-Nz09huKw"><img width="140px" src="https://i.ytimg.com/vi/0y-Nz09huKw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0y-Nz09huKw">STOP using SQL SELECT * #sql #orm</a> (Dec 12, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=pKleA0rVZYY"><img width="140px" src="https://i.ytimg.com/vi/pKleA0rVZYY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pKleA0rVZYY">200k on Twitter &lpar;X&rpar; Payout 🤑 #twitter #x #socialmedia</a> (Dec 10, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
