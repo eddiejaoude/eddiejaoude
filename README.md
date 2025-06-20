@@ -30,14 +30,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=N9YYJ0qyesg"><img width="140px" src="https://i.ytimg.com/vi/N9YYJ0qyesg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/LV5QukdA-ro"><img width="140px" src="https://i.ytimg.com/vi/LV5QukdA-ro/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/LV5QukdA-ro">See you at The Developer Show powered by @Gitlab</a> (Jun 19, 2025)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=N9YYJ0qyesg"><img width="140px" src="https://i.ytimg.com/vi/N9YYJ0qyesg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N9YYJ0qyesg">Building and Deploying a SaaS with AI</a> (Apr 16, 2025)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/TbISzUdwsXU"><img width="140px" src="https://i.ytimg.com/vi/TbISzUdwsXU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/TbISzUdwsXU">Do you need Dark Mode from day 1?</a> (Dec 30, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/kUJ3vt1AJU4"><img width="140px" src="https://i.ytimg.com/vi/kUJ3vt1AJU4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/kUJ3vt1AJU4">When coding, we are not always coding #digitalnomad #devlife</a> (Dec 21, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/Et6sM6Xsklc"><img width="140px" src="https://i.ytimg.com/vi/Et6sM6Xsklc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Et6sM6Xsklc">Prisma ORM Typescript models #prisma #orm #database</a> (Dec 19, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
