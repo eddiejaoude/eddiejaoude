@@ -30,14 +30,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o"><img width="140px" src="https://i.ytimg.com/vi/EaNsGFBf97o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=B1ACLrOxubk"><img width="140px" src="https://i.ytimg.com/vi/B1ACLrOxubk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B1ACLrOxubk">Add Scheduling to your app in minutes with Cronofy</a> (Nov 20, 2025)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o"><img width="140px" src="https://i.ytimg.com/vi/EaNsGFBf97o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o">Monitor your website with the Open Source project Kestra</a> (Aug 14, 2025)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI"><img width="140px" src="https://i.ytimg.com/vi/Qa0ZgJJjJVI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI">How to contribute to Open Source? Full example on the Kestra GitHub Repo</a> (Jun 29, 2025)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/LV5QukdA-ro"><img width="140px" src="https://i.ytimg.com/vi/LV5QukdA-ro/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/LV5QukdA-ro">See you at The Developer Show powered by @Gitlab</a> (Jun 19, 2025)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=N9YYJ0qyesg"><img width="140px" src="https://i.ytimg.com/vi/N9YYJ0qyesg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N9YYJ0qyesg">Building and Deploying a SaaS with AI</a> (Apr 16, 2025)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
