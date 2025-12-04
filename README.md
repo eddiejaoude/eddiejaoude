@@ -31,7 +31,7 @@
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=B1ACLrOxubk"><img width="140px" src="https://i.ytimg.com/vi/B1ACLrOxubk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=B1ACLrOxubk">Add Scheduling to your app in minutes with Cronofy</a> (Nov 20, 2025)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=B1ACLrOxubk">Add Scheduling to your app in minutes with Cronofy</a> (Dec 3, 2025)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o"><img width="140px" src="https://i.ytimg.com/vi/EaNsGFBf97o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o">Monitor your website with the Open Source project Kestra</a> (Aug 14, 2025)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI"><img width="140px" src="https://i.ytimg.com/vi/Qa0ZgJJjJVI/mqdefault.jpg"></a></td>
