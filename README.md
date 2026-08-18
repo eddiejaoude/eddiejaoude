@@ -30,14 +30,14 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/9f_TApH4_6Q"><img width="140px" src="https://i.ytimg.com/vi/9f_TApH4_6Q/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/Bo69v3BOwOU"><img width="140px" src="https://i.ytimg.com/vi/Bo69v3BOwOU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/Bo69v3BOwOU">Will Claude AI replace developers?</a> (Aug 17, 2026)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/9f_TApH4_6Q"><img width="140px" src="https://i.ytimg.com/vi/9f_TApH4_6Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/9f_TApH4_6Q">Building with AI away from my computer using Orca + Claude</a> (Jul 26, 2026)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=VS2a_0Cp4A4"><img width="140px" src="https://i.ytimg.com/vi/VS2a_0Cp4A4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VS2a_0Cp4A4">Optimize your Postgres with pg-aiguide MCP server</a> (Feb 6, 2026)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/MqeGl8v2GSc"><img width="140px" src="https://i.ytimg.com/vi/MqeGl8v2GSc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/MqeGl8v2GSc">Why the &quot;LIVE&quot; in Live Streaming is both terrifying and awesome!!</a> (Dec 27, 2025)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=B1ACLrOxubk"><img width="140px" src="https://i.ytimg.com/vi/B1ACLrOxubk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=B1ACLrOxubk">Add Scheduling to your app in minutes with Cronofy</a> (Dec 3, 2025)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
