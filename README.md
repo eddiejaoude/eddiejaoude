@@ -2,18 +2,18 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-dark.svg" alt="Eddie Jaoude, Developer Advocate at PayPal and GitHub Star">
+    <img src="assets/banner-dark.svg" alt="Eddie Jaoude, Senior Developer Advocate at PayPal and GitHub Star of the Year 2020">
   </picture>
 </a>
 
 <p align="center">
-  <strong>Developer Advocate at PayPal · GitHub Star · helping you get into Open Source to accelerate your career</strong><br>
+  <strong>Senior Developer Advocate at PayPal · GitHub Star of the Year 2020 · helping you get into Open Source to accelerate your career</strong><br>
   I believe Open Source is for EVERYONE; yes, YOU TOO! 🚀
 </p>
 
 <p align="center">
   <a href="https://youtube.com/eddiejaoude?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-46.2K%20subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Eddie Jaoude on YouTube: 46.2K subscribers"></a>
-  <a href="https://x.com/eddiejaoude"><img src="https://img.shields.io/badge/X-130k%2B%20followers-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @eddiejaoude on X: 130k+ followers"></a>
+  <a href="https://x.com/eddiejaoude"><img src="https://img.shields.io/badge/X-200k%2B%20followers-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @eddiejaoude on X: 200k+ followers"></a>
   <a href="https://github.com/eddiejaoude"><img src="https://img.shields.io/github/followers/eddiejaoude?style=for-the-badge&logo=github" alt="Eddie Jaoude's GitHub followers"></a>
   <a href="https://eddiejaoude.substack.com"><img src="https://img.shields.io/badge/Substack-Eddie%27s%20Log-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Read Eddie's Log on Substack"></a>
   <a href="https://www.linkedin.com/in/eddiejaoude/"><img src="https://img.shields.io/badge/LinkedIn-eddiejaoude-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="Connect with Eddie Jaoude on LinkedIn"></a>
@@ -21,7 +21,7 @@
 
 ## 🚀 What I'm doing now
 
-- 💼 **Developer Advocate at PayPal**: helping developers build with [@paypaldev](https://github.com/paypaldev) and [developer.paypal.com](https://developer.paypal.com/)
+- 💼 **Senior Developer Advocate at PayPal**: helping developers build with [@paypaldev](https://github.com/paypaldev) and [developer.paypal.com](https://developer.paypal.com/)
 - 🤖 **Building with AI agents**: Claude, Orca, voice-controlled agents and MCP servers, all shared on [YouTube](https://www.youtube.com/@eddiejaoude)
 - ✍️ **Writing [Eddie's Log](https://eddiejaoude.substack.com)**: Open Source, developer experience, hackathons and building SaaS with AI
 - 📸 **FREE course**: [How to make your GitHub profile stand out](https://www.udemy.com/course/make-your-github-profile-stand-out/)
@@ -50,11 +50,11 @@
 
 | Project | What | Impact |
 | --- | --- | --- |
-| [BioDrop](https://github.com/EddieHubCommunity/BioDrop) | Founded the Open Source link-in-bio platform, backed by GitHub Accelerator 2023 | 5.6k★ · 4k forks · archived Jun 2024 |
+| [BioDrop](https://github.com/EddieHubCommunity/BioDrop) | Founded the Open Source link-in-bio platform, backed by GitHub Accelerator 2023 | 5.6k★ · 4k forks · sunset Jun 2024 |
 | [EddieHub](https://github.com/EddieHubCommunity) | Founded an inclusive community built on "Collaboration 1st, Code 2nd" | Grew to 15k+ members before closing |
-| [awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) | Community showcase of GitHub profiles | 1.5k★ |
-| [open-source-practice](https://github.com/EddieHubCommunity/open-source-practice) | Practise making your first Open Source contribution | 721★ |
-| [good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) | Find good first issues to contribute to | 631★ |
+| [awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) | Showcased the community's GitHub profiles (archived) | 1.5k★ |
+| [open-source-practice](https://github.com/EddieHubCommunity/open-source-practice) | Helped people practise their first Open Source contribution (archived) | 721★ |
+| [good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) | Helped people find good first issues to contribute to (archived) | 631★ |
 | [YouTube](https://www.youtube.com/@eddiejaoude) | Open Source, GitHub and AI tutorials | 46.2K subscribers |
 | [GitHub](https://github.com/eddiejaoude) | Sharing Open Source in public | 8.7k followers |
 
@@ -65,23 +65,29 @@
 <td><a href="https://www.youtube.com/watch?v=VS2a_0Cp4A4">Optimize your Postgres with pg-aiguide MCP server</a> (Feb 6, 2026)</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o"><img width="140px" src="https://i.ytimg.com/vi/EaNsGFBf97o/mqdefault.jpg" alt="Monitor your website with the Open Source project Kestra"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o">Monitor your website with the Open Source project Kestra</a> (Aug 14, 2025)</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI"><img width="140px" src="https://i.ytimg.com/vi/Qa0ZgJJjJVI/mqdefault.jpg" alt="How to contribute to Open Source? Full example on the Kestra GitHub Repo"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI">How to contribute to Open Source? Full example on the Kestra GitHub Repo</a> (Jun 29, 2025)</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=N9YYJ0qyesg"><img width="140px" src="https://i.ytimg.com/vi/N9YYJ0qyesg/mqdefault.jpg" alt="Building and Deploying a SaaS with AI"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N9YYJ0qyesg">Building and Deploying a SaaS with AI</a> (Apr 16, 2025)</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
-⚡ Quick tips on AI agents and Open Source? Watch my [YouTube Shorts](https://www.youtube.com/@eddiejaoude/shorts).
+#### ⚡ Latest Shorts
+
+<table>
+<tr>
+<!-- YOUTUBE-SHORTS-LIST:START -->
+<!-- YOUTUBE-SHORTS-LIST:END -->
+</tr>
+</table>
+
+More quick tips on AI agents and Open Source in my [YouTube Shorts](https://www.youtube.com/@eddiejaoude/shorts).
 
 ### ✍️ Latest from my blog
 
+<ul>
 <!-- BLOG-POST-LIST:START -->
-- [How to win a hackathon (spoiler: it’s not your code)](https://eddiejaoude.substack.com/p/how-to-win-a-hackathon-spoiler-its) (Nov 12, 2026)
-- [Newsletter v0.3: Can a tool's DX really improve my productivity?](https://eddiejaoude.substack.com/p/newsletter-v03-can-a-tools-dx-really) (Jul 30, 2026)
-- [Newsletter v0.2: Context and the experience is everything!](https://eddiejaoude.substack.com/p/context-and-the-experience-is-everything-screen-recording-pro-video-recorder-launch) (Mar 27, 2026)
-- [Contributing to an Enterprise Open Source Project: Kestra](https://eddiejaoude.substack.com/p/contributing-to-enterprise-open-source-github) (Jul 10, 2025)
+<li><a href="https://eddiejaoude.substack.com/p/how-to-win-a-hackathon-spoiler-its">How to win a hackathon (spoiler: it’s not your code)</a> (Nov 12, 2026)</li>
+<li><a href="https://eddiejaoude.substack.com/p/newsletter-v03-can-a-tools-dx-really">Newsletter v0.3: Can a tool&apos;s DX really improve my productivity?</a> (Jul 30, 2026)</li>
+<li><a href="https://eddiejaoude.substack.com/p/context-and-the-experience-is-everything-screen-recording-pro-video-recorder-launch">Newsletter v0.2: Context and the experience is everything!</a> (Mar 27, 2026)</li>
 <!-- BLOG-POST-LIST:END -->
+</ul>
 
 ## 💬 What people say
 

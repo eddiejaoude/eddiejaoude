@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
   <title id="title">Eddie Jaoude</title>
-  <desc id="desc">Eddie Jaoude, Developer Advocate at PayPal. GitHub Star and GitHub Top Teacher. Open Source, AI Agents, Developer Experience, Content Creator.</desc>
+  <desc id="desc">Eddie Jaoude, Senior Developer Advocate at PayPal. GitHub Star of the Year 2020 and GitHub Top Teacher. Open Source, AI Agents, Developer Experience, Content Creator.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -46,9 +46,9 @@
     <text x="110" y="112" font-size="20" font-weight="600" letter-spacing="4" fill="url(#accent)">HELLO, I&#8217;M</text>
     <text x="106" y="200" font-size="88" font-weight="800" letter-spacing="-1" fill="#f0f6fc">Eddie Jaoude</text>
     <rect x="110" y="224" width="120" height="6" rx="3" fill="url(#accent)"/>
-    <text x="110" y="282" font-size="38" font-weight="600" fill="#c9d1d9">Developer Advocate <tspan fill="url(#accent)" font-weight="700">@ PayPal</tspan></text>
+    <text x="110" y="282" font-size="38" font-weight="600" fill="#c9d1d9">Senior Developer Advocate <tspan fill="url(#accent)" font-weight="700">@ PayPal</tspan></text>
     <polygon points="122.0,311.0 125.2,318.6 133.4,319.3 127.1,324.7 129.1,332.7 122.0,328.4 114.9,332.7 116.9,324.7 110.6,319.3 118.8,318.6" fill="url(#accent)"/>
-    <text x="144" y="331" font-size="24" font-weight="500" fill="#8b949e">GitHub Star  &#183;  GitHub Top Teacher</text>
+    <text x="144" y="331" font-size="24" font-weight="500" fill="#8b949e">GitHub Star of the Year 2020  &#183;  GitHub Top Teacher</text>
     <g><rect x="110" y="372" width="179" height="46" rx="23" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><circle cx="132" cy="395.0" r="5" fill="url(#accent)"/><text x="210.5" y="402" text-anchor="middle" font-size="20" font-weight="500" fill="#e6edf3">Open Source</text></g>
     <g><rect x="303" y="372" width="157" height="46" rx="23" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><circle cx="325" cy="395.0" r="5" fill="url(#accent)"/><text x="392.5" y="402" text-anchor="middle" font-size="20" font-weight="500" fill="#e6edf3">AI Agents</text></g>
     <g><rect x="474" y="372" width="278" height="46" rx="23" fill="#161b22" stroke="#30363d" stroke-width="1.5"/><circle cx="496" cy="395.0" r="5" fill="url(#accent)"/><text x="624.0" y="402" text-anchor="middle" font-size="20" font-weight="500" fill="#e6edf3">Developer Experience</text></g>
