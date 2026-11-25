@@ -28,6 +28,9 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://eddiejaoude.substack.com/feed"
+          # Substack returns 403 to the default `rss-parser` user agent from CI runners
+          user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36"
+          accept_header: "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
           max_post_count: 4
           date_format: "mmm d, yyyy"
           template: '- [$title]($url) ($date)$newline'
