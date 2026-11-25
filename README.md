@@ -90,6 +90,7 @@ More quick tips on AI agents and Open Source in my [YouTube Shorts](https://www.
 <li><a href="https://eddiejaoude.substack.com/p/how-to-win-a-hackathon-spoiler-its">How to win a hackathon (spoiler: it’s not your code)</a> (Nov 12, 2026)</li>
 <li><a href="https://eddiejaoude.substack.com/p/newsletter-v03-can-a-tools-dx-really">Newsletter v0.3: Can a tool&apos;s DX really improve my productivity?</a> (Jul 30, 2026)</li>
 <li><a href="https://eddiejaoude.substack.com/p/context-and-the-experience-is-everything-screen-recording-pro-video-recorder-launch">Newsletter v0.2: Context and the experience is everything!</a> (Mar 27, 2026)</li>
+<li><a href="https://eddiejaoude.substack.com/p/contributing-to-enterprise-open-source-github">Contributing to an Enterprise Open Source Project: Kestra</a> (Jul 10, 2025)</li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
