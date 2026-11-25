@@ -74,9 +74,9 @@
 
 <table>
 <tr>
-<!-- YOUTUBE-SHORTS-LIST:START --><td align="center" width="33%"><a href="https://www.youtube.com/shorts/xSUaMgD7cWk"><img width="120" src="https://i.ytimg.com/vi/xSUaMgD7cWk/oardefault.jpg" alt="Voice to manage all your agents"></a><br><a href="https://www.youtube.com/shorts/xSUaMgD7cWk">Voice to manage all your agents</a><br><sub>Aug 24, 2026</sub></td>
-<td align="center" width="33%"><a href="https://www.youtube.com/shorts/Bo69v3BOwOU"><img width="120" src="https://i.ytimg.com/vi/Bo69v3BOwOU/oardefault.jpg" alt="Will Claude AI replace developers?"></a><br><a href="https://www.youtube.com/shorts/Bo69v3BOwOU">Will Claude AI replace developers?</a><br><sub>Aug 17, 2026</sub></td>
-<td align="center" width="33%"><a href="https://www.youtube.com/shorts/9f_TApH4_6Q"><img width="120" src="https://i.ytimg.com/vi/9f_TApH4_6Q/oardefault.jpg" alt="Building with AI away from my computer using Orca + Claude"></a><br><a href="https://www.youtube.com/shorts/9f_TApH4_6Q">Building with AI away from my computer using Orca + Claude</a><br><sub>Jul 26, 2026</sub></td>
+<!-- YOUTUBE-SHORTS-LIST:START --><td align="center" width="33%"><a href="https://www.youtube.com/shorts/xSUaMgD7cWk"><img width="200" src="https://i.ytimg.com/vi/xSUaMgD7cWk/hqdefault.jpg" alt="Voice to manage all your agents"></a><br><a href="https://www.youtube.com/shorts/xSUaMgD7cWk">Voice to manage all your agents</a><br><sub>Aug 24, 2026</sub></td>
+<td align="center" width="33%"><a href="https://www.youtube.com/shorts/Bo69v3BOwOU"><img width="200" src="https://i.ytimg.com/vi/Bo69v3BOwOU/hqdefault.jpg" alt="Will Claude AI replace developers?"></a><br><a href="https://www.youtube.com/shorts/Bo69v3BOwOU">Will Claude AI replace developers?</a><br><sub>Aug 17, 2026</sub></td>
+<td align="center" width="33%"><a href="https://www.youtube.com/shorts/9f_TApH4_6Q"><img width="200" src="https://i.ytimg.com/vi/9f_TApH4_6Q/hqdefault.jpg" alt="Building with AI away from my computer using Orca + Claude"></a><br><a href="https://www.youtube.com/shorts/9f_TApH4_6Q">Building with AI away from my computer using Orca + Claude</a><br><sub>Jul 26, 2026</sub></td>
 <!-- YOUTUBE-SHORTS-LIST:END -->
 </tr>
 </table>

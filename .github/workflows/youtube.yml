@@ -28,12 +28,12 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           comment_tag_name: "YOUTUBE-SHORTS-LIST"
-          # Shorts only (UUSH playlist); oardefault is the vertical thumbnail
+          # Shorts only (UUSH playlist). hqdefault always exists; oardefault (vertical) 404s for some Shorts
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=UUSH5mnBodB73bR88fLXHSfzYA"
           max_post_count: 3
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<td align="center" width="33%"><a href="$url"><img width="120" src="https://i.ytimg.com/vi/$videoId/oardefault.jpg" alt="$title"></a><br><a href="$url">$title</a><br><sub>$date</sub></td>$newline'
+          template: '<td align="center" width="33%"><a href="$url"><img width="200" src="https://i.ytimg.com/vi/$videoId/hqdefault.jpg" alt="$title"></a><br><a href="$url">$title</a><br><sub>$date</sub></td>$newline'
           commit_message: "chore: update latest YouTube Shorts"
       - name: Substack
         # Substack blocks GitHub-hosted runner IPs (403 for the feed and API, any user agent),
