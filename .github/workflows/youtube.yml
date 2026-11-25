@@ -42,10 +42,11 @@ jobs:
           FEED: https://eddiejaoude.substack.com/feed
         run: |
           set -euo pipefail
-          # Only links on the Substack domain; title and link are HTML-escaped
+          # Only single-line https links on the Substack domain; titles have all whitespace (incl. newlines)
+          # collapsed so nothing can break out of the <ul> HTML block; title and link are HTML-escaped
           curl -fsS --retry 3 "https://api.rss2json.com/v1/api.json?rss_url=$(jq -rn --arg u "$FEED" '$u|@uri')" \
-            | jq -r '[.items[] | select(.link | startswith("https://eddiejaoude.substack.com/"))][:4][]
-                | "<li><a href=\"\(.link | @html)\">\(.title | @html)</a> (\(.pubDate | strptime("%Y-%m-%d %H:%M:%S") | strftime("%b %-d, %Y")))</li>"' \
+            | jq -r '[.items[] | select(.link | test("\\Ahttps://eddiejaoude\\.substack\\.com/\\S*\\z"))][:4][]
+                | "<li><a href=\"\(.link | @html)\">\(.title | gsub("\\s+"; " ") | @html)</a> (\(.pubDate | strptime("%Y-%m-%d %H:%M:%S") | strftime("%b %-d, %Y")))</li>"' \
             > "$RUNNER_TEMP/posts.html"
           [ -s "$RUNNER_TEMP/posts.html" ] || { echo "::error::no posts returned for $FEED"; exit 1; }
           # Fails (leaving README untouched) unless exactly one START/END marker pair is present, in order
