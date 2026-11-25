@@ -24,14 +24,24 @@ jobs:
           template: '<tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="$title"></a></td>$newline<td><a href="$url">$title</a> ($date)</td></tr>$newline'
           commit_message: "chore: update latest YouTube videos"
       - name: Substack
-        uses: gautamkrishnar/blog-post-workflow@1.9.7
-        with:
-          comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://eddiejaoude.substack.com/feed"
-          # Substack returns 403 to the default `rss-parser` user agent from CI runners
-          user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36"
-          accept_header: "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
-          max_post_count: 4
-          date_format: "mmm d, yyyy"
-          template: '- [$title]($url) ($date)$newline'
-          commit_message: "chore: update latest blog posts"
+        # Substack blocks GitHub-hosted runner IPs (403 for the feed and API, any user agent),
+        # so the feed is fetched through the rss2json proxy instead of blog-post-workflow.
+        env:
+          FEED: https://eddiejaoude.substack.com/feed
+        run: |
+          set -euo pipefail
+          curl -fsS --retry 3 "https://api.rss2json.com/v1/api.json?rss_url=$(jq -rn --arg u "$FEED" '$u|@uri')" \
+            | jq -r '.items[:4][] | "- [\(.title | gsub("(?<c>[\\[\\]])"; "\\\(.c)"))](\(.link)) (\(.pubDate | strptime("%Y-%m-%d %H:%M:%S") | strftime("%b %-d, %Y")))"' \
+            > "$RUNNER_TEMP/posts.md"
+          [ -s "$RUNNER_TEMP/posts.md" ] || { echo "::error::no posts returned for $FEED"; exit 1; }
+          awk -v posts="$RUNNER_TEMP/posts.md" '
+            /<!-- BLOG-POST-LIST:START -->/ { print; while ((getline line < posts) > 0) print line; skip = 1; next }
+            /<!-- BLOG-POST-LIST:END -->/ { skip = 0 }
+            !skip
+          ' README.md > "$RUNNER_TEMP/README.md"
+          mv "$RUNNER_TEMP/README.md" README.md
+          if git diff --quiet -- README.md; then echo "No change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update latest blog posts" -- README.md
+          git push
