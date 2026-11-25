@@ -2,26 +2,23 @@
   "name": "eddiejaoude",
   "version": "1.0.0",
   "description": "GitHub profile for Eddie Jaoude",
-  "main": "index.js",
   "scripts": {
     "marked": "npx marked -i README.md -o index.html",
-    "start": "npx serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx serve"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eddiejaoude/eddiejaoude.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Eddie Jaoude",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eddiejaoude/eddiejaoude/issues"
   },
   "homepage": "https://github.com/eddiejaoude/eddiejaoude#readme",
   "devDependencies": {
-    "marked": "^4.0.7",
-    "nodemon": "^2.0.15",
-    "serve": "^13.0.2"
+    "marked": "^18.3.0",
+    "serve": "^14.2.6"
   }
 }
