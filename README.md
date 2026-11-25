@@ -24,7 +24,7 @@
 - 💼 **Senior Developer Advocate at PayPal**: helping developers build with [@paypaldev](https://github.com/paypaldev) and [developer.paypal.com](https://developer.paypal.com/)
 - 🤖 **Building with AI agents**: Claude, Orca, voice-controlled agents and MCP servers, all shared on [YouTube](https://www.youtube.com/@eddiejaoude)
 - ✍️ **Writing [Eddie's Log](https://eddiejaoude.substack.com)**: Open Source, developer experience, hackathons and building SaaS with AI
-- 📸 **FREE course**: [How to make your GitHub profile stand out](https://www.udemy.com/course/make-your-github-profile-stand-out/)
+- 📸 **FREE course**: [How to make your GitHub profile stand out](https://www.udemy.com/course/make-your-github-profile-stand-out/) (9k+ students, rated 4.4★)
 - 🌍 Digital nomad 🇬🇧🇵🇹🇹🇭, based in London
 
 ## 🏆 Recognition
@@ -55,8 +55,6 @@
 | [awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) | Showcased the community's GitHub profiles (archived) | 1.5k★ |
 | [open-source-practice](https://github.com/EddieHubCommunity/open-source-practice) | Helped people practise their first Open Source contribution (archived) | 721★ |
 | [good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) | Helped people find good first issues to contribute to (archived) | 631★ |
-| [YouTube](https://www.youtube.com/@eddiejaoude) | Open Source, GitHub and AI tutorials | 46.2K subscribers |
-| [GitHub](https://github.com/eddiejaoude) | Sharing Open Source in public | 8.7k followers |
 
 ### 🎥 Latest YouTube videos
 
@@ -74,9 +72,8 @@
 
 <table>
 <tr>
-<!-- YOUTUBE-SHORTS-LIST:START --><td align="center" width="33%"><a href="https://www.youtube.com/shorts/xSUaMgD7cWk"><img width="200" src="https://i.ytimg.com/vi/xSUaMgD7cWk/hqdefault.jpg" alt="Voice to manage all your agents"></a><br><a href="https://www.youtube.com/shorts/xSUaMgD7cWk">Voice to manage all your agents</a><br><sub>Aug 24, 2026</sub></td>
-<td align="center" width="33%"><a href="https://www.youtube.com/shorts/Bo69v3BOwOU"><img width="200" src="https://i.ytimg.com/vi/Bo69v3BOwOU/hqdefault.jpg" alt="Will Claude AI replace developers?"></a><br><a href="https://www.youtube.com/shorts/Bo69v3BOwOU">Will Claude AI replace developers?</a><br><sub>Aug 17, 2026</sub></td>
-<td align="center" width="33%"><a href="https://www.youtube.com/shorts/9f_TApH4_6Q"><img width="200" src="https://i.ytimg.com/vi/9f_TApH4_6Q/hqdefault.jpg" alt="Building with AI away from my computer using Orca + Claude"></a><br><a href="https://www.youtube.com/shorts/9f_TApH4_6Q">Building with AI away from my computer using Orca + Claude</a><br><sub>Jul 26, 2026</sub></td>
+<!-- YOUTUBE-SHORTS-LIST:START --><td align="center" width="33%"><a href="https://www.youtube.com/shorts/xSUaMgD7cWk"><img width="120" src="https://i.ytimg.com/vi/xSUaMgD7cWk/oar2.jpg" alt="Voice to manage all your agents"></a><br><a href="https://www.youtube.com/shorts/xSUaMgD7cWk">Voice to manage all your agents</a><br><sub>Aug 24, 2026</sub></td>
+<td align="center" width="33%"><a href="https://www.youtube.com/shorts/Bo69v3BOwOU"><img width="120" src="https://i.ytimg.com/vi/Bo69v3BOwOU/oar2.jpg" alt="Will Claude AI replace developers?"></a><br><a href="https://www.youtube.com/shorts/Bo69v3BOwOU">Will Claude AI replace developers?</a><br><sub>Aug 17, 2026</sub></td>
 <!-- YOUTUBE-SHORTS-LIST:END -->
 </tr>
 </table>
@@ -117,11 +114,11 @@ More quick tips on AI agents and Open Source in my [YouTube Shorts](https://www.
 A huge thank you to my sponsors for supporting my Open Source work 🙏
 
 <p>
-  <a href="https://github.com/typesense"><img src="https://github.com/typesense.png?size=60" width="60" alt="typesense"></a>
-  <a href="https://github.com/Flolight"><img src="https://github.com/Flolight.png?size=60" width="60" alt="Flolight"></a>
-  <a href="https://github.com/praveenscience"><img src="https://github.com/praveenscience.png?size=60" width="60" alt="praveenscience"></a>
-  <a href="https://github.com/Sam-Rowe"><img src="https://github.com/Sam-Rowe.png?size=60" width="60" alt="Sam-Rowe"></a>
-  <a href="https://github.com/CalvinWilkinson"><img src="https://github.com/CalvinWilkinson.png?size=60" width="60" alt="CalvinWilkinson"></a>
+  <a href="https://github.com/typesense"><img src="https://github.com/typesense.png?size=120" width="60" alt="typesense"></a>
+  <a href="https://github.com/Flolight"><img src="https://github.com/Flolight.png?size=120" width="60" alt="Flolight"></a>
+  <a href="https://github.com/praveenscience"><img src="https://github.com/praveenscience.png?size=120" width="60" alt="praveenscience"></a>
+  <a href="https://github.com/Sam-Rowe"><img src="https://github.com/Sam-Rowe.png?size=120" width="60" alt="Sam-Rowe"></a>
+  <a href="https://github.com/CalvinWilkinson"><img src="https://github.com/CalvinWilkinson.png?size=120" width="60" alt="CalvinWilkinson"></a>
 </p>
 
 💖 **[Become a sponsor](https://github.com/sponsors/eddiejaoude)** and help me keep making Open Source content for EVERYONE.
