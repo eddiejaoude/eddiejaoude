@@ -65,6 +65,8 @@
 <td><a href="https://www.youtube.com/watch?v=VS2a_0Cp4A4">Optimize your Postgres with pg-aiguide MCP server</a> (Feb 6, 2026)</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o"><img width="140px" src="https://i.ytimg.com/vi/EaNsGFBf97o/mqdefault.jpg" alt="Monitor your website with the Open Source project Kestra"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o">Monitor your website with the Open Source project Kestra</a> (Aug 14, 2025)</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI"><img width="140px" src="https://i.ytimg.com/vi/Qa0ZgJJjJVI/mqdefault.jpg" alt="How to contribute to Open Source? Full example on the Kestra GitHub Repo"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI">How to contribute to Open Source? Full example on the Kestra GitHub Repo</a> (Jun 29, 2025)</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
