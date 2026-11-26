@@ -27,6 +27,8 @@ jobs:
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
           dummy_commit_message: "chore: keep repository active so scheduled README updates keep running"
+          # The only keepalive in this workflow: GitHub disables cron after 60 days without repo activity
+          enable_keepalive: true
           retry_count: 3
           retry_wait_time: 5
       - name: YouTube Shorts
@@ -39,10 +41,11 @@ jobs:
           max_post_count: 3
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<td align="center" width="33%"><a href="$url"><img width="120" src="https://i.ytimg.com/vi/$videoId/oar2.jpg" alt="$title"></a><br><a href="$url">$title</a><br><sub>$date</sub></td>$newline'
+          template: '<td align="center" valign="top" width="33%"><a href="$url"><img width="120" src="https://i.ytimg.com/vi/$videoId/oar2.jpg" alt="$title"></a><br><a href="$url">$title</a><br><sub>$date</sub></td>$newline'
           commit_message: "chore: update latest YouTube Shorts"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          # Keepalive runs once, on the "YouTube videos" step above
           enable_keepalive: false
           retry_count: 3
           retry_wait_time: 5

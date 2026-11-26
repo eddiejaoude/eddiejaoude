@@ -45,7 +45,7 @@
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="106" y="136" font-size="88" font-weight="800" letter-spacing="-1" fill="#1f2328">Eddie Jaoude</text>
     <rect x="110" y="160" width="120" height="6" rx="3" fill="url(#accent)"/>
-    <text x="110" y="228" font-size="44" font-weight="600" fill="#424a53">Senior Developer Advocate <tspan fill="url(#accent)" font-weight="700">@ PayPal</tspan></text>
+    <text x="110" y="228" font-size="44" font-weight="600" fill="#424a53">Senior Developer Advocate <tspan fill="#db2777" font-weight="700">@ PayPal</tspan></text>
     <polygon points="126.0,256.5 130.0,266.0 140.3,266.9 132.5,273.6 134.8,283.6 126.0,278.3 117.2,283.6 119.5,273.6 111.7,266.9 122.0,266.0" fill="url(#accent)"/>
     <text x="152" y="282" font-size="30" font-weight="500" fill="#59636e">GitHub Star of the Year 2020  &#183;  GitHub Top Teacher</text>
     <g><rect x="110" y="314" width="250" height="56" rx="28" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/><circle cx="136" cy="342" r="6" fill="url(#accent)"/><text x="156" y="351.5" font-size="27" font-weight="500" fill="#1f2328">Open Source</text></g>
