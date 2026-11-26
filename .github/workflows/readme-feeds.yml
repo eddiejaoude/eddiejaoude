@@ -21,8 +21,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF5mnBodB73bR88fLXHSfzYA"
           max_post_count: 3
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
-          template: '<tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="$title"></a></td>$newline<td><a href="$url">$title</a> ($date)</td></tr>$newline'
+          template: '<tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="$title"></a></td>$newline<td><a href="$url">$title</a></td></tr>$newline'
           commit_message: "chore: update latest YouTube videos"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
@@ -40,8 +39,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=UUSH5mnBodB73bR88fLXHSfzYA"
           max_post_count: 3
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
-          template: '<td align="center" valign="top" width="33%"><a href="$url"><img width="120" src="https://i.ytimg.com/vi/$videoId/oar2.jpg" alt="$title"></a><br><a href="$url">$title</a><br><sub>$date</sub></td>$newline'
+          template: '<td align="center" valign="top" width="33%"><a href="$url"><img width="120" src="https://i.ytimg.com/vi/$videoId/oar2.jpg" alt="$title"></a><br><a href="$url">$title</a></td>$newline'
           commit_message: "chore: update latest YouTube Shorts"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
@@ -61,7 +59,7 @@ jobs:
           # collapsed so nothing can break out of the <ul> HTML block; title and link are HTML-escaped
           curl -fsS --retry 3 "https://api.rss2json.com/v1/api.json?rss_url=$(jq -rn --arg u "$FEED" '$u|@uri')" \
             | jq -r '[.items[] | select(.link | test("\\Ahttps://eddiejaoude\\.substack\\.com/\\S*\\z"))][:4][]
-                | "<li><a href=\"\(.link | @html)\">\(.title | gsub("\\s+"; " ") | @html)</a> (\(.pubDate | strptime("%Y-%m-%d %H:%M:%S") | strftime("%b %-d, %Y")))</li>"' \
+                | "<li><a href=\"\(.link | @html)\">\(.title | gsub("\\s+"; " ") | @html)</a></li>"' \
             > "$RUNNER_TEMP/posts.html"
           [ -s "$RUNNER_TEMP/posts.html" ] || { echo "::error::no posts returned for $FEED"; exit 1; }
           # Fails (leaving README untouched) unless exactly one START/END marker pair is present, in order
