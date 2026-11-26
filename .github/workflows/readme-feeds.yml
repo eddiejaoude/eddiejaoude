@@ -1,0 +1,77 @@
+name: Update README feeds
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  feeds:
+    name: Update latest YouTube videos and blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
+          # Long-form uploads only (UULF playlist); Shorts get their own step below
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF5mnBodB73bR88fLXHSfzYA"
+          max_post_count: 3
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          template: '<tr><td width="30%"><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="$title"></a></td>$newline<td><a href="$url">$title</a></td></tr>$newline'
+          commit_message: "chore: update latest YouTube videos"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          dummy_commit_message: "chore: keep repository active so scheduled README updates keep running"
+          # The only keepalive in this workflow: GitHub disables cron after 60 days without repo activity
+          enable_keepalive: true
+          retry_count: 3
+          retry_wait_time: 5
+      - name: YouTube Shorts
+        if: ${{ !cancelled() }}
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          comment_tag_name: "YOUTUBE-SHORTS-LIST"
+          # Shorts only (UUSH playlist). oar2 is the vertical (9:16) thumbnail; oardefault 404s for some Shorts
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=UUSH5mnBodB73bR88fLXHSfzYA"
+          max_post_count: 3
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          template: '<td align="center" valign="top" width="33%"><a href="$url"><img width="120" src="https://i.ytimg.com/vi/$videoId/oar2.jpg" alt="$title"></a><br><a href="$url">$title</a></td>$newline'
+          commit_message: "chore: update latest YouTube Shorts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          # Keepalive runs once, on the "YouTube videos" step above
+          enable_keepalive: false
+          retry_count: 3
+          retry_wait_time: 5
+      - name: Substack
+        if: ${{ !cancelled() }}
+        # Substack blocks GitHub-hosted runner IPs (403 for the feed and API, any user agent),
+        # so the feed is fetched through the rss2json proxy instead of blog-post-workflow.
+        env:
+          FEED: https://eddiejaoude.substack.com/feed
+        run: |
+          set -euo pipefail
+          # Only single-line https links on the Substack domain; titles have all whitespace (incl. newlines)
+          # collapsed so nothing can break out of the <ul> HTML block; title and link are HTML-escaped
+          curl -fsS --retry 3 "https://api.rss2json.com/v1/api.json?rss_url=$(jq -rn --arg u "$FEED" '$u|@uri')" \
+            | jq -r '[.items[] | select(.link | test("\\Ahttps://eddiejaoude\\.substack\\.com/\\S*\\z"))][:4][]
+                | "<li><a href=\"\(.link | @html)\">\(.title | gsub("\\s+"; " ") | @html)</a></li>"' \
+            > "$RUNNER_TEMP/posts.html"
+          [ -s "$RUNNER_TEMP/posts.html" ] || { echo "::error::no posts returned for $FEED"; exit 1; }
+          # Fails (leaving README untouched) unless exactly one START/END marker pair is present, in order
+          awk -v posts="$RUNNER_TEMP/posts.html" '
+            /<!-- BLOG-POST-LIST:START -->/ { if (seen) bad = 1; print; while ((getline line < posts) > 0) print line; skip = 1; seen = 1; next }
+            /<!-- BLOG-POST-LIST:END -->/ { if (!skip) bad = 1; skip = 0 }
+            !skip
+            END { if (!seen || skip || bad) { print "::error::BLOG-POST-LIST markers missing or unbalanced in README.md" > "/dev/stderr"; exit 1 } }
+          ' README.md > "$RUNNER_TEMP/README.md"
+          mv "$RUNNER_TEMP/README.md" README.md
+          if git diff --quiet -- README.md; then echo "No change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update latest blog posts" -- README.md
+          git push
