@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-dark.svg" alt="Eddie Jaoude, Senior Developer Advocate at PayPal and GitHub Star of the Year 2020">
+    <img src="assets/banner-dark.svg" alt="Eddie Jaoude, Senior Developer Advocate at PayPal. GitHub Star of the Year 2020, GitHub Top Teacher and Community Growth Awards. Fullstack Engineer, Open Source, AI Agents, Developer Experience, Content Creator.">
   </picture>
 </a>
 
@@ -51,11 +51,11 @@
 ### 🎥 Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=VS2a_0Cp4A4"><img width="140px" src="https://i.ytimg.com/vi/VS2a_0Cp4A4/mqdefault.jpg" alt="Optimize your Postgres with pg-aiguide MCP server"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td width="30%"><a href="https://www.youtube.com/watch?v=VS2a_0Cp4A4"><img width="140px" src="https://i.ytimg.com/vi/VS2a_0Cp4A4/mqdefault.jpg" alt="Optimize your Postgres with pg-aiguide MCP server"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VS2a_0Cp4A4">Optimize your Postgres with pg-aiguide MCP server</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o"><img width="140px" src="https://i.ytimg.com/vi/EaNsGFBf97o/mqdefault.jpg" alt="Monitor your website with the Open Source project Kestra"></a></td>
+<tr><td width="30%"><a href="https://www.youtube.com/watch?v=EaNsGFBf97o"><img width="140px" src="https://i.ytimg.com/vi/EaNsGFBf97o/mqdefault.jpg" alt="Monitor your website with the Open Source project Kestra"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EaNsGFBf97o">Monitor your website with the Open Source project Kestra</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI"><img width="140px" src="https://i.ytimg.com/vi/Qa0ZgJJjJVI/mqdefault.jpg" alt="How to contribute to Open Source? Full example on the Kestra GitHub Repo"></a></td>
+<tr><td width="30%"><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI"><img width="140px" src="https://i.ytimg.com/vi/Qa0ZgJJjJVI/mqdefault.jpg" alt="How to contribute to Open Source? Full example on the Kestra GitHub Repo"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Qa0ZgJJjJVI">How to contribute to Open Source? Full example on the Kestra GitHub Repo</a></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
